@@ -75,3 +75,23 @@ notre logo est décidé : Unseen
 les couleurs sont à définir
 
 pour illustrer le site : 2 pièces de puzzle qui s'emboiteraient quand il s'agira de parler des métiers hybride.
+
+## A FAIRE
+
+- [ ] rédiger chacun nos propres présentations
+
+- [ ] contact : numéro, mail, linkedin git-hub et nos propres sites
+    
+### zoning :
+        - [ ] landing page
+        - [ ] page des rubriques
+        - [ ] page d'un article
+        - [ ] page de contact
+        - [ ] page d'à propos de nous
+
+### wireframe
+        - [ ] landing page
+        - [ ] page des rubriques
+        - [ ] page d'un article
+        - [ ] page de contact
+        - [ ] page d'à propos de nous
