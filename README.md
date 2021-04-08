@@ -66,8 +66,6 @@ Nathan, Williams, Gaël, Paule, Adrien et Nicolas
 
 les articles de la section **vision hybride** : 
 Chloé, Tiavina, Jean-Baptiste, Romain, Adam, Hervé et Luc
-<<<<<<< HEAD
-=======
 
 ## 08/04/21 13h30 
 
@@ -76,5 +74,4 @@ notre logo est décidé : Unseen
 
 les couleurs sont à définir
 
-pour illustrer le site : 2 pièces de puzzle qui s'emboiteraient quand il s'agira de parler des métiers hybrides
->>>>>>> nico
+pour illustrer le site : 2 pièces de puzzle qui s'emboiteraient quand il s'agira de parler des métiers hybride.
