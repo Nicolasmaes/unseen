@@ -37,10 +37,15 @@
         (link into : LOGICAL MIND )
 
                                             /* LOGICAL MIND */
-                                Métier n°1 ( link into : métier créatif_1 )   -->  /* LOGICAL MIND JOB_1 */
-                                Métier n°2 ( link into : métier créatif_2 )   -->   /* LOGICAL MIND JOB_2 */
+                                Métier n°1 ( link into : métier logique_1 )   -->  /* LOGICAL MIND JOB_1 */
+                                Métier n°2 ( link into : métier logique_2 )   -->   /* LOGICAL MIND JOB_2 */
 
+            VISION HYBRIDE
+        (link into : HYBRID MIND )
 
+                                            /* HYBRID MIND */
+                                Métier n°1 ( link into : métier hybride_1 )   -->  /* LOGICAL MIND JOB_1 */
+                                Métier n°2 ( link into : métier hybride_2 )   -->   /* LOGICAL MIND JOB_2 */
                                 
 
 /* ABOUT US */
@@ -53,7 +58,7 @@
 
 /* CONTACT US /*
 
-    réseaux, adresses mails etc ...
+    numéro, mail, linkedin git-hub et nos propres sites
 
     
 ## 07/04/21 19h52
@@ -69,12 +74,12 @@ Chloé, Tiavina, Jean-Baptiste, Romain, Adam, Hervé et Luc
 
 ## 08/04/21 13h30 
 
-dessiner un cercle de type pinceau qui serait en background avec transparence sur la page d'accueil
+- [ ] dessiner un cercle de type pinceau qui serait en background avec transparence sur la page d'accueil
 notre logo est décidé : Unseen
 
-les couleurs sont à définir
+- [ ] les couleurs sont à définir
 
-pour illustrer le site : 2 pièces de puzzle qui s'emboiteraient quand il s'agira de parler des métiers hybride.
+- [ ] pour illustrer le site : 2 pièces de puzzle qui s'emboiteraient quand il s'agira de parler des métiers hybride.
 
 ## A FAIRE
 
