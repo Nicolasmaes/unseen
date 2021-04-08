@@ -86,6 +86,28 @@ notre logo est décidé : Unseen
 - [ ] rédiger chacun nos propres présentations
 
 - [ ] contact : numéro, mail, linkedin git-hub et nos propres sites
+
+- [ ] s'approprier les articles en HTML
+   
+    NICOLAS
+    - [ ] Nathan
+    - [ ] Chloé
+    - [ ] Tiavina
+    - [ ] Nicolas
+    - [ ] Etienne
+    - [ ] Karina
+    - [ ] Williams
+    - [ ] Jean-Baptiste
+
+    LUC
+    - [ ] Sonia
+    - [ ] Romain
+    - [ ] Gael
+    - [ ] Paul
+    - [ ] Adam
+    - [ ] Hervé
+    - [ ] Adrien
+    - [ ] Luc
     
 ### zoning :
 - [ ] landing page
