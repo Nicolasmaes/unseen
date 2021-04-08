@@ -83,15 +83,15 @@ pour illustrer le site : 2 pièces de puzzle qui s'emboiteraient quand il s'agir
 - [ ] contact : numéro, mail, linkedin git-hub et nos propres sites
     
 ### zoning :
-        - [ ] landing page
-        - [ ] page des rubriques
-        - [ ] page d'un article
-        - [ ] page de contact
-        - [ ] page d'à propos de nous
+- [ ] landing page
+- [ ] page des rubriques
+- [ ] page d'un article
+- [ ] page de contact
+- [ ] page d'à propos de nous
 
 ### wireframe
-        - [ ] landing page
-        - [ ] page des rubriques
-        - [ ] page d'un article
-        - [ ] page de contact
-        - [ ] page d'à propos de nous
+- [ ] landing page
+- [ ] page des rubriques
+- [ ] page d'un article
+- [ ] page de contact
+- [ ] page d'à propos de nous
