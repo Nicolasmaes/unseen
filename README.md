@@ -66,4 +66,3 @@ Nathan, Williams, Gaël, Paule, Adrien et Nicolas
 
 les articles de la section **vision hybride** : 
 Chloé, Tiavina, Jean-Baptiste, Romain, Adam, Hervé et Luc
-
