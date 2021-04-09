@@ -90,24 +90,24 @@ notre logo est décidé : Unseen
 - [ ] s'approprier les articles en HTML
    
     NICOLAS
-    - [ ] Nathan
-    - [ ] Chloé
+    - [ ] Nathan https://promo-68.codeur.online/blog/index.php/2021/04/02/quest-ce-que-le-metier-de-chef-de-projet/
+    - [ ] Chloé https://promo-68.codeur.online/blog/index.php/2021/04/02/metier-developpeur-web/
     - [ ] Tiavina
-    - [ ] Nicolas
-    - [ ] Etienne
-    - [ ] Karina
-    - [ ] Williams
-    - [ ] Jean-Baptiste
+    - [ ] Nicolas https://promo-68.codeur.online/blog/index.php/2021/04/02/la-popularite-des-langages/
+    - [ ] Etienne https://promo-68.codeur.online/blog/index.php/2021/04/02/metier-redacteur-du-web/
+    - [ ] Karina https://promo-68.codeur.online/blog/index.php/2021/04/02/le-metier-de-redacteur-web/
+    - [ ] Williams https://promo-68.codeur.online/blog/index.php/2021/04/02/le-pentesteur-le-corsaire-des-hackers/
+    - [ ] Jean-Baptiste https://promo-68.codeur.online/blog/index.php/2021/04/02/les-agences-de-communication/
 
     LUC
-    - [ ] Sonia
-    - [ ] Romain
-    - [ ] Gael
-    - [ ] Paul
-    - [ ] Adam
-    - [ ] Hervé
-    - [ ] Adrien
-    - [ ] Luc
+    - [ ] Sonia https://promo-68.codeur.online/blog/index.php/2021/04/02/graphiste-un-metier-creatif/
+    - [ ] Romain https://promo-68.codeur.online/blog/index.php/2021/04/02/les-differences-des-metiers-du-web-roles-et-missions-en-fonction-de-la-structure/
+    - [ ] Gael https://promo-68.codeur.online/blog/index.php/2021/04/02/lanalyste-test-et-validation/
+    - [ ] Paule https://promo-68.codeur.online/blog/index.php/2021/04/02/le-metier-de-directeur-commercial/
+    - [ ] Adam https://promo-68.codeur.online/blog/index.php/2021/04/02/web-designer-quest-ce-que-cest/
+    - [ ] Hervé https://promo-68.codeur.online/blog/index.php/2021/04/02/le-metier-de-comunity-manager/
+    - [ ] Adrien https://promo-68.codeur.online/blog/index.php/2021/04/02/les-metiers-de-la-cryptographie/
+    - [ ] Luc https://promo-68.codeur.online/blog/index.php/2021/04/02/devops/
     
 ### zoning :
 - [ ] landing page
@@ -122,3 +122,7 @@ notre logo est décidé : Unseen
 - [ ] page d'un article
 - [ ] page de contact
 - [ ] page d'à propos de nous
+
+### maquette
+- [ ] version mobile
+- [ ] version desktop
