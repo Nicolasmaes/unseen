@@ -7,7 +7,7 @@
     <meta name="Présentation des métiers du web" content="Site internet regroupant les articles concernant les métiers du web, rédigés par la promo 68 de l'Access Code School">
     <link rel="stylesheet" href="style.css">
  <link rel="shortcut icon" href="source" type="image/x-icon">
-    <title>Landing page</title>
+    <title>Article</title>
 </head>
 <body>
 

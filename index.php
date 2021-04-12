@@ -12,8 +12,11 @@ Ces articles ont été rédigés par la promo 68 de l'Access Code School (lien v
 Envie d'en savoir plus ?
 Par ici(lien article)</p>
 
-
-
+<a href="pages/nicolas.php">nicolas</a>
+<a href="pages/nathan.php">nathan</a>
+<a href="pages/chloe.php">chloé</a>
+<a href="pages/etienne.php">etienne</a>
+<a href="pages/karina.php">karina</a>
 
 
 <?php include 'includes/footer.php';?>

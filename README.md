@@ -11,44 +11,49 @@
 
 
     MENU 
-    a propos de nous / articles / nous contacter
+    articles / à propos / contact
 
     CONTENU PRINCIPAL
-    Bienvenue,
+Unseen <!--logo à insérer-->,signifiant invisible, est né de la volonté de mettre en lumière les différents métiers du numérique.
 
-    Vous êtes sur le site de vulgarisation des metier du web, vous trouverez ici ...
-    Tu souhaite en voir plus ? par ici (link into : articles)
+En effet, combien d'entre nous naviguent quotidiennement sur le web sans pour autant en connaître les rouages ?
+Il existe pourtant un grand nombre d'acteurs oeuvrant dans un but commun; la création d'environnements attrayants et fonctionnels.
 
+Vous trouverez ici divers articles traitant du monde digital.
+Ils ont été rédigés par la promo 68 de l'Access Code School de Dijon, en 2021.
+
+Envie d'en savoir plus ?
+<a href="">Par ici</a>
 
 
 /* ARTICLES */
 
 
-            ESPRITS CREATIFS
-        ( link into : CREATIVE MIND )
+            ASPECT CREATIF
+        ( lien )
 
-                                             /* CREATIVE MIND */
+                                             /* ASPECT CREATIF */
                                 Métier n°1 ( link into : métier créatif_1 )  -->  /* CREATIVE MIND JOB_1 */
                                 Métier n°2 ( link into : métier créatif_2 )  -->  /* CREATIVE MIND JOB_2 */
 
 
 
-            ESPRITS LOGIQUE
-        (link into : LOGICAL MIND )
+            ASPECT LOGIQUE
+        (lien )
 
-                                            /* LOGICAL MIND */
+                                            /* ASPECT LOGIQUE */
                                 Métier n°1 ( link into : métier logique_1 )   -->  /* LOGICAL MIND JOB_1 */
                                 Métier n°2 ( link into : métier logique_2 )   -->   /* LOGICAL MIND JOB_2 */
 
             VISION HYBRIDE
-        (link into : HYBRID MIND )
+        (lien )
 
-                                            /* HYBRID MIND */
+                                            /* VISION HYBRIDE */
                                 Métier n°1 ( link into : métier hybride_1 )   -->  /* LOGICAL MIND JOB_1 */
                                 Métier n°2 ( link into : métier hybride_2 )   -->   /* LOGICAL MIND JOB_2 */
                                 
 
-/* ABOUT US */
+/*  A PROPOS */
 
     PRESENTATION
     Jeune développeur, actuellement en formation a l'acess code school ...
@@ -56,9 +61,9 @@
 
 
 
-/* CONTACT US /*
+/* CONTACT /*
 
-    numéro, mail, linkedin git-hub et nos propres sites
+    numéro, mail, GitHub et nos propres sites
 
     
 ## 07/04/21 19h52
@@ -77,9 +82,8 @@ Chloé, Tiavina, Jean-Baptiste, Romain, Adam, Hervé et Luc
 - [ ] dessiner un cercle de type pinceau qui serait en background avec transparence sur la page d'accueil
 notre logo est décidé : Unseen
 
-- [ ] les couleurs sont à définir
-
-- [ ] pour illustrer le site : 2 pièces de puzzle qui s'emboiteraient quand il s'agira de parler des métiers hybride.
+- [X] les couleurs sont définies #60D8E5 et #36E552, couleur du milieu #4BDF9C.
+les h2 et h3 seront de la couleurs de chaque catégories, et les h1 en noir.
 
 ## A FAIRE
 
@@ -90,27 +94,27 @@ notre logo est décidé : Unseen
 - [ ] s'approprier les articles en HTML
    
     NICOLAS
-    - [ ] Nathan https://promo-68.codeur.online/blog/index.php/2021/04/02/quest-ce-que-le-metier-de-chef-de-projet/
-    - [ ] Chloé https://promo-68.codeur.online/blog/index.php/2021/04/02/metier-developpeur-web/
+    - [X] Nathan https://promo-68.codeur.online/blog/index.php/2021/04/02/quest-ce-que-le-metier-de-chef-de-projet/
+    - [X] Chloé https://promo-68.codeur.online/blog/index.php/2021/04/02/metier-developpeur-web/
     - [ ] Tiavina
-    - [ ] Nicolas https://promo-68.codeur.online/blog/index.php/2021/04/02/la-popularite-des-langages/
-    - [ ] Etienne https://promo-68.codeur.online/blog/index.php/2021/04/02/metier-redacteur-du-web/
+    - [X] Nicolas https://promo-68.codeur.online/blog/index.php/2021/04/02/la-popularite-des-langages/
+    - [X] Etienne https://promo-68.codeur.online/blog/index.php/2021/04/02/metier-redacteur-du-web/
     - [ ] Karina https://promo-68.codeur.online/blog/index.php/2021/04/02/le-metier-de-redacteur-web/
     - [ ] Williams https://promo-68.codeur.online/blog/index.php/2021/04/02/le-pentesteur-le-corsaire-des-hackers/
     - [ ] Jean-Baptiste https://promo-68.codeur.online/blog/index.php/2021/04/02/les-agences-de-communication/
 
     LUC
-    - [ ] Sonia https://promo-68.codeur.online/blog/index.php/2021/04/02/graphiste-un-metier-creatif/
-    - [ ] Romain https://promo-68.codeur.online/blog/index.php/2021/04/02/les-differences-des-metiers-du-web-roles-et-missions-en-fonction-de-la-structure/
-    - [ ] Gael https://promo-68.codeur.online/blog/index.php/2021/04/02/lanalyste-test-et-validation/
-    - [ ] Paule https://promo-68.codeur.online/blog/index.php/2021/04/02/le-metier-de-directeur-commercial/
-    - [ ] Adam https://promo-68.codeur.online/blog/index.php/2021/04/02/web-designer-quest-ce-que-cest/
-    - [ ] Hervé https://promo-68.codeur.online/blog/index.php/2021/04/02/le-metier-de-comunity-manager/
-    - [ ] Adrien https://promo-68.codeur.online/blog/index.php/2021/04/02/les-metiers-de-la-cryptographie/
-    - [ ] Luc https://promo-68.codeur.online/blog/index.php/2021/04/02/devops/
+    - [X] Sonia https://promo-68.codeur.online/blog/index.php/2021/04/02/graphiste-un-metier-creatif/
+    - [X] Romain https://promo-68.codeur.online/blog/index.php/2021/04/02/les-differences-des-metiers-du-web-roles-et-missions-en-fonction-de-la-structure/
+    - [X] Gael https://promo-68.codeur.online/blog/index.php/2021/04/02/lanalyste-test-et-validation/
+    - [X] Paule https://promo-68.codeur.online/blog/index.php/2021/04/02/le-metier-de-directeur-commercial/
+    - [X] Adam https://promo-68.codeur.online/blog/index.php/2021/04/02/web-designer-quest-ce-que-cest/
+    - [X] Hervé https://promo-68.codeur.online/blog/index.php/2021/04/02/le-metier-de-comunity-manager/
+    - [X] Adrien https://promo-68.codeur.online/blog/index.php/2021/04/02/les-metiers-de-la-cryptographie/
+    - [X] Luc https://promo-68.codeur.online/blog/index.php/2021/04/02/devops/
     
-### zoning :
-- [ ] landing page
+### zoning
+- [X] landing page
 - [ ] page des rubriques
 - [ ] page d'un article
 - [ ] page de contact
@@ -126,3 +130,8 @@ notre logo est décidé : Unseen
 ### maquette
 - [ ] version mobile
 - [ ] version desktop
+
+## 12/04/21
+
+idée pour faire défiler les articles : un carousel ?
+- rédaction de la landing page terminée

@@ -7,7 +7,7 @@
     <meta name="Aspect logique" content="Page web décrivant les métiers qui requiert un aspect logique">
     <link rel="stylesheet" href="style.css">
  <link rel="shortcut icon" href="source" type="image/x-icon">
-    <title>Aspect logique</title>
+    <title>A propos de nous</title>
 </head>
 <body>
 

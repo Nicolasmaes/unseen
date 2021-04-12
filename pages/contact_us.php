@@ -7,7 +7,7 @@
     <meta name="Page de contact" content="page web contenant nos ">
     <link rel="stylesheet" href="style.css">
  <link rel="shortcut icon" href="source" type="image/x-icon">
-    <title>Page de contact</title>
+    <title>Contactez-nous</title>
 </head>
 <body>
 
