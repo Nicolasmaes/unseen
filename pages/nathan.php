@@ -1,18 +1,43 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="Présentation des métiers du web" content="Site internet regroupant les articles concernant les métiers du web, rédigés par la promo 68 de l'Access Code School">
-    <link rel="stylesheet" href="../assets/style/articles.css">
- <link rel="shortcut icon" href="source" type="image/x-icon">
+    <link rel="stylesheet" href="../assets/style/styles.css">
     <title>Chef de projet</title>
 </head>
+
 <body>
 
-<h1>Qu’est-ce que le métier de chef de projet</h1>
+    <div class="header">
+        <img src="../assets/images/icons/logo2.png" alt="logo">
 
+        <div class="tool">
+            <input class="cocher" type="checkbox" id="nav_button">
+
+            <label for="nav_button" class="croix">x</label>
+            <label for="nav_button" class="hamburger">
+                <div class="hamburger_icon">
+                    <div></div>
+                    <div></div>
+                </div>
+            </label>
+
+            <div class="menu regular_font_text">
+                <p> <a href="#">About us</a> </p>
+                <p> <a href="#">Articles</a> </p>                          
+                <p> <a href="#">Contact us</a> </p>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="container_article font_text">
+        <div>
+
+<h1>Qu’est-ce que le métier de chef de projet</h1>
+<p>par <a href="https://github.com/nathbout2" target="_blank">Nathan B.</a></p>
+<img src="../assets/images/pictures/nathan-1.jpg" alt="couv">
 <p>Le chef de projet a pour mission principale de prendre en main le cahier des charges d’un projet et de le mettre en œuvre en analysant les besoins, réalisant des reportings… Le travail en équipe est primordial pour ce professionnel. En effet, le directeur de projet est en relation avec les différents employés d’une entreprise (graphistes, assistants-chefs de projet, chefs de produit, développeurs web, intégrateurs…) il est amené a leur confie des missions pour mener à bien le projet.
 <h2>Ses missions sont :</h2>
 <ul>
@@ -25,7 +50,8 @@
 
 
 Le Chef de Projet Numérique est le coordinateur de l’ensemble des étapes relatives à la réalisation d’un projet internet ou mobile : généralement sur des projets de sites web ou d’applications mobiles. Mais il peut également intervenir sur bien d’autres projets comme des bases de données, du brand content, de la création de contenu, du référencement, des programmes d’affiliation, ou encore toute spécificité du secteur du webmarketing… Ce chef d’orchestre polyvalent fait le lien entre les différentes équipes de l’entreprise dans laquelle il est en poste et les partenaires externes au projet.
-
+</div>
+<div>
 <h2>Comment accéder a ce métier ?</h2>
 
 De nombreuses formations peuvent mener au métier de chef de projet numérique. Exemples de formations : 
@@ -62,7 +88,7 @@ De nombreuses formations peuvent mener au métier de chef de projet numérique. 
 </ul>
 <p>Plus de détails sur les masters : <a href="http://www.trouvermonmaster.gouv.fr">www.trouvermonmaster.gouv.fr</a></p>
 
-
+<img src="../assets/images/pictures/nathan_couv.jpg" alt="couv">
 <h2>Niveau rémunération ?</h2>
 
 <p>Environ 1 850 € brut par mois pour un chef de projet numérique débutant, avec une progression qui peut être rapide selon la réussite des projets.

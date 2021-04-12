@@ -1,20 +1,42 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="Présentation des métiers du web" content="Site internet regroupant les articles concernant les métiers du web, rédigés par la promo 68 de l'Access Code School">
-    <link rel="stylesheet" href="../assets/style/articles.css">
- <link rel="shortcut icon" href="source" type="image/x-icon">
-    <title>Popularité des langages</title>
+    <link rel="stylesheet" href="../assets/style/styles.css">
+    <title>Les langages</title>
 </head>
+
 <body>
 
-<h1>La popularité des langages</h1>
-<p>par
-<img src="../assets/images/pictures/nicolas-couv.jpg" alt="bulles des langages">
+    <div class="header">
+        <img src="../assets/images/icons/logo2.png" alt="">
 
+        <div class="tool">
+            <input class="cocher" type="checkbox" id="nav_button">
+
+            <label for="nav_button" class="croix">x</label>
+            <label for="nav_button" class="hamburger">
+                <div class="hamburger_icon">
+                    <div></div>
+                    <div></div>
+                </div>
+            </label>
+
+            <div class="menu regular_font_text">
+                <p> <a href="#">About us</a> </p>
+                <p> <a href="#">Articles</a> </p>                          
+                <p> <a href="#">Contact us</a> </p>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="container_article font_text">
+        <div>
+<h1>La popularité des langages</h1>
+<p>par <a href="https://github.com/Nicolasmaes" target="_blank">Nicolas M.</a></p>
+<img src="../assets/images/pictures/nico-1.jpg" alt="couv">
 <p>Quand on s’intéresse de près au développement informatique. Pas facile de s’y retrouver dans toutes ces technologies; leurs rôles, leurs atouts, leurs champs d’application…</p>
 
 <p>En introduction, voyons les grandes familles dans lesquelles nous les regroupons.</p>
@@ -47,7 +69,8 @@ Les frameworks sont donc conçus et utilisés pour modeler l’architecture des 
 
 <quote>Voyez la bibliothèque comme une boîte à outils et le framework comme un laboratoire.</quote></p>
 
-
+</div>
+<div>
 
 <h2>CMS (content management system)</h2>
 <h3>(Typo3, Joomla, Drupal, WordPress, Contao, Neos CMS, Dreamwaver, Craft, Grav, Kirby)</h3>
@@ -69,7 +92,9 @@ Les frameworks sont donc conçus et utilisés pour modeler l’architecture des 
 <h2>Logiciels de création graphique</h2>
 <h3>(Photoshop, Illustrator, Figma, suite Adobe)</h3>
 <p>Ces logiciels très complets permettent la retouche photo, la création de logo et de design pour habiller des sites web.</p>
-
+</div>
+<div>
+<img src="../assets/images/pictures/nico-2.jpg" alt="couv">
 <h2>Classements des technologies</h2>
 <p>Au-delà des 3 piliers que sont HTML, CSS et JavaScript, quel langage doit-on apprendre en premier ?<br>
 C’est la question que l’on se pose au début.<br>

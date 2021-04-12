@@ -10,7 +10,7 @@
 <body>
 
     <div class="header">
-        <img src="logo2.png" alt="">
+        <img src="../assets/images/icons/logo2.png" alt="">
 
         <div class="tool">
             <input class="cocher" type="checkbox" id="nav_button">
@@ -35,7 +35,7 @@
     <div class="container_article font_text">
         <div>
             <h1> Les différences des métiers du web </h1>
-            
+            <p>par <a href="https://github.com/JasonMawerick" target="_blank">Romain P.</a></p>
             <p>
                 L’Univers du web regorge de subtilités. A l’instar d’une toile d’araignée numérique et bien que différents, des connecteurs logiques se font entre les différentes visions de ces professions. Cependant, il est intéressant de noter que chez certains professionnels du web les missions peuvent être divergentes selon les points de vue. <br><br>
                 

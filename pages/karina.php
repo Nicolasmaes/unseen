@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="Présentation des métiers du web" content="Site internet regroupant les articles concernant les métiers du web, rédigés par la promo 68 de l'Access Code School">
-    <link rel="stylesheet" href="../assets/style/articles.css">
+    <link rel="stylesheet" href="../assets/style/styles.css">
  <link rel="shortcut icon" href="source" type="image/x-icon">
     <title>Rédacteur web</title>
 </head>
@@ -28,7 +28,7 @@ Le rédacteur web rédige en respectant plusieurs étapes, il doit :
 <li>Optimiser le contenu texte et les visuels pour répondre aux critères du référencement et aux exigences de Google</li>
 <li>Procéder à la publication après un dernier contrôle</li>
 </ul>
-Compétences d’un rédacteur web
+<h2>Compétences d’un rédacteur web</h2>
 <ul></ul>
 <li>Aisance rédactionnelle,
 <li>Maîtrise parfaite de la langue dans laquelle il travaille et des règles de syntaxe / d’orthographe</li>
@@ -39,36 +39,43 @@ Compétences d’un rédacteur web
 <li>Compétences en structuration et en intégration web (HTML et CSS)</li>
 <li>Aisance sur les réseaux sociaux et dans le partage de contenu</li>
 </ul>
-Les qualités d’un rédacteur web
-Culture générale ainsi que goût pour la littérature et l’actualité,
-Créativité,
-Autonomie et efficacité,
-Curiosité et ouverture d’esprit,
-Force de proposition.
-Evolution du métier de rédacteur web
-Les compétences d’un Rédacteur Web peuvent se rapprocher de celles d’un Community Manager, qui lui aussi pourra contribuer à la rédaction de contenu. Cependant, certains contenus très spécifiques demanderont l’expertise d’un professionnel du secteur pour rédiger des articles pertinents.
+<h2>Les qualités d’un rédacteur web</h2>
+<ul>
+<li>Culture générale ainsi que goût pour la littérature et l’actualité</li>
+<li>Créativité</li>
+<li>Autonomie et efficacité</li>
+<li>Curiosité et ouverture d’esprit</li>
+<li>Force de proposition</li>
+</ul>
+<h2>Evolution du métier de rédacteur web</h2>
+<p>Les compétences d’un Rédacteur Web peuvent se rapprocher de celles d’un Community Manager, qui lui aussi pourra contribuer à la rédaction de contenu. Cependant, certains contenus très spécifiques demanderont l’expertise d’un professionnel du secteur pour rédiger des articles pertinents.<br>
 
-Ses années d’expériences lui permettront de passer le cap de rédacteur confirmé et ses réalisations lui donneront une reconnaissance dans la profession.
+Ses années d’expériences lui permettront de passer le cap de rédacteur confirmé et ses réalisations lui donneront une reconnaissance dans la profession.</p>
 
-Quels sont les inconvénients de ce métier?
-Il faut passer beaucoup de temps à lire et se documenter pour bien comprendre un sujet ou un domaine et pouvoir le maîtriser avant de rédiger quoi que ce soit. C’est un métier qui nécessite du temps d’analyse, de compréhension et de réflexion avant de pouvoir écrire ou livrer un article. Cela peut parfois être stressant, les rédacteurs web étant parfois considérés comme des machines à écrire. Or, la rédaction en général demande du temps.
+<h2>Quels sont les inconvénients de ce métier ?</h2>
+<p>Il faut passer beaucoup de temps à lire et se documenter pour bien comprendre un sujet ou un domaine et pouvoir le maîtriser avant de rédiger quoi que ce soit. C’est un métier qui nécessite du temps d’analyse, de compréhension et de réflexion avant de pouvoir écrire ou livrer un article. Cela peut parfois être stressant, les rédacteurs web étant parfois considérés comme des machines à écrire. Or, la rédaction en général demande du temps.</p>
 
-Où exerce un rédacteur web?
-En freelance, c’est-à-dire à son propre compte, généralement sous le statut d’auto-entrepreneur. (Externalisation de l’activité),
-En agence web ou dans une entreprise spécialisée dans la communication digitale (Externalisation de l’activité),
-Directement chez l’annonceur, au sein d’une entreprise ou d’une association.
-Sa semaine type
-50% de création de contenus
-20% de publication multiplateformes
-15% d’arrimage équipe Marketing
-15% de promotion des médias sociaux
-Devenir rédacteur web
-Aucune formation spécifique n’est exigée pour devenir Rédacteur Web. Seule la justification d’une maîtrise linguistique et rédactionnelle sera demandée. Des tests de rédaction de contenu pourront être demandé afin d’évaluer la capacité à délivrer un contenu adapté aux exigences demandées. Néanmoins, les employeurs regarderont avec intérêt les diplômes, qui pourront justifier des connaissances spécifiques et une bonne culture générale.
+<h2>Où exerce un rédacteur web?</h2>
+<ul>
+<li>En freelance, c’est-à-dire à son propre compte, généralement sous le statut d’auto-entrepreneur. (Externalisation de l’activité)</li>
+<li>En agence web ou dans une entreprise spécialisée dans la communication digitale (Externalisation de l’activité)</li>
+<li>Directement chez l’annonceur, au sein d’une entreprise ou d’une association</li>
+</ul>
+<h2>Sa semaine type</h2>
+<ul>
+<li>50% de création de contenus</li>
+<li>20% de publication multiplateformes</li>
+<li>15% d’arrimage équipe Marketing</li>
+<li>15% de promotion des médias sociaux</li>
+<li>Directement chez l’annonceur, au sein d’une entreprise ou d’une association</li>
+</ul>
+<h2>Devenir rédacteur web</h2>
+<p>Aucune formation spécifique n’est exigée pour devenir Rédacteur Web. Seule la justification d’une maîtrise linguistique et rédactionnelle sera demandée. Des tests de rédaction de contenu pourront être demandé afin d’évaluer la capacité à délivrer un contenu adapté aux exigences demandées. Néanmoins, les employeurs regarderont avec intérêt les diplômes, qui pourront justifier des connaissances spécifiques et une bonne culture générale.</p>
 
-Son salaire
-Rémunération correspondant à un poste en CDI:
-
-Junior : 20K €/ an, Senior : 35K €/ an, Expert : 50K €/ an.
+<h2>Son salaire</h2>
+<p>Rémunération correspondant à un poste en CDI:
+<br>
+Junior : 20K €/ an, Senior : 35K €/ an, Expert : 50K €/ an.</p>
 
 </body>
 </html>

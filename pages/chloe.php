@@ -1,17 +1,42 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="Présentation des métiers du web" content="Site internet regroupant les articles concernant les métiers du web, rédigés par la promo 68 de l'Access Code School">
-    <link rel="stylesheet" href="../assets/style/articles.css">
- <link rel="shortcut icon" href="source" type="image/x-icon">
+    <link rel="stylesheet" href="../assets/style/styles.css">
     <title>Développeur web</title>
 </head>
-<body>
-<h1>Le métier de développeur web</h1>
 
+<body>
+
+    <div class="header">
+        <img src="../assets/images/icons/logo2.png" alt="">
+
+        <div class="tool">
+            <input class="cocher" type="checkbox" id="nav_button">
+
+            <label for="nav_button" class="croix">x</label>
+            <label for="nav_button" class="hamburger">
+                <div class="hamburger_icon">
+                    <div></div>
+                    <div></div>
+                </div>
+            </label>
+
+            <div class="menu regular_font_text">
+                <p> <a href="#">About us</a> </p>
+                <p> <a href="#">Articles</a> </p>                          
+                <p> <a href="#">Contact us</a> </p>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="container_article font_text">
+        <div>
+<h1>Le métier de développeur web</h1>
+<p>par <a href="https://github.com/chloevth" target="_blank">Chloé V.</a></p>
+<img src="../assets/images/pictures/chloe-2.png" alt="couv">
 <h2>Qu’est-ce qu’un développeur web ?</h2>
 <p>Le développeur rédige le code informatique d’un produit / site / programme répondant aux exigences du cahier des charges rédigé par le chef de projet en fonction des exigences du client et des besoins fonctionnels.
 Il analyse les besoins, choisit la solution technique la mieux adaptée et développe les fonctionnalités du site web ou de l’application web de sa phase d’étude à son intégration.</p>
@@ -23,6 +48,8 @@ Il analyse les besoins, choisit la solution technique la mieux adaptée et déve
 <li>former le client à la réception du site</li>
 <li>rédiger notices et guides pour les utilisateurs</li>
 </ul>
+</div>
+<div>
 <h2>Les catégories de développeur web</h2>
 
 <h3>Développeur back-end</h3>
@@ -59,8 +86,10 @@ Il analyse les besoins, choisit la solution technique la mieux adaptée et déve
 <p>Il effectue la réalisation technique et le développement informatique d’applications pour mobiles, smartphones et autres tablettes.
 <br>
 Ses responsabilités sont de tenir compte des spécificités de l’affichage des applications sur les différents outils.<p>
-
-<h4>Pour cela, il utilise différents langages selon les systèmes d’exploitation</h4>
+</div>
+<div>
+<img src="../assets/images/pictures/chloe-couv-1.png" alt="couv">
+<h3>Pour cela, il utilise différents langages selon les systèmes d’exploitation</h3>
 <ul>
 <li>C / Objective C / HTML5 (iOS)</li>
 <li>C / C# / PHP / Java (Android)</li>

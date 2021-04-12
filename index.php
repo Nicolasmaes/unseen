@@ -17,6 +17,16 @@ Par ici(lien article)</p>
 <a href="pages/chloe.php">chloé</a>
 <a href="pages/etienne.php">etienne</a>
 <a href="pages/karina.php">karina</a>
+<a href="pages/romain.php">romain</a>
+<a href="pages/gael.php">gael</a>
+<a href="pages/sonia.php">sonia</a>
+<a href="pages/herve.php">herve</a>
+<a href="pages/paule.php">paule</a>
+<a href="pages/luc.php">luc</a>
+<a href="pages/adrien.php">adrien</a>
+<a href="pages/williams.php">williams</a>
+<a href="pages/adam.php">adam</a>
+<a href="pages/jean-baptiste.php">Jean-Baptiste</a>
 
 
 <?php include 'includes/footer.php';?>

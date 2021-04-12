@@ -26,6 +26,8 @@ body
 img
 {
     width: 100%;
+    margin: auto;
+    max-width: 40rem;
     height: auto; /* pour que les images soient responsives*/
 }
 
@@ -91,7 +93,23 @@ h1
     row-gap: 2rem;
 }
 
-
+td{
+    border : 1px solid black;
+}
+td:nth-child(even) {
+    text-align: center;
+}
+td:nth-child(odd) {
+    padding-left: 4px;
+}
+table{
+    border-collapse: collapse;
+    max-width: 60%;
+    margin: auto;
+}
+.signature{
+    text-align: right;
+}
 /* HEADER */
 
     /* Logo */

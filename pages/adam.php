@@ -3,14 +3,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <title>Unseen</title>
+    <link rel="stylesheet" href="../assets/style/styles.css">
+    <title>Web designer</title>
 </head>
 
 <body>
 
     <div class="header">
-        <img src="logo2.png" alt="">
+        <img src="../assets/images/icons/logo2.png" alt="">
 
         <div class="tool">
             <input class="cocher" type="checkbox" id="nav_button">
@@ -35,14 +35,14 @@
     <div class="container_article font_text">
         <div>
             <h1> Web designer, qu’est ce que c’est ? </h1>
-
+            <p>par <a href="https://github.com/Onetouch59" target="_blank">Adam B.</a></p>
             <h2> Son rôle </h2>
             <p>    
                 C’est de concevoir le graphisme d’un site ou d’un produit sur une page web. Le webdesigner appelé également infographiste ou graphiste est, selon la formule consacrée, « <span class="lightgrey">le créatif multimédia du numérique</span> ». C’est lui qui va traduire en style graphique le brief du client. <br><br>
 
                 Directeur artistique version Web, le webdesigner va concevoir et réaliser le design du site Web. Le webdesigner voit son périmètre d’intervention différer suivant la structure où il intervient. Dans une PME ou en indépendant, sa liberté sera d’autant plus grande qu’il condensera entre ses mains l’ensemble de la chaîne de conception graphique et artistique.
             </p> 
-            <img src="photo_16.jpg" alt="conception d'un interface">
+            <img src="../assets/images/pictures/photo_16.jpg" alt="conception d'un interface">
             <p> 
                 Dans les entreprises plus spécialisées, le webdesigner travaillera en équipe, en collaboration étroite avec un chef de projet ou des responsables artistiques et éditoriaux qui guideront et valideront son travail au fur et à mesure de l’avancement du projet. En liaison étroite avec le chef de projet et le webmaster, le webdesigner participe à la définition du cahier des charges du site à créer ou à faire évoluer : identité visuelle, charte graphique, maquette, choix des technologies utilisées pour la partie front du site. <br><br>
 
@@ -59,7 +59,7 @@
                 Le webdesigner doit tenir compte des demandes de ses clients. Il doit donc être à l’écoute, s’imprégner de leurs codes, intégrer leurs contraintes ( <span class="lightgrey">cahier des charges</span> ). Il faut donc avoir des qualités relationnelles, être curieux, patient, et savoir faire des propositions adaptées. Pas question de s’enfermer dans sa tour d’ivoire comme un artiste génial et incompris !
             </p>
 
-            <img src="photo_15.jpg" alt="personne a l'écoute d'une autre">
+            <img src="../assets/images/pictures/photo_15.jpg" alt="personne a l'écoute d'une autre">
         </div>
 
         <div>

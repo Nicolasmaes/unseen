@@ -3,14 +3,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <title>Unseen</title>
+    <link rel="stylesheet" href="../assets/style/styles.css">
+    <title>La cryptographie</title>
 </head>
 
 <body>
 
     <div class="header">
-        <img src="logo2.png" alt="logo">
+        <img src="../assets/images/icons/logo2.png" alt="">
 
         <div class="tool">
             <input class="cocher" type="checkbox" id="nav_button">
@@ -35,7 +35,7 @@
     <div class="container_article font_text">
         <div>
             <h1> La cryptographie ou l'art du secret </h1>
-            
+            <p>par <a href="https://github.com/Adrien-Ray" target="_blank">Adrien R.</a></p>
             <p>
                 La cryptographie regroupe les disciplines ayant pour but de rechercher des moyens d’assurer la protection de données. Cela inclu : <br><br>
                 <span class="line">
@@ -45,7 +45,7 @@
                 </span>
             </p>
 
-            <img src="photo_19.jpg" alt="">
+            <img src="../assets/images/pictures/photo_19.jpg" alt="">
 
             <p>
                 <span class="bold">
@@ -74,7 +74,7 @@
                 un procédé cryptographique pour rendre illisible les pages qui s’échangeront après authentification, puisque celles ci pourrons avoir pour contenu ce qui est censé être protégé par le mot de passe.
             </p>
 
-            <img src="photo_20.jpg" alt="">
+            <img src="../assets/images/pictures/photo_20.jpg" alt="">
         </div> 
 
         <div>   
