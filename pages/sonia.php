@@ -36,7 +36,6 @@
         <div>
             <h1> Graphiste, un métier créatif </h1>
             <p>par <a href="https://github.com/Rolland42" target="_blank">Sonia R.</a></p>
-            <img src="../assets/images/pictures/sonia-2.jpg" alt="couv">
             <p>
                 Le graphiste est un spécialiste de la communication, il élabore l’univers graphique d’un produit, d’une entreprise, et lui donne une identité visuelle. <br>
                 Il transforme des idées en images, afin de faire passer un message au public, à travers ses réalisations graphiques ( <span class="lightgrey">logo, affiche, emballage, site internet</span> ). <br><br>
@@ -45,7 +44,7 @@
                 S’ensuivent alors la création de la charte graphique ( <span class="lightgrey"> définition des couleurs, de la typographie, du papier </span> ) et la réalisation ( <span class="lightgrey"> conception et création, exécution et impression </span> ).
             </p>
 
-            <img src="../assets/images/pictures/sonia-couv-1.png" alt="couv">
+            <img src="../assets/images/pictures/photo_6.jpg" alt="Artiste qui dessine sur tablette">
 
             <p>    
                 Son environnement est ouvert, il peut travailler dans tous les secteurs d’activité, de la publicité jusqu’à l’imagerie médicale. <br><br>
@@ -82,7 +81,7 @@
 
                 Le crayon et le papier jouent toujours un rôle très important, surtout en brainstorming. Ils nous permettent de pouvoir laisser notre créativité s’exprimer, de travailler dans n’importe quelle condition comme la réactivité lorsque l’inspiration survient, ou tout ce qui nous entoure devient source d’inspiration, et pas besoin de craindre la panne de batterie ou tout autre problème technique.
             </p>
-        
+            <img src="../assets/images/pictures/photo_7.jpg" alt="Artiste qui réalise des esquisses"
 
             <p>
                 Le fait de ne pas être distrait par les réseaux sociaux est un plus avec le papier, car il ne voue enverra jamais une notification pour vous prévenir. Et enfin, pour trouver votre propre source d’inspiration, vous devez vous documenter. Vous suivez forcément les dernières tendances, les avancées dans votre secteur, les types de design qui ont du succès, les inventions des uns et des autres. <br> <br>

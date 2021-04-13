@@ -104,14 +104,14 @@ les h2 et h3 seront de la couleurs de chaque catégories, et les h1 en noir.
     - [X] Jean-Baptiste https://promo-68.codeur.online/blog/index.php/2021/04/02/les-agences-de-communication/
 
     LUC
-    - [XX] Sonia https://promo-68.codeur.online/blog/index.php/2021/04/02/graphiste-un-metier-creatif/
-    - [XX] Romain https://promo-68.codeur.online/blog/index.php/2021/04/02/les-differences-des-metiers-du-web-roles-et-missions-en-fonction-de-la-structure/
-    - [XX] Gael https://promo-68.codeur.online/blog/index.php/2021/04/02/lanalyste-test-et-validation/
+    - [X] Sonia https://promo-68.codeur.online/blog/index.php/2021/04/02/graphiste-un-metier-creatif/
+    - [X] Romain https://promo-68.codeur.online/blog/index.php/2021/04/02/les-differences-des-metiers-du-web-roles-et-missions-en-fonction-de-la-structure/
+    - [X] Gael https://promo-68.codeur.online/blog/index.php/2021/04/02/lanalyste-test-et-validation/
     - [X] Paule https://promo-68.codeur.online/blog/index.php/2021/04/02/le-metier-de-directeur-commercial/
-    - [XX] Adam https://promo-68.codeur.online/blog/index.php/2021/04/02/web-designer-quest-ce-que-cest/
-    - [XX] Hervé https://promo-68.codeur.online/blog/index.php/2021/04/02/le-metier-de-comunity-manager/
-    - [XX] Adrien https://promo-68.codeur.online/blog/index.php/2021/04/02/les-metiers-de-la-cryptographie/
-    - [XX] Luc https://promo-68.codeur.online/blog/index.php/2021/04/02/devops/
+    - [X] Adam https://promo-68.codeur.online/blog/index.php/2021/04/02/web-designer-quest-ce-que-cest/
+    - [X] Hervé https://promo-68.codeur.online/blog/index.php/2021/04/02/le-metier-de-comunity-manager/
+    - [X] Adrien https://promo-68.codeur.online/blog/index.php/2021/04/02/les-metiers-de-la-cryptographie/
+    - [X] Luc https://promo-68.codeur.online/blog/index.php/2021/04/02/devops/
     
 ### zoning
 - [X] landing page

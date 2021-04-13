@@ -180,8 +180,8 @@ J’ai passé en revue 61 annonces de développeurs dans la région Bourgogne-Fr
 <tr><td>Symfony</td><td>	11
 <tr><td>Hibernate</td><td>	10
 <tr><td>Laravel</td><td>	10
-<tr><td>– dont Blade (moteur de template)</td><td>	5
-<tr><td>– dont Mustache (moteur de template)</td><td>	5
+<tr><td>– dont Blade</td><td>	5
+<tr><td>– dont Mustache</td><td>	5
 </table>
 <h2>Autres compétences</h2>
 <table>
@@ -190,24 +190,20 @@ J’ai passé en revue 61 annonces de développeurs dans la région Bourgogne-Fr
 <tr><td>API REST</td><td>	16
 <tr><td>CMS</td><td>	10
 <tr><td>– dont WordPress</td><td>	8
-<tr><td>Jira (logiciel de travail collaboratif)</td><td>	8
+<tr><td>Jira</td><td>	8
 <tr><td>Docker</td><td>7
-<tr><td>POO (programmation orientée objet)</td><td>	5
-<tr><td>VS Code (éditeur de texte)</td><td>	5
+<tr><td>POO (prog. orientée objet)</td><td>	5
+<tr><td>Visual Studio Code</td><td>	5
 </table>
-<p>Grâce à Docker, il est notamment possible de lancer plusieurs environnements d’OS sur la même machine, en les isolant les uns des autres.</p>
-
-<p>Le serveur Apache est mentionné dans 7% des annonces.</p>
-
-<p>Linux (système d’exploitation) et Oracle (système de gestion de base de données) sont chacun mentionnés dans 11% des annonces.</p>
+<p>Grâce à Docker, il est notamment possible de lancer plusieurs environnements d’OS sur la même machine, en les isolant les uns des autres.<br>
+Le serveur Apache est mentionné dans 7% des annonces.<br>
+Linux (système d’exploitation) et Oracle (système de gestion de base de données) sont chacun mentionnés dans 11% des annonces.</p>
 
 <h2>La question qui fâche</h2>
-<p>J’ai pu rencontrer une développeuse junior qui a osé poser la question suivante :</p>
-
-<quote>Pourquoi les développeurs juniors ne sont pas ou peu recrutés ?</quote>
-
-<p>Elle a reçu des dizaines de réponses de gens du métiers expérimentés qui ont donné des pistes de réflexions très intéressantes.<br>
-Les conseils qui lui ont été donnés sont les suivants :</p>
+<p>J’ai pu rencontrer une développeuse junior qui a osé poser la question suivante :<br>
+Pourquoi les développeurs juniors ne sont pas ou peu recrutés ?<br>
+Elle a reçu des dizaines de réponses de gens du métiers expérimentés qui ont donné des pistes de réflexions très intéressantes.</p>
+<h3>Les conseils qui lui ont été donnés sont les suivants</h3>
 
 <p>Pratiquer le plus possible afin de pouvoir montrer des projets que nous avons réalisé et de convaincre de sa passion pour le code.
 Durant certains recrutements, il est question de savoir si le candidat sait résoudre un problème seul, et si oui en combien de temps. Il apparaît clair qu’un développeur ne doit pas attendre qu’on le prenne par la main.

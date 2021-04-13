@@ -42,7 +42,7 @@
                 Par exemple, le poste de graphiste et de designer web peut être amalgamé chez certains professionnels. D’une entreprise à une autre les missions d’un designer web peuvent se révéler être différentes selon les structures d’accueils.  Bien entendu, ces deux métiers ont une base procédurale commune et font partie d’un même univers.
             </p>
 
-            <img src="photo_12.jpg" alt="Réunion entre professionnels du web">
+            <img src="../assets/images/pictures/photo_12.jpg" alt="Réunion entre professionnels du web">
 
             <p>
                 Toutefois, les missions qui en résultent peuvent avoir des finalités différentes et in fine provoquer la confusion dans l’esprit collectif des néophytes.  De ce fait, ce sera l’objet de mon article : analyser les facteurs économique et culturels qui influencent la vison des métiers du web. 
@@ -69,7 +69,7 @@
                 En effet, une entreprise n’ayant pas le web comme cœur de métier aura logiquement tendance à mal évalué les besoins de l’entreprise sur ce genre de problématique. En revanche une agence web aura a priori les armes nécessaires à l’évaluation de ses besoins même si dans l’absolue elle peut faire des erreurs de recrutement. Il faut inclure également le circuit de recrutement si celui-ci est simple ou complexe. Au sein de ce processus de recrutement on peut prendre en compte si l’entreprise fait appel à un intermédiaire (chasseur de têtes, agence qualifiée en ressource humaine) ou à contrario organise sa propre campagne de recrutement et réaliser la fiche de poste.
             </p>
 
-            <img src="photo_9.jpg" alt="Personne qui rédige sur une feuille">
+            <img src="../assets/images/pictures/photo_9.jpg" alt="Personne qui rédige sur une feuille">
 
             <p>
                 Concrètement, il est primordial de savoir qui va rédiger la fiche de poste. <br><br>

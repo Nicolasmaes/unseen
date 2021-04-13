@@ -39,9 +39,7 @@
             <p>
                 Le community manager est une personne qui possède plusieurs casquette. La principale étant d’être le médiateur entre une communauté et la structure pour laquelle il travaille. Il est donc le porte parole de l’entreprise ou de la marque sur internet.
             </p>
-
-            <img src="../assets/images/pictures/herve-couv-1.jpg" alt="couv">
-
+            <img src="../assets/images/pictures/photo_18.jpg" alt="Community manager qui prends la parole devant ses collègues">
             <p>
                 Son travail consiste en amont à créer et à gérer une communauté.
                 Il a besoin d’une connaissance solide de la structure, une simple information peut être primordiale pour répondre à sa communauté.
@@ -61,7 +59,7 @@
                 </span>
             </p>
 
-            <img src="photo_17.jpg" alt="">
+            <img src="../assets/images/pictures/photo_17.jpg" alt="reunion de travail">
 
             <p>
                 <span class="line">
@@ -72,7 +70,6 @@
                 L’administratif, la comptabilité, le commercial ( <span class="lightgrey">prospection et suivi</span> ) pour le community manager freelance.
                 </span>
             </p>
-            <img src="../assets/images/pictures/herve-3.jpg" alt="couv">
         </div> 
 
         <div>   

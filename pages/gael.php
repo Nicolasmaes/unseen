@@ -53,7 +53,7 @@
                 </span>
             </p>
 
-            <img src="photo_13.jpg" alt="Une personne sur un ordinateur portable affichant des statistiques">
+            <img src="../assets/images/pictures/photo_13.jpg" alt="Une personne sur un ordinateur portable affichant des statistiques">
 
             <p class=line>  
                 Consigner les résultats des tests, rédiger un rapport de synthèse. <br>
@@ -71,11 +71,10 @@
                 Connaitre et appliquer les méthodologies de tests comme celle de l’ISTQB ( <span class="lightgrey">Comité international de qualification du test logiciel</span> ).
             </p>
 
-            <img src="photo_14.jpg" alt="Moniteur affichant des statistiques">
+            <img src="../assets/images/pictures/photo_14.jpg" alt="Moniteur affichant des statistiques">
             <p>
                 Pour un débutant, le salaire annuel se situera entre 33.000€ et 37.000€. 
             </p>
-            <img src="../assets/images/pictures/gael-2.jpg" alt="couv">
         </div>
 
         <div class="double_titre">
