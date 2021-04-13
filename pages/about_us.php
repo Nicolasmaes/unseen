@@ -33,12 +33,15 @@
 
 
     <div class="container_article font_text">
-        <div>
-        <h1>Luc</h1>
-            <p></p>
-        <h1>Nicolas</h1>
-            <p>Passionné par informatique et Internet depuis plusieurs années, j'ai décidé d'entreprendre une formation de web designer pour faire de ma passion mon métier. Ayant déjà appris en autodidacte...</p>
-    </div>  
-
+    <div id="fiches-contact">
+            <div class="luc-contact">
+                <h1>Luc</h1>
+                <p>Passionné par informatique et Internet depuis plusieurs années, j'ai décidé d'entreprendre une formation de web designer pour faire de ma passion mon métier. Ayant déjà appris en autodidacte...Passionné par informatique et Internet depuis plusieurs années, j'ai décidé d'entreprendre une formation de web designer pour faire de ma passion mon métier. Ayant déjà appris en autodidacte...</p>
+            </div>
+            <div class="nico-contact">
+                <h1>Nicolas</h1>
+                <p>Passionné par informatique et Internet depuis plusieurs années, j'ai décidé d'entreprendre une formation de web designer pour faire de ma passion mon métier. Ayant déjà appris en autodidacte...Passionné par informatique et Internet depuis plusieurs années, j'ai décidé d'entreprendre une formation de web designer pour faire de ma passion mon métier. Ayant déjà appris en autodidacte...</p>
+            </div>
+        </div>
 </body>
 </html>

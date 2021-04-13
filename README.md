@@ -115,10 +115,10 @@ les h2 et h3 seront de la couleurs de chaque catégories, et les h1 en noir.
     
 ### zoning
 - [X] landing page
-- [ ] page des rubriques
-- [ ] page d'un article
-- [ ] page de contact
-- [ ] page d'à propos de nous
+- [X] page des rubriques
+- [X] page d'un article
+- [X] page de contact
+- [X] page d'à propos de nous
 
 ### wireframe
 - [ ] landing page

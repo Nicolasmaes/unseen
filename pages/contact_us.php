@@ -35,21 +35,26 @@
 
 
     <div class="container_article font_text">
-        <div>
-        <h1>Luc</h1>
-            <ul>
-            <li><a href="tel:+33782393794">0782393794</a></li>
-            <li><a href="mailto:luc.leneuf@hotmail.fr">luc.leneuf@hotmail.fr</a></li>
-            <li><a href="https://github.com/LucLeneuf">https://github.com/LucLeneuf</a></li>
-            <li><a href="ll-book.fr">ll-book.fr</a></li>
-            </ul>
-        <h1>Nicolas</h1>
-        <ul>
-            <li><a href="tel:+33619965939">0619965939</a></li>
-            <li><a href="mailto:contact@nicolasmaes.fr">contact@nicolasmaes.fr</a></li>
-            <li><a href="https://github.com/Nicolasmaes">https://github.com/Nicolasmaes</a></li>
-            <li><a href="https://www.nicolasmaes.fr">nicolasmaes.fr</a></li>
-        </ul>
+        <div id="fiches-contact">
+            <div class="luc-contact">
+                <h1>Luc</h1>
+                <ul>
+                    <li>0782393794</a></li>
+                    <li><a href="mailto:luc.leneuf@hotmail.fr">luc.leneuf@hotmail.fr</a></li>
+                    <li><a href="https://github.com/LucLeneuf"target="_blank">github.com/LucLeneuf</a></li>
+                    <li><a href="https://ll-book.fr"target="_blank">ll-book.fr</a></li>
+                </ul>
+            </div>
+            <div class="nico-contact">
+                <h1>Nicolas</h1>
+                <ul>
+                    <li>0619965939</li>
+                    <li><a href="mailto:contact@nicolasmaes.fr">contact@nicolasmaes.fr</a></li>
+                    <li><a href="https://github.com/Nicolasmaes"target="_blank">github.com/Nicolasmaes</a></li>
+                    <li><a href="https://www.nicolasmaes.fr" target="_blank">nicolasmaes.fr</a></li>
+                </ul>
+            </div>
+        </div>
     </div>  
 
 </body>

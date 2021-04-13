@@ -239,7 +239,26 @@ table{
             display: flex;
         }
 
-
+#fiches-contact{
+    display: flex;
+    flex-direction: row;
+    column-gap: 4rem;
+}
+#fiches-contact li{
+    padding: 0 1rem;
+}
+#fiches-contact li:nth-child(1){
+    list-style-image: url('../images/icons/mobile.png');
+}
+#fiches-contact li:nth-child(2){
+    list-style-image: url('../images/icons/mail.png');
+}
+#fiches-contact li:nth-child(3){
+    list-style-image: url('../images/icons/github.png');
+}
+#fiches-contact li:nth-child(4){
+    list-style-image: url('../images/icons/business.png');
+}
 
 
 
