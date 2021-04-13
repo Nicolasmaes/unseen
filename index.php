@@ -45,7 +45,7 @@ En effet, combien d'entre nous naviguent quotidiennement sur le web sans pour au
 Il existe pourtant un grand nombre d'acteurs oeuvrant dans un but commun; la création d'environnements attrayants et fonctionnels. <br> <br>
 
 Vous trouverez ici divers articles traitant du monde digital.
-Ils ont été rédigés par la promo 68 de l'Access Code School de Dijon, en 2021. </p><br><br>
+Ils ont été rédigés par la <a href="https://promo-68.codeur.online/blog/">promo 68 de l'Access Code School de Dijon</a>, en 2021. </p><br><br>
 
 Envie d'en savoir plus ?<br>
 <a href="">Par ici</a> 

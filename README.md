@@ -135,3 +135,5 @@ les h2 et h3 seront de la couleurs de chaque catégories, et les h1 en noir.
 
 idée pour faire défiler les articles : un carousel ?
 - rédaction de la landing page terminée
+- lien vers le blog à mettre en lumière sur la landing page
+- rédiger le sitemap.xml
