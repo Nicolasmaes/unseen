@@ -1,18 +1,17 @@
-<html lang="en">
+<!DOCTYPE html>
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <title>Document</title>
+    <meta name="Présentation des métiers du web" content="Site internet regroupant les articles concernant les métiers du web, rédigés par la promo 68 de l'Access Code School">
+    <link rel="stylesheet" href="../assets/style/styles.css">
+    <link rel="shortcut icon" href="../assets/images/icons/favicon2.png" type="image/x-icon">
+    <title>Devops</title>
 </head>
-
-
 <body>
-
-    <div class="header">
-
-        <img src="logo2.png" alt="">
+<div class="header">
+    <a href="../index.php"><img src="../assets/images/icons/logo2.png" alt=""></a>
 
         <div class="tool">
             <input class="cocher" type="checkbox" id="nav_button">
@@ -26,25 +25,23 @@
             </label>
 
             <div class="menu regular_font_text">
-                <p> <a href="#">About us</a> </p>
-                <p> <a href="#">Articles</a> </p>                          
-                <p> <a href="#">Contact us</a> </p>
+            <p> <a href="articles.php">Articles</a> </p>
+                <p> <a href="about_us.php">A propos</a> </p>                          
+                <p> <a href="contact_us.php">Contact</a> </p>
             </div>
         </div>
-       
     </div>
-    
+
     <div class="container_article font_text">
-        
         <div>
             <h1>Devops</h1>
-
+            <p>par <a href="https://github.com/LucLeneuf" target="_blank">Luc L.</a></p>
             <p>
                Le devops est un metier qui hybride deux professions. Celle de développeur web et d'admnistrateur système. <br> 
                Cette polyvalence lui donne une vision unique. il concoit les applications dans leur globalité.
             </p> 
 
-            <img src="photo2.jpg" alt="Reflexions autour d'un projet">
+            <img src="../assets/images/pictures/luc-1.jpg" alt="couv">
         </div>  
 
         <div>
@@ -58,7 +55,7 @@
                 Un controle qualité sur chaque étapes <a href="">( <span class="lightgrey">Devops</span> )</a> <br> <br> 
             </p>
 
-            <img src="photo4.jpg" alt="ordinateur portable affichant du code"> 
+            <img src="../assets/images/pictures/luc-2.jpg" alt="couv"> 
 
             <p>
                 Ces connaissances sont extrêmement vastes,<br><br>

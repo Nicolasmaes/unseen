@@ -1,16 +1,17 @@
-<html lang="en">
+<!DOCTYPE html>
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <title>Unseen</title>
+    <meta name="Présentation des métiers du web" content="Site internet regroupant les articles concernant les métiers du web, rédigés par la promo 68 de l'Access Code School">
+    <link rel="stylesheet" href="../assets/style/styles.css">
+    <link rel="shortcut icon" href="../assets/images/icons/favicon2.png" type="image/x-icon">
+    <title>Community manager</title>
 </head>
-
 <body>
-
-    <div class="header">
-        <img src="logo2.png" alt="logo">
+<div class="header">
+    <a href="../index.php"><img src="../assets/images/icons/logo2.png" alt=""></a>
 
         <div class="tool">
             <input class="cocher" type="checkbox" id="nav_button">
@@ -24,23 +25,22 @@
             </label>
 
             <div class="menu regular_font_text">
-                <p> <a href="#">About us</a> </p>
-                <p> <a href="#">Articles</a> </p>                          
-                <p> <a href="#">Contact us</a> </p>
+            <p> <a href="articles.php">Articles</a> </p>
+                <p> <a href="about_us.php">A propos</a> </p>                          
+                <p> <a href="contact_us.php">Contact</a> </p>
             </div>
         </div>
     </div>
 
-
     <div class="container_article font_text">
         <div>
             <h1> Le métier de Community Manager </h1>
-            
+            <p>par <a href="https://github.com/Micmacthebigmac" target="_blank">Hervé R.</a></p>
             <p>
-                le community manager est une personne qui possède plusieurs casquette. La principale étant d’être le médiateur entre une communauté et la structure pour laquelle il travaille. Il est donc le porte parole de l’entreprise ou de la marque sur internet.
+                Le community manager est une personne qui possède plusieurs casquette. La principale étant d’être le médiateur entre une communauté et la structure pour laquelle il travaille. Il est donc le porte parole de l’entreprise ou de la marque sur internet.
             </p>
 
-            <img src="photo_18.jpg" alt="Community manager qui prends la parole devant ses collègues">
+            <img src="../assets/images/pictures/herve-couv-1.jpg" alt="couv">
 
             <p>
                 Son travail consiste en amont à créer et à gérer une communauté.
@@ -72,6 +72,7 @@
                 L’administratif, la comptabilité, le commercial ( <span class="lightgrey">prospection et suivi</span> ) pour le community manager freelance.
                 </span>
             </p>
+            <img src="../assets/images/pictures/herve-3.jpg" alt="couv">
         </div> 
 
         <div>   

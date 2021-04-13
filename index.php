@@ -1,32 +1,56 @@
-<?php include 'includes/header.php';?>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/style/styles.css">
+    <title>Unseen</title>
+</head>
+
+<body>
+
+    <div class="header">
+    <a href="index.php"><img src="assets/images/icons/logo2.png" alt=""></a>
+
+        <div class="tool">
+            <input class="cocher" type="checkbox" id="nav_button">
+
+            <label for="nav_button" class="croix">x</label>
+            <label for="nav_button" class="hamburger">
+                <div class="hamburger_icon">
+                    <div></div>
+                    <div></div>
+                </div>
+            </label>
+
+            <div class="menu regular_font_text">
+                <p> <a href="pages/articles.php">Articles</a> </p>
+                <p> <a href="pages/about_us.php">A propos</a> </p>                          
+                <p> <a href="pages/contact_us.php">Contact</a> </p>
+            </div>
+        </div>
+    </div>
 
 
-<h1>Bienvenue sur Unseen</h1>
-
-<h2>Unseen est né de la volonté de mettre en lumière les différents métiers du numérique.</h2>
-
-<p>En effet, combien d'entre nous naviguent quotidiennement sur le web sans pour autant en connaître les rouages.
-Il existe pourtant un grand nombre d'acteurs interagissant dans le but de créer des sites attrayants et fonctionnels.
-Vous trouverez ici des articles décrivant tous un aspect différent et important du processus de création digital.
-Ces articles ont été rédigés par la promo 68 de l'Access Code School (lien vers ACS) de Dijon, en 2021.
-Envie d'en savoir plus ?
-Par ici(lien article)</p>
-
-<a href="pages/nicolas.php">nicolas</a>
-<a href="pages/nathan.php">nathan</a>
-<a href="pages/chloe.php">chloé</a>
-<a href="pages/etienne.php">etienne</a>
-<a href="pages/karina.php">karina</a>
-<a href="pages/romain.php">romain</a>
-<a href="pages/gael.php">gael</a>
-<a href="pages/sonia.php">sonia</a>
-<a href="pages/herve.php">herve</a>
-<a href="pages/paule.php">paule</a>
-<a href="pages/luc.php">luc</a>
-<a href="pages/adrien.php">adrien</a>
-<a href="pages/williams.php">williams</a>
-<a href="pages/adam.php">adam</a>
-<a href="pages/jean-baptiste.php">Jean-Baptiste</a>
+    <div class="container_article">
 
 
-<?php include 'includes/footer.php';?>
+    <h1>Bienvenue,</h1>
+
+    <p class="font_text">
+
+Unseen <!--logo à insérer-->,signifiant invisible, est né de la volonté de mettre en lumière les différents métiers du numérique. <br> <br>
+
+En effet, combien d'entre nous naviguent quotidiennement sur le web sans pour autant en connaître les rouages ?
+Il existe pourtant un grand nombre d'acteurs oeuvrant dans un but commun; la création d'environnements attrayants et fonctionnels. <br> <br>
+
+Vous trouverez ici divers articles traitant du monde digital.
+Ils ont été rédigés par la promo 68 de l'Access Code School de Dijon, en 2021. </p><br><br>
+
+Envie d'en savoir plus ?<br>
+<a href="">Par ici</a> 
+
+
+</div>    
+</body>
+</html>

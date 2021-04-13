@@ -11,8 +11,12 @@
     padding: 0;
     text-decoration: none;
     color: inherit;
+    border: 1px solid black;
 }
-
+.header{
+    position: fixed;
+    top: 3%; /* pour que le header soit toujours au bon endroit*/
+}
 body
 {
     display: flex;

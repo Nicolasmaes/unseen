@@ -1,16 +1,18 @@
-<html lang="en">
+<!DOCTYPE html>
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <title>Unseen</title>
+    <link rel="stylesheet" href="../assets/style/styles.css">
+    <link rel="shortcut icon" href="../assets/images/icons/favicon2.png" type="image/x-icon">
+    <title>Analyse, test & validation</title>
 </head>
 
 <body>
 
     <div class="header">
-        <img src="logo2.png" alt="">
+    <a href="../index.php"><img src="../assets/images/icons/logo2.png" alt=""></a>
 
         <div class="tool">
             <input class="cocher" type="checkbox" id="nav_button">
@@ -24,9 +26,9 @@
             </label>
 
             <div class="menu regular_font_text">
-                <p> <a href="#">About us</a> </p>
-                <p> <a href="#">Articles</a> </p>                          
-                <p> <a href="#">Contact us</a> </p>
+            <p> <a href="articles.php">Articles</a> </p>
+                <p> <a href="about_us.php">A propos</a> </p>                          
+                <p> <a href="contact_us.php">Contact</a> </p>
             </div>
         </div>
     </div>
@@ -35,7 +37,8 @@
     <div class="container_article font_text">
         <div>
             <h1> Analyste - test et validation </h1>
-
+            <p>par <a href="https://github.com/Sastaras" target="_blank">Gaël S.</a></p>
+            <img src="../assets/images/pictures/gael-couv-1.jpg" alt="couv">
             <p>
                 L’analyste test et validation, aussi appelé ingénieur test ou testeur, a pour activité principale la validation des logiciels ou applications avant leur déploiement. <br><br><br>
 
@@ -72,6 +75,7 @@
             <p>
                 Pour un débutant, le salaire annuel se situera entre 33.000€ et 37.000€. 
             </p>
+            <img src="../assets/images/pictures/gael-2.jpg" alt="couv">
         </div>
 
         <div class="double_titre">
@@ -97,7 +101,8 @@
         </div>
 
         <p>
-            Première photo par <a href="https://unsplash.com/@campaign_creators"> <span class="lightgrey"> Campaign Creators </span> </a> - Seconde photo par <a href="https://unsplash.com/@srd844"> <span class="lightgrey"> Stephen Dawson </span> </a>. <br>
+            Première photo par <a href="https://unsplash.com/@campaign_creators"> <span class="lightgrey"> Campaign Creators </span> </a> - Seconde photo par <a href="https://unsplash.com/@srd844"> <span class="lightgrey"> Stephen Dawson </span> </a>. 
+            <a href="https://www.devidia.net/la-creation-de-composants-utiles-au-developpement-web/">crédits photos</a><br>
             Article réalisé et rédigé par <a href="https://github.com/Sastaras"> <span class="lightgrey"> Gaël S </span> </a>.
         </p> 
     </div>

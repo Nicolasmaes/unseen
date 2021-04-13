@@ -1,17 +1,41 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="Présentation des métiers du web" content="Site internet regroupant les articles concernant les métiers du web, rédigés par la promo 68 de l'Access Code School">
     <link rel="stylesheet" href="../assets/style/styles.css">
- <link rel="shortcut icon" href="source" type="image/x-icon">
+    <link rel="shortcut icon" href="../assets/images/icons/favicon2.png" type="image/x-icon">
     <title>Rédacteur web</title>
 </head>
 <body>
-<h1>Le métier de rédacteur web</h1>
+<div class="header">
+    <a href="../index.php"><img src="../assets/images/icons/logo2.png" alt=""></a>
 
+        <div class="tool">
+            <input class="cocher" type="checkbox" id="nav_button">
+
+            <label for="nav_button" class="croix">x</label>
+            <label for="nav_button" class="hamburger">
+                <div class="hamburger_icon">
+                    <div></div>
+                    <div></div>
+                </div>
+            </label>
+
+            <div class="menu regular_font_text">
+            <p> <a href="articles.php">Articles</a> </p>
+                <p> <a href="about_us.php">A propos</a> </p>                          
+                <p> <a href="contact_us.php">Contact</a> </p>
+            </div>
+        </div>
+    </div>
+
+    <div class="container_article font_text">
+<h1>Le métier de rédacteur web</h1>
+<p>par <a href="https://github.com/KarinaEly" target="_blank">Karina E.</a></p>
+<img src="../assets/images/pictures/karina-couv.jpg" alt="couv">
 <p>Le Rédacteur Web est en charge de la rédaction de contenus pour un ou plusieurs sites web. Ce métier relève tout d’abord de compétences linguistiques et d’une aisance d’écriture. Celui-ci peut être spécialisé sur un sujet d’expertise, ce qui lui donne une légitimité pour écrire des contenus parfois très spécifiques : cuisine, juridiction, RH, actualités … Le rédacteur web travaille généralement sous la direction d’un responsable éditorial en charge d’élaborer une stratégie de contenu spécifique à chaque plateforme web.</p>
 
 <h2>Les missions</h2>
@@ -29,7 +53,7 @@ Le rédacteur web rédige en respectant plusieurs étapes, il doit :
 <li>Procéder à la publication après un dernier contrôle</li>
 </ul>
 <h2>Compétences d’un rédacteur web</h2>
-<ul></ul>
+<ul>
 <li>Aisance rédactionnelle,
 <li>Maîtrise parfaite de la langue dans laquelle il travaille et des règles de syntaxe / d’orthographe</li>
 <li>Bonne connaissance de l’environnement web et des tendances / pratiques</li>
@@ -71,11 +95,12 @@ Ses années d’expériences lui permettront de passer le cap de rédacteur conf
 </ul>
 <h2>Devenir rédacteur web</h2>
 <p>Aucune formation spécifique n’est exigée pour devenir Rédacteur Web. Seule la justification d’une maîtrise linguistique et rédactionnelle sera demandée. Des tests de rédaction de contenu pourront être demandé afin d’évaluer la capacité à délivrer un contenu adapté aux exigences demandées. Néanmoins, les employeurs regarderont avec intérêt les diplômes, qui pourront justifier des connaissances spécifiques et une bonne culture générale.</p>
-
+<img src="../assets/images/pictures/karina-2.jpg" alt="">
 <h2>Son salaire</h2>
 <p>Rémunération correspondant à un poste en CDI:
 <br>
 Junior : 20K €/ an, Senior : 35K €/ an, Expert : 50K €/ an.</p>
-
+<div class="signature">Karina El Yacoubi</div>
+</div>
 </body>
 </html>

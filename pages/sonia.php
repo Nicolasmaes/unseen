@@ -1,16 +1,16 @@
-<html lang="en">
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <title>Graphiste</title>
+    <link rel="stylesheet" href="../assets/style/styles.css">
+    <title>Graphiste web</title>
 </head>
 
 <body>
 
     <div class="header">
-        <img src="logo2.png" alt="logo">
+    <a href="../index.php"><img src="../assets/images/icons/logo2.png" alt=""></a>
 
         <div class="tool">
             <input class="cocher" type="checkbox" id="nav_button">
@@ -24,9 +24,9 @@
             </label>
 
             <div class="menu regular_font_text">
-                <p> <a href="#">About us</a> </p>
-                <p> <a href="#">Articles</a> </p>                          
-                <p> <a href="#">Contact us</a> </p>
+            <p> <a href="articles.php">Articles</a> </p>
+                <p> <a href="about_us.php">A propos</a> </p>                          
+                <p> <a href="contact_us.php">Contact</a> </p>
             </div>
         </div>
     </div>
@@ -35,7 +35,8 @@
     <div class="container_article font_text">
         <div>
             <h1> Graphiste, un métier créatif </h1>
-            
+            <p>par <a href="https://github.com/Rolland42" target="_blank">Sonia R.</a></p>
+            <img src="../assets/images/pictures/sonia-2.jpg" alt="couv">
             <p>
                 Le graphiste est un spécialiste de la communication, il élabore l’univers graphique d’un produit, d’une entreprise, et lui donne une identité visuelle. <br>
                 Il transforme des idées en images, afin de faire passer un message au public, à travers ses réalisations graphiques ( <span class="lightgrey">logo, affiche, emballage, site internet</span> ). <br><br>
@@ -44,7 +45,7 @@
                 S’ensuivent alors la création de la charte graphique ( <span class="lightgrey"> définition des couleurs, de la typographie, du papier </span> ) et la réalisation ( <span class="lightgrey"> conception et création, exécution et impression </span> ).
             </p>
 
-            <img src="photo_6.jpg" alt="Artiste qui dessine sur tablette">
+            <img src="../assets/images/pictures/sonia-couv-1.png" alt="couv">
 
             <p>    
                 Son environnement est ouvert, il peut travailler dans tous les secteurs d’activité, de la publicité jusqu’à l’imagerie médicale. <br><br>
@@ -81,8 +82,7 @@
 
                 Le crayon et le papier jouent toujours un rôle très important, surtout en brainstorming. Ils nous permettent de pouvoir laisser notre créativité s’exprimer, de travailler dans n’importe quelle condition comme la réactivité lorsque l’inspiration survient, ou tout ce qui nous entoure devient source d’inspiration, et pas besoin de craindre la panne de batterie ou tout autre problème technique.
             </p>
-          
-                <img src="photo_7.jpg" alt="Artiste qui réalise des esquisses"> 
+        
 
             <p>
                 Le fait de ne pas être distrait par les réseaux sociaux est un plus avec le papier, car il ne voue enverra jamais une notification pour vous prévenir. Et enfin, pour trouver votre propre source d’inspiration, vous devez vous documenter. Vous suivez forcément les dernières tendances, les avancées dans votre secteur, les types de design qui ont du succès, les inventions des uns et des autres. <br> <br>

@@ -5,12 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../assets/style/styles.css">
     <link rel="shortcut icon" href="../assets/images/icons/favicon2.png" type="image/x-icon">
-    <title>A propos</title>
+    <title>Aspects créatif</title>
 </head>
 
 <body>
+
     <div class="header">
-        <a href="../index.php"><img src="../assets/images/icons/logo2.png" alt=""></a>
+    <a href="../index.php"><img src="../assets/images/icons/logo2.png" alt=""></a>
+
         <div class="tool">
             <input class="cocher" type="checkbox" id="nav_button">
 
@@ -30,14 +32,14 @@
         </div>
     </div>
 
-
-
     <div class="container_article font_text">
-        <div>
-        <h1>Luc</h1>
-            <p></p>
-        <h1>Nicolas</h1>
-            <p>Passionné par informatique et Internet depuis plusieurs années, j'ai décidé d'entreprendre une formation de web designer pour faire de ma passion mon métier. Ayant déjà appris en autodidacte...</p>
+
+        <a href="chloe.php">chloé</a>
+        <a href="romain.php">romain</a>
+        <a href="herve.php">herve</a>
+        <a href="luc.php">luc</a>
+        <a href="adam.php">adam</a>
+        <a href="jean-baptiste.php">Jean-Baptiste</a>
     </div>  
 
 </body>
