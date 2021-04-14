@@ -9,6 +9,8 @@
 </head>
 
 <body>
+<div class="marge">
+
     <div class="header">
         <a href="../index.php"><img src="../assets/images/icons/logo2.png" alt=""></a>
         <div class="tool">
@@ -40,5 +42,6 @@
             <p>Passionné par informatique et Internet depuis plusieurs années, j'ai décidé d'entreprendre une formation de web designer pour faire de ma passion mon métier. Ayant déjà appris en autodidacte...</p>
     </div>  
 
+</div>
 </body>
 </html>

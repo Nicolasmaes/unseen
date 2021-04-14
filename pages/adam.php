@@ -10,6 +10,7 @@
 </head>
 
 <body>
+<div class="marge">
 
     <div class="header">
     <a href="../index.php"><img src="../assets/images/icons/logo2.png" alt=""></a>
@@ -36,15 +37,21 @@
 
     <div class="container_article font_text">
         <div>
-            <h1> Web designer, qu’est ce que c’est ? </h1>
-            <p>par <a href="https://github.com/Onetouch59" target="_blank">Adam B.</a></p>
+            <div class="big_title">
+                <h1> Web designer, qu’est ce que c’est ? </h1>
+                <p> Article réalisé et rédigé par <a href="https://github.com/Onetouch59">Adam B.</a></p>
+            </div>
+
             <h2> Son rôle </h2>
+
             <p>    
                 C’est de concevoir le graphisme d’un site ou d’un produit sur une page web. Le webdesigner appelé également infographiste ou graphiste est, selon la formule consacrée, « <span class="lightgrey">le créatif multimédia du numérique</span> ». C’est lui qui va traduire en style graphique le brief du client. <br><br>
 
                 Directeur artistique version Web, le webdesigner va concevoir et réaliser le design du site Web. Le webdesigner voit son périmètre d’intervention différer suivant la structure où il intervient. Dans une PME ou en indépendant, sa liberté sera d’autant plus grande qu’il condensera entre ses mains l’ensemble de la chaîne de conception graphique et artistique.
             </p> 
+
             <img src="../assets/images/pictures/photo_16.jpg" alt="conception d'un interface">
+
             <p> 
                 Dans les entreprises plus spécialisées, le webdesigner travaillera en équipe, en collaboration étroite avec un chef de projet ou des responsables artistiques et éditoriaux qui guideront et valideront son travail au fur et à mesure de l’avancement du projet. En liaison étroite avec le chef de projet et le webmaster, le webdesigner participe à la définition du cahier des charges du site à créer ou à faire évoluer : identité visuelle, charte graphique, maquette, choix des technologies utilisées pour la partie front du site. <br><br>
 
@@ -76,11 +83,11 @@
             </p>
         </div>
 
-        <p>
-            Première et seconde photo par <a href="https://unsplash.com/@wocintechchat"> <span class="lightgrey"> Christina </span> </a>. <br>
-            Article réalisé et rédigé par <a href="https://github.com/Onetouch59"> <span class="lightgrey"> Adam B  </span> </a>.
-        </p> 
+        <p> Première et seconde photo par <a href="https://unsplash.com/@wocintechchat"> <span class="lightgrey"> Christina </span> </a>. </p>
+         
     </div>  
+    
 
+</div>
 </body>
 </html>

@@ -9,7 +9,10 @@
     <link rel="shortcut icon" href="../assets/images/icons/favicon2.png" type="image/x-icon">
     <title>Community manager</title>
 </head>
+
 <body>
+<div class="marge">
+
 <div class="header">
     <a href="../index.php"><img src="../assets/images/icons/logo2.png" alt=""></a>
 
@@ -89,5 +92,6 @@
         </p> 
     </div>  
 
+</div>
 </body>
 </html>

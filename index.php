@@ -7,47 +7,13 @@
     <title>Unseen</title>
 </head>
 
-<<<<<<< HEAD
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="main.css">
-    <title>Unseen</title>
-</head>
 
 <body>
-
-<div class="container_article">
-
-
-<h1>Bienvenue,</h1>
-
-<p class="font_text">
-
-Unseen <!--logo à insérer-->,signifiant invisible, est né de la volonté de mettre en lumière les différents métiers du numérique. <br> <br>
-
-En effet, combien d'entre nous naviguent quotidiennement sur le web sans pour autant en connaître les rouages ?
-Il existe pourtant un grand nombre d'acteurs oeuvrant dans un but commun; la création d'environnements attrayants et fonctionnels. <br> <br>
-
-Vous trouverez ici divers articles traitant du monde digital.
-Ils ont été rédigés par la promo 68 de l'Access Code School de Dijon, en 2021. <br><br>
-
-Envie d'en savoir plus ?<br>
-<a href="">Par ici</a> 
-
-</p>
-</div>    
-</body>
-</html>
-=======
-<body>
+<div class="marge">
 
     <div class="header">
-    <a href="index.php"><img src="assets/images/icons/logo2.png" alt=""></a>
->>>>>>> main
-
+    <a href="../index.php"><img src="assets/images/icons/logo2.png" alt=""></a>
+    
         <div class="tool">
             <input class="cocher" type="checkbox" id="nav_button">
 
@@ -68,25 +34,30 @@ Envie d'en savoir plus ?<br>
     </div>
 
 
-    <div class="container_article">
+    <div class="container_index font_text">
 
 
-    <h1>Bienvenue,</h1>
+        <h1 class="bolder">Bienvenue</h1>
+        <br><br>
 
-    <p class="font_text">
+        <p>
 
-Unseen <!--logo à insérer-->,signifiant invisible, est né de la volonté de mettre en lumière les différents métiers du numérique. <br> <br>
+        <span class="bold">Unseen</span> <!--logo à insérer-->,signifiant invisible, est né de la volonté de mettre en lumière les différents métiers du numérique. <br><br><br>
 
-En effet, combien d'entre nous naviguent quotidiennement sur le web sans pour autant en connaître les rouages ?
-Il existe pourtant un grand nombre d'acteurs oeuvrant dans un but commun; la création d'environnements attrayants et fonctionnels. <br> <br>
+        <span class="mediumgrey line"> En effet, combien d'entre nous naviguent quotidiennement sur le web sans pour autant en connaître les rouages ?<br>
+        Il existe pourtant un grand nombre d'acteurs oeuvrant dans un but commun; la création d'environnements attrayants et fonctionnels. <br><br>
 
-Vous trouverez ici divers articles traitant du monde digital.
-Ils ont été rédigés par la promo 68 de l'Access Code School de Dijon, en 2021. </p><br><br>
+        Vous trouverez ici divers articles traitant du monde digital. <br>
+        Ils ont été rédigés par la promo 68 de l'Access Code School de Dijon, en 2021. </span>
+        </p><br> <br>
 
-Envie d'en savoir plus ?<br>
-<a href="">Par ici</a> 
+        <p>
+        Envie d'en savoir plus ?<br>
+        <a href="pages/articles.php"> <div class="button bold">Par ici</div> </a> 
+        </p>
 
+    </div>
 
-</div>    
+</div>
 </body>
 </html>

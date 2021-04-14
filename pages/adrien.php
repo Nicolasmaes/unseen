@@ -10,6 +10,7 @@
 </head>
 
 <body>
+<div class="marge">
 
     <div class="header">
     <a href="../index.php"><img src="../assets/images/icons/logo2.png" alt=""></a>
@@ -36,8 +37,11 @@
 
     <div class="container_article font_text">
         <div>
-            <h1> La cryptographie ou l'art du secret </h1>
-            <p>par <a href="https://github.com/Adrien-Ray" target="_blank">Adrien R.</a></p>
+            <div class="big_title">
+                <h1> La cryptographie ou l'art du secret </h1>
+                <p> Article réalisé et rédigé par <a href="https://github.com/Adrien-Ray"> <span class="lightgrey">Adrien R.</span></a></p>
+            </div>
+
             <p>
                 La cryptographie regroupe les disciplines ayant pour but de rechercher des moyens d’assurer la protection de données. Cela inclu : <br><br>
                 <span class="line">
@@ -116,11 +120,9 @@
 
         </div>
 
-        <p>
-            Première photo par <a href="https://unsplash.com/@markusspiske"> <span class="lightgrey"> Markus Spiske </span> </a> - Seconde photo par <a href="https://unsplash.com/@techdailyca"> <span class="lightgrey"> Tech Daily </span> </a>. <br>
-            Article réalisé et rédigé par <a href="https://github.com/Adrien-Ray"> <span class="lightgrey"> Adrien R </span> </a>.
-        </p> 
+        <p> Première photo par <a href="https://unsplash.com/@markusspiske"> <span class="lightgrey"> Markus Spiske </span> </a> - Seconde photo par <a href="https://unsplash.com/@techdailyca"> <span class="lightgrey"> Tech Daily </span> </a>. <br> </p> 
     </div>  
 
+</div>
 </body>
 </html>

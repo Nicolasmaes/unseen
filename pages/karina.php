@@ -9,7 +9,10 @@
     <link rel="shortcut icon" href="../assets/images/icons/favicon2.png" type="image/x-icon">
     <title>Rédacteur web</title>
 </head>
+
 <body>
+<div class="marge">
+
 <div class="header">
     <a href="../index.php"><img src="../assets/images/icons/logo2.png" alt=""></a>
 
@@ -33,10 +36,14 @@
     </div>
 
     <div class="container_article font_text">
-<h1>Le métier de rédacteur web</h1>
-<p>par <a href="https://github.com/KarinaEly" target="_blank">Karina E.</a></p>
+
+    <div class="big_title" >
+        <h1>Le métier de rédacteur web</h1>
+        <p> Article réalisé et rédigé par <a href="https://github.com/KarinaEly" target="_blank"><span class="lightgrey">Karina E</span>.</a></p>
+    </div>
+<p>Le Rédacteur Web est en charge de la rédaction de contenus pour un ou plusieurs sites web. Ce métier relève tout d’abord de compétences linguistiques et d’une aisance d’écriture.</p>
 <img src="../assets/images/pictures/karina-couv.jpg" alt="couv">
-<p>Le Rédacteur Web est en charge de la rédaction de contenus pour un ou plusieurs sites web. Ce métier relève tout d’abord de compétences linguistiques et d’une aisance d’écriture. Celui-ci peut être spécialisé sur un sujet d’expertise, ce qui lui donne une légitimité pour écrire des contenus parfois très spécifiques : cuisine, juridiction, RH, actualités … Le rédacteur web travaille généralement sous la direction d’un responsable éditorial en charge d’élaborer une stratégie de contenu spécifique à chaque plateforme web.</p>
+<p> Celui-ci peut être spécialisé sur un sujet d’expertise, ce qui lui donne une légitimité pour écrire des contenus parfois très spécifiques : cuisine, juridiction, RH, actualités … Le rédacteur web travaille généralement sous la direction d’un responsable éditorial en charge d’élaborer une stratégie de contenu spécifique à chaque plateforme web.</p>
 
 <h2>Les missions</h2>
 Le rédacteur web rédige en respectant plusieurs étapes, il doit :
@@ -101,6 +108,8 @@ Ses années d’expériences lui permettront de passer le cap de rédacteur conf
 <br>
 Junior : 20K €/ an, Senior : 35K €/ an, Expert : 50K €/ an.</p>
 <div class="signature">Karina El Yacoubi</div>
+</div>
+
 </div>
 </body>
 </html>
