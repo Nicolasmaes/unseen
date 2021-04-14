@@ -109,8 +109,5 @@ Très intéressé par le domaine des technologies, il a des compétences techniq
 Il peut travailler dans une entreprise web et être chargé de différents projets à la suite. Il peut-être également  prestataire et travailler sur les projets d’entreprises clientes. Mais il est également possible de travailler en tant que free-lance et de mener ainsi plusieurs projets de front.
 
 Si tu a toute ces qualités lance toi, les métiers du numérique évoluent tout les jours.
-
-<div class="signature">Nathan Boutaud</div>
-
 </body>
 </html>

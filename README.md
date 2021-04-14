@@ -89,9 +89,9 @@ les h2 et h3 seront de la couleurs de chaque catégories, et les h1 en noir.
 
 - [ ] rédiger chacun nos propres présentations
 
-- [ ] contact : numéro, mail, linkedin git-hub et nos propres sites
+- [X] contact : numéro, mail, linkedin git-hub et nos propres sites
 
-- [ ] s'approprier les articles en HTML
+- [X] s'approprier les articles en HTML
    
     NICOLAS
     - [X] Nathan https://promo-68.codeur.online/blog/index.php/2021/04/02/quest-ce-que-le-metier-de-chef-de-projet/
@@ -134,6 +134,9 @@ les h2 et h3 seront de la couleurs de chaque catégories, et les h1 en noir.
 ## 12/04/21
 
 idée pour faire défiler les articles : un carousel ?
-- rédaction de la landing page terminée
-- lien vers le blog à mettre en lumière sur la landing page
-- rédiger le sitemap.xml
+- [X] rédaction de la landing page terminée
+- [ ] lien vers le blog à mettre en lumière sur la landing page
+- [X] rédiger le sitemap.xml
+
+## 14/04/21
+- [] rédiger les consignes de l'exercice dans à propos

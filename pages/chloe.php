@@ -120,9 +120,5 @@ Le salaire est également fonction de ces différents paramètres. En moyenne, u
 <h3>Pour en savoir plus</h3>
 <a href="https://www.opiiec.fr/metiers/83057" target="_blank">www.opiiec.fr</a>
 
-
-
-<div class="signature">Chloé Vauthier</div>
-
 </body>
 </html>

@@ -100,7 +100,6 @@ Ses années d’expériences lui permettront de passer le cap de rédacteur conf
 <p>Rémunération correspondant à un poste en CDI:
 <br>
 Junior : 20K €/ an, Senior : 35K €/ an, Expert : 50K €/ an.</p>
-<div class="signature">Karina El Yacoubi</div>
 </div>
 </body>
 </html>
