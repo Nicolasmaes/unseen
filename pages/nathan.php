@@ -10,6 +10,7 @@
 </head>
 
 <body>
+<div class="marge">
 
     <div class="header">
     <a href="../index.php"><img src="../assets/images/icons/logo2.png" alt=""></a>
@@ -109,5 +110,12 @@ Très intéressé par le domaine des technologies, il a des compétences techniq
 Il peut travailler dans une entreprise web et être chargé de différents projets à la suite. Il peut-être également  prestataire et travailler sur les projets d’entreprises clientes. Mais il est également possible de travailler en tant que free-lance et de mener ainsi plusieurs projets de front.
 
 Si tu a toute ces qualités lance toi, les métiers du numérique évoluent tout les jours.
+<<<<<<< HEAD
+=======
+
+<div class="signature">Nathan Boutaud</div>
+
+</div>
+>>>>>>> 1e82ebd1d93c3e31128b17778a5218c84845e73c
 </body>
 </html>

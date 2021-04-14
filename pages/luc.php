@@ -9,7 +9,10 @@
     <link rel="shortcut icon" href="../assets/images/icons/favicon2.png" type="image/x-icon">
     <title>Devops</title>
 </head>
+
 <body>
+<div class="marge">
+
 <div class="header">
     <a href="../index.php"><img src="../assets/images/icons/logo2.png" alt=""></a>
 
@@ -80,13 +83,9 @@
             Première photo par <a href="https://unsplash.com/@homajob"> <span class="lightgrey"> Scott Graham </span> </a> - Seconde photo par <a href="https://unsplash.com/@cgower"> <span class="lightgrey"> Christopher Gower </span> </a>. <br>
             Article réalisé et rédigé par <a href="https://github.com/LucLeneuf"> <span class="lightgrey"> Luc L </span> </a>.
         </p> 
-    
     </div>
 
-
-    
-
-
+</div>
 </body>
 
 </html>

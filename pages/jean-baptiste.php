@@ -10,6 +10,7 @@
 </head>
 
 <body>
+<div class="marge">
 
     <div class="header">
     <a href="../index.php"><img src="../assets/images/icons/logo2.png" alt=""></a>
@@ -35,20 +36,32 @@
 
 
     <div class="container_article font_text">
+
         <div>
-<h1>Les agences de communication</h1>
-<p>par <a href="https://github.com/jibdrt" target="_blank">Jean-Baptise D.</a></p>
-<img src="../assets/images/pictures/jb-1.jpg" alt="couv">
+            <div class="big_title">
+                <h1>Les agences de communication</h1>
+                <p> Article réalisé et rédigé par <a href="https://github.com/jibdrt"><span class="lightgrey">Jean-Baptise D<span>.</a></p>
+            </div>
 
+            <p>
+            Dans ce vaste panel d’entreprises et d’organisations, penchons-nous sur le cas des agences de communication : Le but de cette dernière consiste à apporter un soutien à une structure afin de lui procurer la position désirée en matière de politique relationnelle.
+            </p>
+
+            <img src="../assets/images/pictures/jb-1.jpg" alt="couv">
+
+<p>L’agence de communication peut prendre en charge l’intégralité de la campagne de communication de ses clients ou se focaliser sur une partie des actions à mener. Certaines agences se spécialisent dans des types d’actions spécifiques alors que d’autres préfèrent proposer des services généralisées.</p>
+</div>
+
+<div>
 <h2>Quelles sont les structures pourvoyeuses d’emploi dans le secteur du numérique ?</h2>
-<p>Dans ce vaste panel d’entreprises et d’organisations, penchons-nous sur le cas des agences de communication : Le but de cette dernière consiste à apporter un soutien à une structure afin de lui procurer la position désirée en matière de politique relationnelle. L’agence de communication peut prendre en charge l’intégralité de la campagne de communication de ses clients ou se focaliser sur une partie des actions à mener. Certaines agences se spécialisent dans des types d’actions spécifiques alors que d’autres préfèrent proposer des services généralisées.</p>
 
-<h3>On distingue par ailleurs la communication externe et la communication interne</h3>
 
 <p>La communication externe se traduit par l’ensemble des processus et actions menés à destination de la clientèle actuelle d’une entreprise et de sa clientèle potentielle (le grand public) –> l’agence de communication se charge de faire connaître l’entreprise qui l’a sollicité auprès des consommateurs et entretien la communication entre celle-ci et ses clients acquis. La communication externe fait partie intégrante de la construction de l’identité d’une entreprise et lui permet de se différencier de la concurrence. –> Il s’agit d’un indéniable pilier dans la construction de la notoriété d’une structure et de son image.<br><br>
 
 La communication interne peut être confiée à une agence de communication mais elle est généralement gérée en interne par les entreprises par leur service communication respectifs et/ou leur service RH.</p>
 
+</div>
+<div>
 <h2>Quels sont les différents métiers qui composent l’organigramme d’une agence de communication ?</h2>
 
 <h3>Chef de publicité</h3>
@@ -79,5 +92,11 @@ Le chef de publicité est un commercial de terrain. Il est en charge de la liais
 
 <p>La tâche du planneur stratégique est d’effectuer une veille économique mais aussi marketing des marchés dans le but de fournir de la matière à ses collaborateurs du pôle création et à ceux des pôles commerciaux. Son objectif réside en la construction du positionnement d’une marque en cohérence avec la stratégie de l’entreprise et les attentes des consommateurs potentiels.</p>
 <img src="../assets/images/pictures/jb-couv.jpg" alt="couv">
+<<<<<<< HEAD
+=======
+
+
+</div>
+>>>>>>> 1e82ebd1d93c3e31128b17778a5218c84845e73c
 </body>
 </html>
