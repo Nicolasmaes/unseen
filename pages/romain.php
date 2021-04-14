@@ -9,7 +9,10 @@
     <link rel="shortcut icon" href="../assets/images/icons/favicon2.png" type="image/x-icon">
     <title>Différents métiers du web</title>
 </head>
+
 <body>
+<div class="marge">
+
 <div class="header">
     <a href="../index.php"><img src="../assets/images/icons/logo2.png" alt=""></a>
 
@@ -33,9 +36,13 @@
     </div>
 
     <div class="container_article font_text">
+    
         <div>
-            <h1> Les différences des métiers du web </h1>
-            <p>par <a href="https://github.com/JasonMawerick" target="_blank">Romain P.</a></p>
+            <div class="big_title">
+                <h1> Les différences des métiers du web </h1>
+                <p> Article réalisé et rédigé par <a href="https://github.com/JasonMawerick"> <span class="lightgrey"> Romain P </span> </a>. </p>
+            </div>
+
             <p>
                 L’Univers du web regorge de subtilités. A l’instar d’une toile d’araignée numérique et bien que différents, des connecteurs logiques se font entre les différentes visions de ces professions. Cependant, il est intéressant de noter que chez certains professionnels du web les missions peuvent être divergentes selon les points de vue. <br><br>
                 
@@ -84,9 +91,10 @@
 
         <p>
             Première photo par <a href="https://unsplash.com/@headwayio"> <span class="lightgrey"> Headway </span> </a> - Seconde photo par <a href="https://unsplash.com/@homajob"> <span class="lightgrey"> Scott Graham </span> </a>. <br>
-            Article réalisé et rédigé par <a href="https://github.com/JasonMawerick"> <span class="lightgrey"> Romain P </span> </a>.
+
         </p> 
     </div>  
 
+</div>
 </body>
 </html>

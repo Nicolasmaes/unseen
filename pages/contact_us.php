@@ -9,6 +9,7 @@
 </head>
 
 <body>
+<div class="marge">
 
     <div class="header">
     <a href="../index.php"><img src="../assets/images/icons/logo2.png" alt=""></a>
@@ -57,5 +58,6 @@
         </div>
     </div>  
 
+</div>
 </body>
 </html>

@@ -10,6 +10,7 @@
 </head>
 
 <body>
+<div class="marge">
 
     <div class="header">
     <a href="../index.php"><img src="../assets/images/icons/logo2.png" alt=""></a>
@@ -112,5 +113,6 @@ Si tu a toute ces qualités lance toi, les métiers du numérique évoluent tout
 
 <div class="signature">Nathan Boutaud</div>
 
+</div>
 </body>
 </html>
