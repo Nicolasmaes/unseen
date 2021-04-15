@@ -332,7 +332,6 @@
             </div>
         </div>
 </div>
-<<<<<<< HEAD
 <div>
 <img src="../assets/images/pictures/nico-2.jpg" alt="couv">
 <h2>Classements des technologies</h2>
@@ -478,8 +477,6 @@ La maîtrise de Git semble être un vrai point fort chez un junior.</p>
 <a href="https://programmation.developpez.com/actu/99401/Quels-sont-les-langages-de-programmation-que-vous-detestez-le-plus-Et-pourquoi">programmation.developpez.com</a>
 
 <div class="signature">Nicolas Maës</div>
-=======
->>>>>>> luc
 
 </div>
 </body>

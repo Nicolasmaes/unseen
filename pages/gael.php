@@ -55,11 +55,7 @@
                 Mettre en place les outils de tests. Exécuter les tests et les corriger jusqu’à validation des spécifications.
                 </span>
             </p>
-<<<<<<< HEAD
-
-=======
       
->>>>>>> luc
             <img src="../assets/images/pictures/photo_13.jpg" alt="Une personne sur un ordinateur portable affichant des statistiques">
 
             <p class=line>  
@@ -79,14 +75,9 @@
             </p>
 
             <img src="../assets/images/pictures/photo_14.jpg" alt="Moniteur affichant des statistiques">
-<<<<<<< HEAD
             <p>
                 Pour un débutant, le salaire annuel se situera entre 33.000€ et 37.000€. 
             </p>
-=======
-
-            <p> Pour un débutant, le salaire annuel se situera entre 33.000€ et 37.000€. </p>
->>>>>>> luc
         </div>
 
         <div class="double_titre">

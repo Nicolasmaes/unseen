@@ -45,13 +45,9 @@
             <p>
                 Le community manager est une personne qui possède plusieurs casquette. La principale étant d’être le médiateur entre une communauté et la structure pour laquelle il travaille. Il est donc le porte parole de l’entreprise ou de la marque sur internet.
             </p>
-<<<<<<< HEAD
-            <img src="../assets/images/pictures/photo_18.jpg" alt="Community manager qui prends la parole devant ses collègues">
-=======
 
             <img src="../assets/images/pictures/photo_18.jpg" alt="Community manager qui prends la parole devant ses collègues">
 
->>>>>>> luc
             <p>
                 Son travail consiste en amont à créer et à gérer une communauté.
                 Il a besoin d’une connaissance solide de la structure, une simple information peut être primordiale pour répondre à sa communauté.
@@ -71,11 +67,7 @@
                 </span>
             </p>
 
-<<<<<<< HEAD
             <img src="../assets/images/pictures/photo_17.jpg" alt="reunion de travail">
-=======
-            <img src="../assets/images/pictures/photo_17.jpg" alt="brainstorming autour d'une table">
->>>>>>> luc
 
             <p>
                 <span class="line">
