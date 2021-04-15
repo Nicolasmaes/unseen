@@ -32,8 +32,7 @@
             </div>
         </div>
     </div>
-
-
+    
 
     <div class="container_article font_text">
         <div>

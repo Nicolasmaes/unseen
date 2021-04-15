@@ -1,12 +1,16 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-    <meta charset="UTF-8">
+<meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../assets/style/styles.css">
     <link rel="shortcut icon" href="../assets/images/icons/favicon2.png" type="image/x-icon">
+<<<<<<< HEAD
     <title>Directeur commercial</title>
+=======
+    <title>Les langages</title>
+>>>>>>> luc
 </head>
 
 <body>
@@ -37,8 +41,11 @@
 
     <div class="container_article font_text">
         <div>
-            <h1> Le métier de Directeur Commercial </h1>
-            <p>par <a href="https://github.com/Nicolasmaes" target="_blank">Paule O.</a></p>
+            <div class="big_title">
+                <h1> Le métier de Directeur Commercial </h1>
+                <p> Article réalisé et rédigé par <a href="https://github.com/paule29" target="_blank"><span class="lightgrey">Paule</span>.</a></p>
+            </div>
+
             <p>
                 Un site internet est certainement la plus belle vitrine qu’une entreprise ait besoin. Pour la valoriser en terme de communication web, il faut penser à son intérêt et son intelligence commerciale et marketing. C’est un sujet parfois négligé lors de la création ou la refonte d’un site internet. <br><br>
                 Plus qu’un simple outil, il doit être un véritable ambassadeur et facilitateur de business s’il est correctement pensé et aménagé. Il devient même un véritable outil d’aide à la vente. Afin d’avoir des retombées économiques, pensons webmarketing, à l’analyse des statistiques du site enfin en faire un véritable outil commercial.
@@ -74,7 +81,9 @@
 
                 Analyse les indicateurs de gestion commerciale et arbitre le pilotage de l’activité afin de garantir l’atteinte des objectifs fixés. 
             </p>
+
             <img src="../assets/images/pictures/photo_11.jpg" alt="Post-it collé sur un paperboard">
+
             <p>
                 Met en place les moyens humains, financiers et techniques nécessaires à la mise en œuvre de la stratégie e-commerce. Elabore des plans d’actions spécifiques au regard des indicateurs comme le chiffre d’affaires, les quantités vendues, les marges. Enfin, il fera évoluer le site afin de développer les ventes. <br><br>
 
@@ -103,8 +112,7 @@
         </div>
 
         <p>
-            Première photo par <a href="https://unsplash.com/@joszczepanska"> <span class="lightgrey"> Jo Szczepanska </span> </a> - Seconde photo par <a href="https://unsplash.com/@uxindo"> <span class="lightgrey"> UX Indonesia </span> </a>. <br>
-            Article réalisé et rédigé par <a href="https://github.com/paule29"> <span class="lightgrey"> Paule </span> </a>.
+            Première photo par <a href="https://unsplash.com/@joszczepanska"> <span class="lightgrey"> Jo Szczepanska </span> </a> - Seconde photo par <a href="https://unsplash.com/@uxindo"> <span class="lightgrey"> UX Indonesia </span> </a>. 
         </p>  
     </div>  
 

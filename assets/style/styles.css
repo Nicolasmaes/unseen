@@ -114,6 +114,12 @@ h1
     margin-bottom: 3rem;  
 }
 
+.space
+{
+    display: flex;
+    column-gap: 1.4rem;
+    flex-wrap: wrap;
+}
 
 
 /* CONTAINER */
@@ -149,6 +155,8 @@ h1
             margin-bottom: 1.4rem;
         }
 
+     
+
         /* index */
 
         .container_index
@@ -180,11 +188,11 @@ td:nth-child(odd) {
 table{
     border-collapse: collapse;
     max-width: 60%;
+    /*
     margin: auto;
+    */
 }
-.signature{
-    text-align: right;
-}
+
 
 
 

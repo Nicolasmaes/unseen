@@ -36,11 +36,10 @@
 
 
     <div class="container_article font_text">
-        
         <div>
             <div class="big_title">
                 <h1>Le métier de développeur web</h1>
-                <p> Article réalisé et rédigé par <a href="https://github.com/chloevth"><span class="lightgrey">Chloé V</span>.</a></p>
+                <p> Article réalisé et rédigé par <a href="https://github.com/chloevth" target="_blank"><span class="lightgrey">Chloé V</span>.</a></p>
             </div>
 
             <p>Le développeur rédige le code informatique d’un produit / site / programme répondant aux exigences du cahier des charges rédigé par le chef de projet en fonction des exigences du client et des besoins fonctionnels.
@@ -60,42 +59,45 @@
         <div>
             <h2>Les catégories de développeur web</h2>
 
-            <h3>Développeur back-end</h3>
-            <p>
-                Il s’occupe de la programmation du côté du serveur : il crée le code et les programmes qui alimentent le serveur du site web, les bases de données et toutes les applications que contient le site internet. <br><br>
+            <div>   
+                <p class="line">
+                    <span class="bold">Developpeur back-end</span> <br><br>
+                    <span class="lightgrey"> Il s’occupe de la programmation du côté du serveur : il crée le code et les programmes qui alimentent le serveur du site web, les bases de données et toutes les applications que contient le site internet.</span> <br><br>
 
-                Il utilise les différents langages côté serveur : <br><br>
-                
+                    Il utilise les différents langages côté serveur : <br><br>
 
-                PHP <br>
-                Python <br>
-                Java <br>
-                Ruby <br>
-                SQL ( <span class="lightgrey">pour gérer les données dans les bases de données des sites</span> )
-            </p>
+                    <span class="lightgrey">PHP / Python / Java / Ruby / SQL ( <span class="lightgrey">pour gérer les données dans les bases de données des sites</span> ).</span> 
+                </p>
+            </div>
 
-            <h3>Développeur front-end</h3>
-            <p>
-                Il se charge de la conception du site web côté client et écrit le code nécessaire pour l’implémenter sur le web.
-
-                <div class="double_titre">
+            <div>
+                <p class="line">
+                    <span class="bold">Développeur front-end</span> <br><br>
+                    <span class="lightgrey">
+                    Il se charge de la conception du site web côté client et écrit le code nécessaire pour l’implémenter sur le web.
+                <div class="double_titre ">
                     <div>
                        Il utilise les différents langages côté client : <br><br>
 
+                       <span class="lightgrey">
                         HTML / CSS <br>
                         JavaScript
-                    </div>
+                       </span>
+                    </div>   
 
                     <div>
                         Il peut également réaliser : <br><br>
-                
+
+                        <span class="lightgrey">
                         Le référencement naturel ( SEO ) <br>
                         Les tests d’utilisabilité, d’accessibilité et de performances
+                        </span>
                     </div>
-            </p>
-        </div>
+                </div>
+                </p>
+            </div>
           
-          
+        <div>
 
         <h3>Développeur full stack</h3>
         <p>Il réunit les 2 facettes front-end et back-end.</p>
@@ -136,9 +138,9 @@
         <h3>Pour en savoir plus</h3>
         <a href="https://www.opiiec.fr/metiers/83057" target="_blank">www.opiiec.fr</a>
 
+        </div>
 
-
-        <div class="signature">Chloé Vauthier</div>
+        
 
 </div>
 </body>
