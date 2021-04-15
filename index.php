@@ -12,7 +12,7 @@
 <div class="marge">
 
     <div class="header">
-    <a href="../index.php"><img src="assets/images/icons/logo2.png" alt=""></a>
+        <img src="assets/images/icons/logo2.png" alt="">
     
         <div class="tool">
             <input class="cocher" type="checkbox" id="nav_button">

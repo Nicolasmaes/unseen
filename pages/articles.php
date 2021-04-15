@@ -36,16 +36,10 @@
 
     <div class="container_article font_text">
         <div>
-            <div class="card"></div>
                 <a href="creative_minds.php">Aspect créatif</a>
-            </div>
-            <div class="card"></div>
                 <a href="hybrid_minds.php">Vision hybride</a>
-                </div>
-            <div class="card"></div>
                 <a href="logical_minds.php">Aspect logique</a>
-            </div>
-    </div>  
+        </div>  
 
 </div>
 </body>
