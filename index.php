@@ -26,6 +26,7 @@
             </label>
 
             <div class="menu regular_font_text">
+                <p> <a href="index.php">Accueil</a> </p>
                 <p> <a href="pages/articles.php">Articles</a> </p>
                 <p> <a href="pages/about_us.php">A propos</a> </p>                          
                 <p> <a href="pages/contact_us.php">Contact</a> </p>

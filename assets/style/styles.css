@@ -11,6 +11,7 @@
     padding: 0;
     text-decoration: none;
     color: inherit;
+/*     border: 1px dotted gray; */
 }
 .header{
     position: fixed;
@@ -192,9 +193,29 @@ table{
     margin: auto;
     */
 }
-
-
-
+/* cartes des rubriques */
+#rubriques{
+    display: flex;
+    flex-direction: column;
+}
+#rubriques h2{
+    text-align: center;
+}
+#rubriques img{
+    max-width: 10rem;
+    height: auto;
+    align-self: center;
+}
+.card{
+    padding: 1rem 4rem 0 4rem;
+}
+button{
+    background-color:#60d8e5;
+    border-radius: 10px;
+    margin: 0 3rem;
+    padding: 0.5rem 0;
+    font-size: 1rem;
+}
 
 
 #fiches-contact{
@@ -386,6 +407,10 @@ table{
     {
         margin-right: 4rem;
     }
+    #rubriques{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
 }
 
 
@@ -400,6 +425,9 @@ table{
     .container_index p
     {
         text-align: center;
+    }
+    #rubriques{
+        flex-direction: row;
     }
 }
 
@@ -445,6 +473,10 @@ table{
         #nav_button:checked ~ .croix 
         {
             display: none;
+        }
+        #rubriques{
+            flex-direction: row;
+            flex-wrap: nowrap;
         }
 }
 
