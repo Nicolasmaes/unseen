@@ -196,6 +196,7 @@ table{
 }
 #fiches-contact li{
     padding: 0 1rem;
+    font-size: 1.25rem;
 }
 #fiches-contact li:nth-child(1){
     list-style-image: url('../images/icons/mobile.png');

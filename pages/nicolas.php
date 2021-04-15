@@ -240,11 +240,5 @@ La maîtrise de Git semble être un vrai point fort chez un junior.</p>
 
 <a href="https://programmation.developpez.com/actu/99401/Quels-sont-les-langages-de-programmation-que-vous-detestez-le-plus-Et-pourquoi">programmation.developpez.com</a>
 
-<<<<<<< HEAD
-=======
-<div class="signature">Nicolas Maës</div>
-
-</div>
->>>>>>> 1e82ebd1d93c3e31128b17778a5218c84845e73c
 </body>
 </html>

@@ -92,11 +92,8 @@ Le chef de publicité est un commercial de terrain. Il est en charge de la liais
 
 <p>La tâche du planneur stratégique est d’effectuer une veille économique mais aussi marketing des marchés dans le but de fournir de la matière à ses collaborateurs du pôle création et à ceux des pôles commerciaux. Son objectif réside en la construction du positionnement d’une marque en cohérence avec la stratégie de l’entreprise et les attentes des consommateurs potentiels.</p>
 <img src="../assets/images/pictures/jb-couv.jpg" alt="couv">
-<<<<<<< HEAD
-=======
 
 
 </div>
->>>>>>> 1e82ebd1d93c3e31128b17778a5218c84845e73c
 </body>
 </html>

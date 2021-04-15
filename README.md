@@ -121,7 +121,7 @@ les h2 et h3 seront de la couleurs de chaque catégories, et les h1 en noir.
 - [X] page d'à propos de nous
 
 ### wireframe
-- [ ] landing page
+- [X] landing page
 - [ ] page des rubriques
 - [ ] page d'un article
 - [ ] page de contact
@@ -133,10 +133,11 @@ les h2 et h3 seront de la couleurs de chaque catégories, et les h1 en noir.
 
 ## 12/04/21
 
-idée pour faire défiler les articles : un carousel ?
 - [X] rédaction de la landing page terminée
-- [ ] lien vers le blog à mettre en lumière sur la landing page
+- [X] lien vers le blog à mettre en lumière sur la landing page
 - [X] rédiger le sitemap.xml
 
 ## 14/04/21
-- [] rédiger les consignes de l'exercice dans à propos
+- [X] rédiger les consignes de l'exercice dans à propos
+- [X] rédiger la page des mentions légales
+- [] idée pour faire défiler les articles : un carousel avec Bootstrap ?

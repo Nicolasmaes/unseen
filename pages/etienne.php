@@ -79,14 +79,17 @@
             <p>
                 Il intervient en phase de conception production ( <span class="lightgrey">prototypage et finalisation</span> ) et de gestion : le motion designer gère une à trois productions en fonction des besoins. La production d’un film interactif exige une disponibilité dédiée. <br><br><br>
                 
-                <span class="bold"> Les Tâches quotidiennes sont :</span> <br><br>
-
-                <span class="line">
-                    Scénarisation, conception, production, optimisation, étalonnage. <br>
-                    Qualités du motion designer : visualisation, écoute, adaptation, créativité, projection. <br>
-                    Perspectives d’évolutions : cinéma, publicité, scénariste, production cinématographique. <br>
-                    Outils de prédilection : logiciel de montage et de création vidéo, fx, css3 html5, javascript ( <span class="lightgrey">anciennement flash, director</span> ). Tarif du motion designer, facturation jour/homme : entre 350 et 700 € HT selon profil et expérience. La Rémunération motion designer se situe à peu près à 20KE à 40KE annuel selon profil et expérience. Profil et formation du motion designer : école arts graphiques, autodidacte. <br>
-                </span>
+                <span class="bold"> Les tâches quotidiennes</span><br><br>
+                <span class="line">Scénarisation, conception, production, optimisation, étalonnage.</span><br><br> 
+                <span class="bold"> Qualités du motion designer</span><br><br> 
+                <span class="line">Visualisation, écoute, adaptation, créativité, projection.</span><br><br>
+                <span class="bold">Perspectives d’évolutions</span><br><br> cinéma, publicité, scénariste, production cinématographique.<br><br>
+                <span class="bold"> Outils de prédilection</span><br><br> 
+                Logiciels de montage et de création vidéo, fx, css3 html5, javascript ( <span class="lightgrey">anciennement flash, director</span> ).<br><br>
+                <span class="bold">Facturation jour/homme</span><br><br>
+                <span class="line">Entre 350 et 700 € HT selon profil et expérience.<br>La rémunération motion designer se situe à peu près de 20K€ à 40K€ annuel selon profil et expérience.</span><br><br>
+                <span class="bold">Profil et formation du motion designer</span> <br><br>
+                <span class="line">école arts graphiques, autodidacte. <br></span>
             </p>
             
         </div>

@@ -48,15 +48,15 @@
         Il existe pourtant un grand nombre d'acteurs oeuvrant dans un but commun; la création d'environnements attrayants et fonctionnels. <br><br>
 
 Vous trouverez ici divers articles traitant du monde digital.
-Ils ont été rédigés par la <a href="https://promo-68.codeur.online/blog/">promo 68 de l'Access Code School de Dijon</a>, en 2021. </p><br><br>
+Ils ont été rédigés par la <a href="https://promo-68.codeur.online/blog/" target="_blank"><span class="lightgrey">promo 68 de l'Access Code School de Dijon</span></a>, en 2021. </p><br><br>
 
         <p>
         Envie d'en savoir plus ?<br>
         <a href="pages/articles.php"> <div class="button bold">Par ici</div> </a> 
-        </p>
-
+        </p><br>
+ 
     </div>
-
+    <a href="pages/credits.php"><p class="button bold font_text signature"> mentions légales</p></a>
 </div>
 </body>
 </html>
