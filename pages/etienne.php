@@ -39,7 +39,7 @@
         <div>
             <div class="big_title">
                 <h1> Motion designer web </h1>
-                <p>Article réalisé et rédigé par <a href="https://github.com/etiennezastko"><span class="lightgrey">Etienne Z</span>.</a></p>
+                <p>Article réalisé et rédigé par <a href="https://github.com/etiennezastko" target="_blank"><span class="lightgrey">Etienne Z</span>.</a></p>
             </div>
 
             <p>

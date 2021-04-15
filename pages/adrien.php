@@ -13,7 +13,7 @@
 <div class="marge">
 
     <div class="header">
-    <a href="../index.php"><img src="../assets/images/icons/logo2.png" alt=""></a>
+    <a href="../index.php" target="_blank"><img src="../assets/images/icons/logo2.png" alt=""></a>
 
         <div class="tool">
             <input class="cocher" type="checkbox" id="nav_button">
@@ -39,7 +39,7 @@
         <div>
             <div class="big_title">
                 <h1> La cryptographie ou l'art du secret </h1>
-                <p> Article réalisé et rédigé par <a href="https://github.com/Adrien-Ray"> <span class="lightgrey">Adrien R.</span></a></p>
+                <p> Article réalisé et rédigé par <a href="https://github.com/Adrien-Ray" target="_blank"> <span class="lightgrey">Adrien R.</span></a></p>
             </div>
 
             <p>
@@ -117,10 +117,9 @@
             <p>
                 La cryptologie regroupe un grand nombre de compétences. De meme, il existe une grande variété de métiers dans lesquels il peut être nécessaire d’avoir des notions de cryptographie. A partir du moment ou un systeme, un réseau, une entreprise manipule des données dont la lecture sans autorisation peut être convoité, il est nécessaire qu’une personne compétente dans ce domaine réfléchisse a la mise en place et la maintenance des systemes cryptographiques.
             </p>
-
         </div>
 
-        <p> Première photo par <a href="https://unsplash.com/@markusspiske"> <span class="lightgrey"> Markus Spiske </span> </a> - Seconde photo par <a href="https://unsplash.com/@techdailyca"> <span class="lightgrey"> Tech Daily </span> </a>. <br> </p> 
+        <p> Première photo par <a href="https://unsplash.com/@markusspiske" target="_blank"> <span class="lightgrey"> Markus Spiske </span> </a> - Seconde photo par <a href="https://unsplash.com/@techdailyca" target="_blank"> <span class="lightgrey"> Tech Daily </span> </a>. <br> </p> 
     </div>  
 
 </div>

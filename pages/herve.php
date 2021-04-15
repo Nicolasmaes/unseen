@@ -37,12 +37,21 @@
 
     <div class="container_article font_text">
         <div>
-            <h1> Le métier de Community Manager </h1>
-            <p>par <a href="https://github.com/Micmacthebigmac" target="_blank">Hervé R.</a></p>
+            <div class="big_title">
+                <h1> Le métier de Community Manager </h1>
+                <p>par <a href="https://github.com/Micmacthebigmac" target="_blank"><span class="lightgrey">Hervé R</span>.</a></p>
+            </div>
+
             <p>
                 Le community manager est une personne qui possède plusieurs casquette. La principale étant d’être le médiateur entre une communauté et la structure pour laquelle il travaille. Il est donc le porte parole de l’entreprise ou de la marque sur internet.
             </p>
+<<<<<<< HEAD
             <img src="../assets/images/pictures/photo_18.jpg" alt="Community manager qui prends la parole devant ses collègues">
+=======
+
+            <img src="../assets/images/pictures/photo_18.jpg" alt="Community manager qui prends la parole devant ses collègues">
+
+>>>>>>> luc
             <p>
                 Son travail consiste en amont à créer et à gérer une communauté.
                 Il a besoin d’une connaissance solide de la structure, une simple information peut être primordiale pour répondre à sa communauté.
@@ -62,7 +71,11 @@
                 </span>
             </p>
 
+<<<<<<< HEAD
             <img src="../assets/images/pictures/photo_17.jpg" alt="reunion de travail">
+=======
+            <img src="../assets/images/pictures/photo_17.jpg" alt="brainstorming autour d'une table">
+>>>>>>> luc
 
             <p>
                 <span class="line">
@@ -84,8 +97,7 @@
         </div>
 
         <p>
-            Première photo par <a href="https://unsplash.com/@austindistel"> <span class="lightgrey"> Austin Distel </span> </a> - Seconde photo par <a href="https://unsplash.com/@dylandgillis"> <span class="lightgrey"> Dylan Gillis </span> </a>. <br>
-            Article réalisé et rédigé par <a href="https://github.com/Micmacthebigmac"> <span class="lightgrey"> Hervé  </span> </a>.
+            Première photo par <a href="https://unsplash.com/@austindistel" target="_blank"> <span class="lightgrey"> Austin Distel </span> </a> - Seconde photo par <a href="https://unsplash.com/@dylandgillis" target="_blank"> <span class="lightgrey"> Dylan Gillis </span> </a>. <br>
         </p> 
     </div>  
 
