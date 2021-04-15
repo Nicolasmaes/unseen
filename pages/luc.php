@@ -38,7 +38,7 @@
     <div class="container_article font_text">
         <div>
             <h1>Devops</h1>
-            <p>par <a href="https://github.com/LucLeneuf" target="_blank">Luc L.</a></p>
+            <p> Article réalisé et rédigé par <a href="https://github.com/LucLeneuf" target="_blank"><span class="lightgrey">Luc L</span>.</a></p>
             <p>
                Le devops est un metier qui hybride deux professions. Celle de développeur web et d'admnistrateur système. <br> 
                Cette polyvalence lui donne une vision unique. il concoit les applications dans leur globalité.
@@ -81,8 +81,7 @@
         </div>
 
         <p>
-            Première photo par <a href="https://unsplash.com/@homajob"> <span class="lightgrey"> Scott Graham </span> </a> - Seconde photo par <a href="https://unsplash.com/@cgower"> <span class="lightgrey"> Christopher Gower </span> </a>. <br>
-            Article réalisé et rédigé par <a href="https://github.com/LucLeneuf"> <span class="lightgrey"> Luc L </span> </a>.
+            Première photo par <a href="https://unsplash.com/@homajob" target="_blank"> <span class="lightgrey"> Scott Graham </span> </a> - Seconde photo par <a href="https://unsplash.com/@cgower" target="_blank"> <span class="lightgrey"> Christopher Gower </span> </a>.
         </p> 
     </div>
 

@@ -37,9 +37,11 @@
 
     <div class="container_article font_text">
         <div>
-            <h1> Analyste - test et validation </h1>
-            <p>par <a href="https://github.com/Sastaras" target="_blank">Gaël S.</a></p>
-            <img src="../assets/images/pictures/gael-couv-1.jpg" alt="couv">
+            <div class="big_title">
+                <h1> Analyste - test et validation </h1>
+                <p> Article réalisé et rédigé par <a href="https://github.com/Sastaras" target="_blank"><span class="lightgrey">Gaël S</span>.</a></p>
+            </div>
+
             <p>
                 L’analyste test et validation, aussi appelé ingénieur test ou testeur, a pour activité principale la validation des logiciels ou applications avant leur déploiement. <br><br><br>
 
@@ -53,8 +55,8 @@
                 Mettre en place les outils de tests. Exécuter les tests et les corriger jusqu’à validation des spécifications.
                 </span>
             </p>
-
-            <img src="photo_13.jpg" alt="Une personne sur un ordinateur portable affichant des statistiques">
+      
+            <img src="../assets/images/pictures/photo_13.jpg" alt="Une personne sur un ordinateur portable affichant des statistiques">
 
             <p class=line>  
                 Consigner les résultats des tests, rédiger un rapport de synthèse. <br>
@@ -72,11 +74,9 @@
                 Connaitre et appliquer les méthodologies de tests comme celle de l’ISTQB ( <span class="lightgrey">Comité international de qualification du test logiciel</span> ).
             </p>
 
-            <img src="photo_14.jpg" alt="Moniteur affichant des statistiques">
-            <p>
-                Pour un débutant, le salaire annuel se situera entre 33.000€ et 37.000€. 
-            </p>
-            <img src="../assets/images/pictures/gael-2.jpg" alt="couv">
+            <img src="../assets/images/pictures/photo_14.jpg" alt="Moniteur affichant des statistiques">
+
+            <p> Pour un débutant, le salaire annuel se situera entre 33.000€ et 37.000€. </p>
         </div>
 
         <div class="double_titre">
@@ -102,9 +102,7 @@
         </div>
 
         <p>
-            Première photo par <a href="https://unsplash.com/@campaign_creators"> <span class="lightgrey"> Campaign Creators </span> </a> - Seconde photo par <a href="https://unsplash.com/@srd844"> <span class="lightgrey"> Stephen Dawson </span> </a>. 
-            <a href="https://www.devidia.net/la-creation-de-composants-utiles-au-developpement-web/">crédits photos</a><br>
-            Article réalisé et rédigé par <a href="https://github.com/Sastaras"> <span class="lightgrey"> Gaël S </span> </a>.
+            Première photo par <a href="https://unsplash.com/@campaign_creators" target="_blank"> <span class="lightgrey"> Campaign Creators </span> </a> - Seconde photo par <a href="https://unsplash.com/@srd844" target="_blank"> <span class="lightgrey"> Stephen Dawson </span> </a>. 
         </p> 
     </div>
   
