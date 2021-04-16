@@ -36,7 +36,7 @@ img
     margin-top: 6rem;
 }
 
-a span:hover,  .menu p:hover, .button:hover
+.container_article a span:hover,  .menu p:hover, .button:hover, .container_gallery div:hover .title
 {
     color: #60d8e5;
 }
@@ -128,7 +128,7 @@ h1
             row-gap: 4rem;
             max-width: 70rem; 
         }
-
+      
         .container_article div
         {
             display: flex;
@@ -168,6 +168,45 @@ h1
             line-height: 1.6rem;
         }
 
+
+        /*gallery*/
+
+        .container_gallery
+        {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            row-gap: 5rem;
+            /*
+            max-width: 44rem;
+            */
+            max-width: 44rem;
+            margin-top: 2rem;  
+        }
+
+        .container_gallery__item
+        {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            column-gap: 2rem;
+            row-gap: 2rem;
+            
+        }
+
+        .title
+        {
+            letter-spacing: 0.2rem;
+            text-transform: uppercase;
+            font-weight: bold;
+           
+
+        }
+
+       
+
+     
 
 
 /* Tableau ? */
@@ -333,6 +372,16 @@ table{
 @media screen and (min-width:30rem)
 
 {
+    .container_article p
+    {
+        text-align: justify;
+    }
+    .header
+    {
+        height: 8rem;
+    }
+
+
     .container_article
     {
         display: flex;
@@ -349,7 +398,7 @@ table{
     .marge 
     {
         margin: 4rem;
-        margin-top: 6rem;
+        margin-top: 8rem;
     }
 
     .header img
@@ -376,8 +425,24 @@ table{
     {
         text-align: center;
     }
-}
 
+    .container_gallery
+    {
+
+        row-gap: 10rem;
+        margin-bottom: 10rem; 
+        margin-top: 4rem;
+ 
+      
+    }
+
+    .container_gallery__item
+    {
+        text-align: center;    
+    }
+
+    
+}
 
 /* TRANSITION HAMBURGER - MENU */
 
@@ -422,6 +487,3 @@ table{
             display: none;
         }
 }
-
-
-
