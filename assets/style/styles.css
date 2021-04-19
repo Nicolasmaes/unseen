@@ -11,13 +11,71 @@
     padding: 0;
     text-decoration: none;
     color: inherit;
-/*     border: 1px dotted gray; */
 }
 .header{
     position: fixed;
     top: 3%; /* pour que le header soit toujours au bon endroit*/
 }
+#home-bg{
+    background: url("blue.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.card div{
+    justify-content: center;
+    border-radius: 10px;
+    padding: 0.5rem 3rem;
+    font-size: 1rem;
+    border: none;
+}
+.card a{
+    margin: 0 3rem;
+}
 
+#blue{
+    border-color: #60D8E5;
+    border: 1px solid #60D8E5;
+    transition: 0.4s;
+}
+#purple{
+    border-color: #B670D3;
+    border: 1px solid #B670D3;
+    transition: 0.4s;
+}
+#red{
+    border-color: #EC5971;
+    border: 1px solid #EC5971;
+    transition: 0.4s;
+}
+#blue:hover{
+    background-color: #60D8E5;
+    color: white;
+    transition: 0.4s;
+}
+#purple:hover{
+    background-color: #B670D3;
+    color: white;
+    transition: 0.4s;
+}
+#red:hover{
+    background-color: #EC5971;
+    color: white;
+    transition: 0.4s;
+}
+#bluetext{
+    color: #60D8E5;
+}
+#purpletext{
+    color: #B670D3;
+}
+#redtext{
+    color: #EC5971;
+}
+.card{
+    padding: 1rem 4rem 0 4rem;
+    position: relative;
+    display: flex;
+}
 body
 {
     display: flex;
@@ -202,25 +260,13 @@ table{
     text-align: center;
 }
 #rubriques img{
-    max-width: 10rem;
+    max-width: 20rem;
     height: auto;
     align-self: center;
 }
-.card{
-    padding: 1rem 4rem 0 4rem;
-}
-button{
-    background-color:#60d8e5;
-    border-radius: 10px;
-    margin: 0 3rem;
-    padding: 0.5rem 0;
-    font-size: 1rem;
-}
-
-
 #fiches-contact{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     column-gap: 4rem;
 }
 #fiches-contact li{
@@ -427,6 +473,9 @@ button{
         text-align: center;
     }
     #rubriques{
+        flex-direction: row;
+    }
+    #fiches-contact{
         flex-direction: row;
     }
 }

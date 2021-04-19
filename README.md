@@ -140,4 +140,3 @@ les h2 et h3 seront de la couleurs de chaque catégories, et les h1 en noir.
 ## 14/04/21
 - [X] rédiger les consignes de l'exercice dans à propos
 - [X] rédiger la page des mentions légales
-- [] idée pour faire défiler les articles : un carousel avec Bootstrap ?
