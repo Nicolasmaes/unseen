@@ -35,7 +35,7 @@
     </div>
 
 
-    <div class="container_index font_text">
+    <div class="container_index font_text" id="home-bg">
 
 
         <h1 class="bolder">Bienvenue</h1>
@@ -43,7 +43,7 @@
 
         <p>
 
-        <span class="bold">Unseen</span> <!--logo à insérer-->,signifiant invisible, est né de la volonté de mettre en lumière les différents métiers du numérique. <br><br><br>
+        <span class="bold">Unseen</span>,signifiant invisible, est né de la volonté de mettre en lumière les différents métiers du numérique. <br><br><br>
 
         <span class="mediumgrey line"> En effet, combien d'entre nous naviguent quotidiennement sur le web sans pour autant en connaître les rouages ?<br>
         Il existe pourtant un grand nombre d'acteurs oeuvrant dans un but commun; la création d'environnements attrayants et fonctionnels. <br><br>
