@@ -475,13 +475,10 @@ button{
     {
         text-align: center;
     }
-<<<<<<< HEAD
-=======
     #rubriques{
         flex-direction: row;
     }
-}
->>>>>>> fbac7540bb95ce75cc0aad75dc37ce97ebe9af82
+
 
     .container_gallery
     {
@@ -543,9 +540,6 @@ button{
         {
             display: none;
         }
-<<<<<<< HEAD
-}
-=======
         #rubriques{
             flex-direction: row;
             flex-wrap: nowrap;
@@ -554,4 +548,3 @@ button{
 
 
 
->>>>>>> fbac7540bb95ce75cc0aad75dc37ce97ebe9af82

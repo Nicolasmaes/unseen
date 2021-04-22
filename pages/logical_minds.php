@@ -36,20 +36,6 @@
 
 
 
-<<<<<<< HEAD
-    <div class="container_article font_text">
-        <div>
-
-        <a href="nicolas.php">nicolas</a>
-        <a href="nathan.php">nathan</a>
-        <a href="gael.php">gael</a>
-        <a href="paule.php">paule</a>
-        <a href="adrien.php">adrien</a>
-        <a href="williams.php">williams</a>
-        </div>  
-    </div>
-</section>
-=======
     <div class="container_gallery font_text">
 
     <a href="adrien.php">
@@ -131,6 +117,5 @@
     </div>  
 
 </div>
->>>>>>> luc
 </body>
 </html>
