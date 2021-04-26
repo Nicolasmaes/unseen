@@ -1,0 +1,77 @@
+<svg id="logo_redacteur" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 277.09 262">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4addff;
+      }
+
+      .cls-2 {
+        fill: #00649b;
+        opacity: 0.35;
+      }
+
+      .cls-3 {
+        fill: #f4f4f4;
+      }
+
+      .cls-4 {
+        opacity: 0.14;
+      }
+
+      .cls-5 {
+        fill: #fffbf3;
+      }
+
+      .cls-6 {
+        fill: none;
+      }
+
+      .cls-7 {
+        fill: #3d3431;
+      }
+
+      .cls-8, .cls-9 {
+        fill: #3d3134;
+      }
+
+      .cls-8 {
+        opacity: 0.25;
+      }
+
+      .cls-9 {
+        opacity: 0.45;
+      }
+    </style>
+  </defs>
+  <g id="Background">
+    <path class="cls-1" d="M199.38,21c17.43,11.46,31.24,27.78,45.69,46,14.29,18.22,29.36,38.31,33.75,60.92s-1.72,47.88-16.64,65.3c-14.75,17.43-38.31,27.17-60.12,39.59C180.23,245,160,260.09,137.84,263.52c-22.13,3.62-46.47-4.23-65.78-18C52.6,231.8,38,212.17,26.54,191.13,14.92,170.09,6.12,147.8,3.77,124S5.34,75.15,18.38,56.46c13-18.52,35-30.61,56.83-39.59C96.88,7.92,118.37,2,139.73,2.43A112.79,112.79,0,0,1,199.38,21Z" transform="translate(-3.13 -2.4)"/>
+  </g>
+  <g id="shadow">
+    <path class="cls-2" d="M181,93.4H115a11.81,11.81,0,0,1-1.33.67A13,13,0,0,1,112,96.2v87.23a2,2,0,0,0,2,2H181a2,2,0,0,0,2-2V95.37A2,2,0,0,0,181,93.4Z" transform="translate(-3.13 -2.4)"/>
+  </g>
+  <g id="back">
+    <polygon class="cls-3" points="118.71 88 118.5 87 104.87 100 117.45 100 117.45 100 104.87 100 104.87 174 117.45 174 124.79 174 169.87 174 169.87 88 118.71 88"/>
+  </g>
+  <g id="ombres">
+    <rect class="cls-4" x="105.87" y="103" width="11" height="4"/>
+  </g>
+  <g id="reflets">
+    <rect class="cls-5" x="165.87" y="91" width="2" height="80" rx="1"/>
+    <rect class="cls-5" x="112.87" y="169" width="9" height="2" rx="1"/>
+    <circle class="cls-5" cx="109.87" cy="170" r="1"/>
+  </g>
+  <g>
+    <polygon class="cls-6" points="116.76 89.74 107.56 98.94 116.76 98.94 116.76 89.74"/>
+    <polygon class="cls-6" points="120.86 88.94 120.86 102.94 106.76 102.94 106.76 172.94 147.87 172.94 169.76 172.94 169.76 88.94 147.87 88.94 120.86 88.94"/>
+    <path class="cls-7" d="M174.89,87.34H120a2,2,0,0,0-1.4.6L106.49,100a2,2,0,0,0-.6,1.4v75.9a2,2,0,0,0,2,2h67a2,2,0,0,0,2-2v-88A2,2,0,0,0,174.89,87.34Zm-55,4.8v9.2h-9.2Zm53,83.2h-63v-70H124v-14h48.9Z" transform="translate(-3.13 -2.4)"/>
+  </g>
+  <g id="fonts">
+    <rect class="cls-8" x="116.87" y="123" width="43" height="4" rx="2"/>
+    <rect class="cls-8" x="116.87" y="143" width="43" height="4" rx="2"/>
+    <rect class="cls-8" x="116.87" y="131" width="23" height="4" rx="2"/>
+    <rect class="cls-8" x="145.87" y="131" width="14" height="4" rx="2"/>
+    <rect class="cls-8" x="116.87" y="151" width="15" height="4" rx="2"/>
+    <rect class="cls-9" x="126.87" y="110" width="23" height="4" rx="2"/>
+    <rect class="cls-9" x="148.87" y="160" width="11" height="4" rx="2"/>
+  </g>
+</svg>

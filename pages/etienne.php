@@ -13,7 +13,7 @@
 <div class="marge">
 
     <div class="header">
-    <a href="../index.php"><img src="../assets/images/icons/logo2.png" alt=""></a>
+    <a href="../index.php"><img src="../assets/images/logo_unseen.svg" alt=""></a>
 
         <div class="tool">
             <input class="cocher" type="checkbox" id="nav_button">
@@ -27,8 +27,10 @@
             </label>
 
             <div class="menu regular_font_text">
-            <p> <a href="articles.php">Articles</a> </p>
-                <p> <a href="about_us.php">A propos</a> </p>                          
+                <p> <a href="../index.php">Accueil</a> </p>
+                <p> <a href="articles.php">Articles</a> </p>
+                <p> <a href="about_us.php">A propos</a> </p>   
+                <div class="barre"></div>                           
                 <p> <a href="contact_us.php">Contact</a> </p>
             </div>
         </div>
@@ -50,7 +52,7 @@
         </div>  
 
         <div>
-            <h2>Le rôle la perspective du motion designer</h2>
+            <h2 class="blue">Le rôle la perspective du motion designer</h2>
         
             <p>
                 La production motion design peut déboucher sur la réalisation de film interactif, d’animations web CSS avancées, de courts-métrages vidéo, de présentation d’entreprise, de séquences animées en 3 dimensions. Le motion design n’est pas une fonction exclusive au web et au digital, néanmoins c’est une fonction très représentée dans les métiers du design et de la production dans l’industrie digitale. De nombreux profils de motion designers excercent en tant que freelance indépendants, cela nécessite toutefois de disposer d’un portfolio de travaux en motion design pour communiquer et valoriser le savoir-faire.<br><br>
@@ -62,7 +64,7 @@
         </div>
 
         <div>
-            <h2>Fiche métier motion designer</h2>
+            <h2 class="blue">Fiche métier motion designer</h2>
 
             <p>
                 <span class="bold">Rôle du motion designer :</span> <br><br>
@@ -74,19 +76,22 @@
         </div>   
 
         <div>
-            <h2>Intervention dans le projet digital</h2>
+            <h2 class="blue">Intervention dans le projet digital</h2>
 
             <p>
                 Il intervient en phase de conception production ( <span class="lightgrey">prototypage et finalisation</span> ) et de gestion : le motion designer gère une à trois productions en fonction des besoins. La production d’un film interactif exige une disponibilité dédiée. <br><br><br>
                 
-                <span class="bold"> Les Tâches quotidiennes sont :</span> <br><br>
-
-                <span class="line">
-                    Scénarisation, conception, production, optimisation, étalonnage. <br>
-                    Qualités du motion designer : visualisation, écoute, adaptation, créativité, projection. <br>
-                    Perspectives d’évolutions : cinéma, publicité, scénariste, production cinématographique. <br>
-                    Outils de prédilection : logiciel de montage et de création vidéo, fx, css3 html5, javascript ( <span class="lightgrey">anciennement flash, director</span> ). Tarif du motion designer, facturation jour/homme : entre 350 et 700 € HT selon profil et expérience. La Rémunération motion designer se situe à peu près à 20KE à 40KE annuel selon profil et expérience. Profil et formation du motion designer : école arts graphiques, autodidacte. <br>
-                </span>
+                <span class="bold"> Les tâches quotidiennes</span><br><br>
+                <span class="line">Scénarisation, conception, production, optimisation, étalonnage.</span><br><br> 
+                <span class="bold"> Qualités du motion designer</span><br><br> 
+                <span class="line">Visualisation, écoute, adaptation, créativité, projection.</span><br><br>
+                <span class="bold">Perspectives d’évolutions</span><br><br> cinéma, publicité, scénariste, production cinématographique.<br><br>
+                <span class="bold"> Outils de prédilection</span><br><br> 
+                Logiciels de montage et de création vidéo, fx, css3 html5, javascript ( <span class="lightgrey">anciennement flash, director</span> ).<br><br>
+                <span class="bold">Facturation jour/homme</span><br><br>
+                <span class="line">Entre 350 et 700 € HT selon profil et expérience.<br>La rémunération motion designer se situe à peu près de 20K€ à 40K€ annuel selon profil et expérience.</span><br><br>
+                <span class="bold">Profil et formation du motion designer</span> <br><br>
+                <span class="line">école arts graphiques, autodidacte. <br></span>
             </p>
             
         </div>

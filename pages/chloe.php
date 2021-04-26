@@ -13,7 +13,7 @@
 <div class="marge">
 
     <div class="header">
-    <a href="../index.php"><img src="../assets/images/icons/logo2.png" alt=""></a>
+    <a href="../index.php"> <img src="../assets/images/logo_unseen.svg" alt=""> </a>
 
         <div class="tool">
             <input class="cocher" type="checkbox" id="nav_button">
@@ -27,8 +27,10 @@
             </label>
 
             <div class="menu regular_font_text">
+                <p> <a href="../index.php">Accueil</a> </p>
                 <p> <a href="articles.php">Articles</a> </p>
-                <p> <a href="about_us.php">A propos</a> </p>                          
+                <p> <a href="about_us.php">A propos</a> </p> 
+                <div class="barre"></div>                             
                 <p> <a href="contact_us.php">Contact</a> </p>
             </div>
         </div>
@@ -57,7 +59,7 @@
         </div>
 
         <div>
-            <h2>Les catégories de développeur web</h2>
+            <h2 class="purple">Les catégories de développeur web</h2>
 
             <div>   
                 <p class="line">

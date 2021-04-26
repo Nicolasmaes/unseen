@@ -89,9 +89,9 @@ les h2 et h3 seront de la couleurs de chaque catégories, et les h1 en noir.
 
 - [ ] rédiger chacun nos propres présentations
 
-- [ ] contact : numéro, mail, linkedin git-hub et nos propres sites
+- [X] contact : numéro, mail, linkedin git-hub et nos propres sites
 
-- [ ] s'approprier les articles en HTML
+- [X] s'approprier les articles en HTML
    
     NICOLAS
     - [X] Nathan https://promo-68.codeur.online/blog/index.php/2021/04/02/quest-ce-que-le-metier-de-chef-de-projet/
@@ -104,24 +104,24 @@ les h2 et h3 seront de la couleurs de chaque catégories, et les h1 en noir.
     - [X] Jean-Baptiste https://promo-68.codeur.online/blog/index.php/2021/04/02/les-agences-de-communication/
 
     LUC
-    - [XX] Sonia https://promo-68.codeur.online/blog/index.php/2021/04/02/graphiste-un-metier-creatif/
-    - [XX] Romain https://promo-68.codeur.online/blog/index.php/2021/04/02/les-differences-des-metiers-du-web-roles-et-missions-en-fonction-de-la-structure/
-    - [XX] Gael https://promo-68.codeur.online/blog/index.php/2021/04/02/lanalyste-test-et-validation/
+    - [X] Sonia https://promo-68.codeur.online/blog/index.php/2021/04/02/graphiste-un-metier-creatif/
+    - [X] Romain https://promo-68.codeur.online/blog/index.php/2021/04/02/les-differences-des-metiers-du-web-roles-et-missions-en-fonction-de-la-structure/
+    - [X] Gael https://promo-68.codeur.online/blog/index.php/2021/04/02/lanalyste-test-et-validation/
     - [X] Paule https://promo-68.codeur.online/blog/index.php/2021/04/02/le-metier-de-directeur-commercial/
-    - [XX] Adam https://promo-68.codeur.online/blog/index.php/2021/04/02/web-designer-quest-ce-que-cest/
-    - [XX] Hervé https://promo-68.codeur.online/blog/index.php/2021/04/02/le-metier-de-comunity-manager/
-    - [XX] Adrien https://promo-68.codeur.online/blog/index.php/2021/04/02/les-metiers-de-la-cryptographie/
-    - [XX] Luc https://promo-68.codeur.online/blog/index.php/2021/04/02/devops/
+    - [X] Adam https://promo-68.codeur.online/blog/index.php/2021/04/02/web-designer-quest-ce-que-cest/
+    - [X] Hervé https://promo-68.codeur.online/blog/index.php/2021/04/02/le-metier-de-comunity-manager/
+    - [X] Adrien https://promo-68.codeur.online/blog/index.php/2021/04/02/les-metiers-de-la-cryptographie/
+    - [X] Luc https://promo-68.codeur.online/blog/index.php/2021/04/02/devops/
     
 ### zoning
 - [X] landing page
-- [ ] page des rubriques
-- [ ] page d'un article
-- [ ] page de contact
-- [ ] page d'à propos de nous
+- [X] page des rubriques
+- [X] page d'un article
+- [X] page de contact
+- [X] page d'à propos de nous
 
 ### wireframe
-- [ ] landing page
+- [X] landing page
 - [ ] page des rubriques
 - [ ] page d'un article
 - [ ] page de contact
@@ -133,5 +133,11 @@ les h2 et h3 seront de la couleurs de chaque catégories, et les h1 en noir.
 
 ## 12/04/21
 
-idée pour faire défiler les articles : un carousel ?
-- rédaction de la landing page terminée
+- [X] rédaction de la landing page terminée
+- [X] lien vers le blog à mettre en lumière sur la landing page
+- [X] rédiger le sitemap.xml
+
+## 14/04/21
+- [X] rédiger les consignes de l'exercice dans à propos
+- [X] rédiger la page des mentions légales
+- [] idée pour faire défiler les articles : un carousel avec Bootstrap ?

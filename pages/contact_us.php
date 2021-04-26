@@ -12,7 +12,7 @@
 <div class="marge">
 
     <div class="header">
-    <a href="../index.php"><img src="../assets/images/icons/logo2.png" alt=""></a>
+    <a href="../index.php"> <img src="../assets/images/logo_unseen.svg" alt=""> </a>
 
         <div class="tool">
             <input class="cocher" type="checkbox" id="nav_button">
@@ -26,8 +26,10 @@
             </label>
 
             <div class="menu regular_font_text">
+                <p> <a href="../index.php">Accueil</a> </p>
                 <p> <a href="articles.php">Articles</a> </p>
-                <p> <a href="about_us.php">A propos</a> </p>                          
+                <p> <a href="about_us.php">A propos</a> </p> 
+                <div class="barre"></div>                             
                 <p> <a href="contact_us.php">Contact</a> </p>
             </div>
         </div>
@@ -35,22 +37,33 @@
 
 
 
-    <div class="container_article font_text">
-        <div>
-        <h1>Luc</h1>
-            <ul>
-            <li><a href="tel:+33782393794">0782393794</a></li>
-            <li><a href="mailto:luc.leneuf@hotmail.fr">luc.leneuf@hotmail.fr</a></li>
-            <li><a href="https://github.com/LucLeneuf">https://github.com/LucLeneuf</a></li>
-            <li><a href="ll-book.fr">ll-book.fr</a></li>
-            </ul>
-        <h1>Nicolas</h1>
-        <ul>
-            <li><a href="tel:+33619965939">0619965939</a></li>
-            <li><a href="mailto:contact@nicolasmaes.fr">contact@nicolasmaes.fr</a></li>
-            <li><a href="https://github.com/Nicolasmaes">https://github.com/Nicolasmaes</a></li>
-            <li><a href="https://www.nicolasmaes.fr">nicolasmaes.fr</a></li>
-        </ul>
+    <div class="container_contact font_text">
+       
+           
+                <p class="line">
+                    <span class="container_item__specific__title">Luc</span> <br><br>
+
+                    <span class="lightgrey">
+                        <a href="mailto:luc.leneuf@hotmail.fr">luc.leneuf@hotmail.fr</a> 
+                        <a href="https://github.com/LucLeneuf"target="_blank">github.com/LucLeneuf</a> <br>
+                        <a href="https://ll-book.fr"target="_blank">ll-book.fr</a>
+                    </span>
+                </p>
+               
+            
+
+            <p class="line">
+                    <span class="container_item__specific__title">Nicolas</span> <br><br>
+
+                    <span class="lightgrey">
+                    
+                    <a href="mailto:contact@nicolasmaes.fr">contact@nicolasmaes.fr</a> 
+                    <a href="https://github.com/Nicolasmaes"target="_blank">github.com/Nicolasmaes</a> <br>
+                    <a href="https://www.nicolasmaes.fr" target="_blank">nicolasmaes.fr</a>
+            </p>
+           
+           
+         
     </div>  
 
 </div>

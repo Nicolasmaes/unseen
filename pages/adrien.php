@@ -13,8 +13,7 @@
 <div class="marge">
 
     <div class="header">
-    <a href="../index.php" target="_blank"><img src="../assets/images/icons/logo2.png" alt=""></a>
-
+    <a href="../index.php" target="_blank"> <img src="../assets/images/logo_unseen.svg" alt=""> </a>
         <div class="tool">
             <input class="cocher" type="checkbox" id="nav_button">
 
@@ -27,8 +26,10 @@
             </label>
 
             <div class="menu regular_font_text">
+                <p> <a href="../index.php">Accueil</a> </p>
                 <p> <a href="articles.php">Articles</a> </p>
-                <p> <a href="about_us.php">A propos</a> </p>                          
+                <p> <a href="about_us.php">A propos</a> </p>  
+                <div class="barre"></div>                            
                 <p> <a href="contact_us.php">Contact</a> </p>
             </div>
         </div>
@@ -68,7 +69,7 @@
         </div>  
 
         <div>
-            <h2> La cryptographie dans le numérique </h2>
+            <h2 class="red"> La cryptographie dans le numérique </h2>
 
             <p>
                 Dans le numérique, la cryptographie est omni-présente. D’abord utilisé dans les communications militaires, puis dans les messages relevants du secret d’état en général ( <span class="lightgrey">sphère diplomatique</span> ). Elle s’est continuellement perfectionné et démocratisé. En effet, les secteurs bancaires et industriels ont rapidement compris que la posession de technologie fiables serait vital, pour sécurisé les informations bancaires et contrer l’espionnage industriel. Aujourd’hui, sur internet, le simple fait de rentrer sur un espace personel demande par exemple : <br><br>
@@ -84,7 +85,7 @@
         </div> 
 
         <div>   
-            <h2> La cryptographie dans les métiers du numérique </h2>
+            <h2 class="red"> La cryptographie dans les métiers du numérique </h2>
 
             <p class="line">
                 
@@ -113,7 +114,7 @@
         </div>
 
         <div>
-            <h2> Conclusion </h2>
+            <h2 class="red"> Conclusion </h2>
             <p>
                 La cryptologie regroupe un grand nombre de compétences. De meme, il existe une grande variété de métiers dans lesquels il peut être nécessaire d’avoir des notions de cryptographie. A partir du moment ou un systeme, un réseau, une entreprise manipule des données dont la lecture sans autorisation peut être convoité, il est nécessaire qu’une personne compétente dans ce domaine réfléchisse a la mise en place et la maintenance des systemes cryptographiques.
             </p>

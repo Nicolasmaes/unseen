@@ -27,8 +27,10 @@
             </label>
 
             <div class="menu regular_font_text">
-            <p> <a href="articles.php">Articles</a> </p>
-                <p> <a href="about_us.php">A propos</a> </p>                          
+                <p> <a href="../index.php">Accueil</a> </p>
+                <p> <a href="articles.php">Articles</a> </p>
+                <p> <a href="about_us.php">A propos</a> </p>  
+                <div class="barre"></div>                            
                 <p> <a href="contact_us.php">Contact</a> </p>
             </div>
         </div>
@@ -65,7 +67,7 @@
         </div>
 
         <div>
-            <h2>Ses compétences</h2>
+            <h2 class="red">Ses compétences</h2>
 
             <p class="line">
                 Maitrise des outils de test ( <span class="lightgrey">ALM</span> ). <br>
@@ -75,13 +77,14 @@
             </p>
 
             <img src="../assets/images/pictures/photo_14.jpg" alt="Moniteur affichant des statistiques">
-
-            <p> Pour un débutant, le salaire annuel se situera entre 33.000€ et 37.000€. </p>
+            <p>
+                Pour un débutant, le salaire annuel se situera entre 33.000€ et 37.000€. 
+            </p>
         </div>
 
         <div class="double_titre">
             <div>
-                <h2> Études et formations </h2>
+                <h2 class="red"> Études et formations </h2>
 
                 <p class="line">
                     BTS, DEUST, DUT, Licence Pro, école d’Ingénieur <br>
@@ -91,7 +94,7 @@
             </div>
 
             <div>
-                <h2> Possibilités d’évolution </h2>
+                <h2 class="red"> Possibilités d’évolution </h2>
 
                 <p class="line">
                     Consultant en processus de test <br>

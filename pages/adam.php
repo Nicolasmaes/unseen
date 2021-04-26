@@ -13,8 +13,7 @@
 <div class="marge">
 
     <div class="header">
-    <a href="../index.php" target="_blank"><img src="../assets/images/icons/logo2.png" alt="conception d'un site"></a>
-
+    <a href="../index.php" target="_blank"> <img src="../assets/images/logo_unseen.svg" alt=""> </a>
         <div class="tool">
             <input class="cocher" type="checkbox" id="nav_button">
 
@@ -27,8 +26,10 @@
             </label>
 
             <div class="menu regular_font_text">
+                <p> <a href="../index.php">Accueil</a> </p>
                 <p> <a href="articles.php">Articles</a> </p>
-                <p> <a href="about_us.php">A propos</a> </p>                          
+                <p> <a href="about_us.php">A propos</a> </p> 
+                <div class="barre"></div>                             
                 <p> <a href="contact_us.php">Contact</a> </p>
             </div>
         </div>
@@ -42,7 +43,7 @@
                 <p> Article réalisé et rédigé par <a href="https://github.com/Onetouch59" target="_blank"><span class="lightgrey">Adam B</span>.</a></p>
             </div>
 
-            <h2> Son rôle </h2>
+            <h2 class="purple"> Son rôle </h2>
 
             <p>    
                 C’est de concevoir le graphisme d’un site ou d’un produit sur une page web. Le webdesigner appelé également infographiste ou graphiste est, selon la formule consacrée, « <span class="bold">le créatif multimédia du numérique</span> ». C’est lui qui va traduire en style graphique le brief du client. <br><br>
@@ -60,7 +61,7 @@
         </div> 
 
         <div>
-            <h2> Prérequis </h2>
+            <h2 class="purple"> Prérequis </h2>
 
             <p>
                 Avoir une bonne sensibilité visuelle, s’intéresser aux tendances graphiques du moment, ce qui suppose aussi une ouverture culturelle tous azimuts. <br><br>
@@ -72,7 +73,7 @@
         </div>
 
         <div>
-            <h2> Evolution </h2>
+            <h2 class="purple"> Evolution </h2>
 
             <p>
                 Le webdesigner est proche de l’ergonome, spécialiste de l’expérience utilisateur ( <span class="lightgrey">UX / UI Design</span> ) <br><br>

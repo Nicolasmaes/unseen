@@ -14,7 +14,7 @@
 <div class="marge">
 
 <div class="header">
-    <a href="../index.php"><img src="../assets/images/icons/logo2.png" alt=""></a>
+    <a href="../index.php"> <img src="../assets/images/logo_unseen.svg" alt=""> </a>
 
         <div class="tool">
             <input class="cocher" type="checkbox" id="nav_button">
@@ -28,8 +28,10 @@
             </label>
 
             <div class="menu regular_font_text">
-            <p> <a href="articles.php">Articles</a> </p>
-                <p> <a href="about_us.php">A propos</a> </p>                          
+                <p> <a href="../index.php">Accueil</a> </p>
+                <p> <a href="articles.php">Articles</a> </p>
+                <p> <a href="about_us.php">A propos</a> </p>   
+                <div class="barre"></div>                           
                 <p> <a href="contact_us.php">Contact</a> </p>
             </div>
         </div>
@@ -44,7 +46,8 @@
                Cette polyvalence lui donne une vision unique. il concoit les applications dans leur globalité.
             </p> 
 
-            <img src="../assets/images/pictures/luc-1.jpg" alt="couv">
+
+            <img src="../assets/images/pictures/photo2.jpg" alt="Reflexions autour d'un projet">
         </div>  
 
         <div>
@@ -57,9 +60,7 @@
                 L'admnistration et le bon fonctionnement de l'application (<a href=""> <span class="lightgrey">Administrateur système</span></a> ) <br>
                 Un controle qualité sur chaque étapes <a href="">( <span class="lightgrey">Devops</span> )</a> <br> <br> 
             </p>
-
-            <img src="../assets/images/pictures/luc-2.jpg" alt="couv"> 
-
+            <img src="../assets/images/pictures/photo4.jpg" alt="Reflexions autour d'un projet">
             <p>
                 Ces connaissances sont extrêmement vastes,<br><br>
                 

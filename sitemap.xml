@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gloomaps scheme="1.0">
+  <link>https://www.gloomaps.com/739ZxQiZkc</link>
+  <pubdate>04/13/2021</pubdate>
+  <section>
+    <box>
+      <text>Accueil</text>
+      <member>
+        <box>
+          <text>Articles</text>
+          <member>
+            <box>
+              <text>Aspect créatif</text>
+              <member>
+                <box>
+                  <text>Article</text>
+                  <member/>
+                </box>
+                <box>
+                  <text>Article</text>
+                  <member/>
+                </box>
+                <box>
+                  <text>Article</text>
+                  <member/>
+                </box>
+              </member>
+            </box>
+            <box>
+              <text>Vision hybride</text>
+              <member>
+                <box>
+                  <text>Article</text>
+                  <member/>
+                </box>
+                <box>
+                  <text>Article</text>
+                  <member/>
+                </box>
+                <box>
+                  <text>Article</text>
+                  <member/>
+                </box>
+              </member>
+            </box>
+            <box>
+              <text>Aspect logique</text>
+              <member>
+                <box>
+                  <text>Article</text>
+                  <member/>
+                </box>
+                <box>
+                  <text>Article</text>
+                  <member/>
+                </box>
+                <box>
+                  <text>Article</text>
+                  <member/>
+                </box>
+              </member>
+            </box>
+          </member>
+        </box>
+        <box>
+          <text>A propos</text>
+          <member/>
+        </box>
+        <box>
+          <text>Contact</text>
+          <member/>
+        </box>
+      </member>
+    </box>
+  </section>
+</gloomaps>

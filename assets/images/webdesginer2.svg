@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 293.34 291.63">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #655099;
+      }
+
+      .cls-2 {
+        fill: #a959ec;
+      }
+
+      .cls-3 {
+        fill: #b6becc;
+      }
+
+      .cls-4 {
+        fill: #6f727a;
+        opacity: 0.35;
+      }
+
+      .cls-5 {
+        fill: #413134;
+      }
+
+      .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-7, .cls-8 {
+        fill: #889aa0;
+      }
+
+      .cls-7 {
+        opacity: 0.4;
+      }
+
+      .cls-8 {
+        opacity: 0.25;
+      }
+
+      .cls-10, .cls-9 {
+        fill: #3d3134;
+      }
+
+      .cls-10 {
+        opacity: 0.2;
+      }
+    </style>
+  </defs>
+  <g id="Calque_13" data-name="Calque 13">
+    <rect class="cls-1" x="108.55" y="108.79" width="65" height="66"/>
+    <g id="Calque_19" data-name="Calque 19">
+      <path class="cls-2" d="M214.48,26c19.2,14.3,32.94,35,48.44,56.32,15.32,21.54,32.59,43.79,33.82,66.74C297.8,172,283,195.63,269.09,219.64c-13.92,24.19-26.95,48.73-47.38,62.5-20.44,13.95-48.09,16.95-73.63,13.24-25.71-3.88-49-14.65-71.86-27.19-22.9-12.36-45.27-26.48-58.3-46.61C5.06,201.28,1.54,174.8,4.36,149.9,7,125,16.16,101.7,29,81.4A173.1,173.1,0,0,1,78.86,30C98.94,16.25,122.37,6.36,146.5,5.3A108.76,108.76,0,0,1,214.48,26Z" transform="translate(-3.45 -5.21)"/>
+    </g>
+  </g>
+  <g id="Calque_21" data-name="Calque 21">
+    <g id="Calque_27" data-name="Calque 27">
+      <rect class="cls-3" x="87.55" y="168.79" width="72" height="8"/>
+      <rect class="cls-4" x="86.55" y="168.79" width="72" height="3"/>
+    </g>
+    <path class="cls-5" d="M94.05,108.79h92a2.5,2.5,0,0,1,2.5,2.5v54.5a0,0,0,0,1,0,0h-97a0,0,0,0,1,0,0v-54.5A2.5,2.5,0,0,1,94.05,108.79Z"/>
+    <rect class="cls-6" x="95.55" y="112.79" width="89" height="53"/>
+    <path class="cls-5" d="M190.46,178.36c0,.15,0,.3,0,.46C190.47,178.66,190.46,178.51,190.46,178.36Z" transform="translate(-3.45 -5.21)"/>
+    <path class="cls-5" d="M190.47,176.16c0-.39,0-.77,0-1.16h0Z" transform="translate(-3.45 -5.21)"/>
+    <path class="cls-5" d="M190.56,180.82c-.05-.65-.08-1.33-.09-2C190.48,179.49,190.51,180.17,190.56,180.82Z" transform="translate(-3.45 -5.21)"/>
+    <path class="cls-5" d="M191.37,185H92a3,3,0,0,1-3-3V171H190.45c0,1.33,0,2.66,0,4H93v6h97.57a1.09,1.09,0,0,0,0-.18A16.15,16.15,0,0,0,191.37,185Z" transform="translate(-3.45 -5.21)"/>
+    <path class="cls-5" d="M190.47,176.16c0,.73,0,1.46,0,2.2C190.45,177.62,190.46,176.89,190.47,176.16Z" transform="translate(-3.45 -5.21)"/>
+  </g>
+  <g id="Calque_22" data-name="Calque 22">
+    <rect class="cls-7" x="106.55" y="122.79" width="36" height="2" rx="1"/>
+    <rect class="cls-8" x="106.55" y="137.79" width="54" height="2" rx="1"/>
+    <rect class="cls-8" x="106.55" y="144.79" width="47" height="2" rx="1"/>
+    <rect class="cls-8" x="106.55" y="148.79" width="54" height="2" rx="1"/>
+    <rect class="cls-8" x="106.55" y="133.79" width="54" height="2" rx="1"/>
+    <rect class="cls-9" x="157.55" y="120.79" width="44" height="59" rx="4"/>
+    <path class="cls-10" d="M199.87,131.05a5.41,5.41,0,0,1-4.63,0,4.56,4.56,0,0,1-1.93-1.27l0,0,0,0-.41-.54a6.07,6.07,0,0,1-1.4-2.53c-.07-.54-.15-1.08-.22-1.62a5.69,5.69,0,0,1,.1-1H161a4,4,0,0,0-4,4.07v54.4a1.51,1.51,0,0,0,1.5,1.53H197a4,4,0,0,0,4-4.07V130.48A4.61,4.61,0,0,1,199.87,131.05Z" transform="translate(-3.45 -5.21)"/>
+    <rect class="cls-6" x="161.55" y="124.79" width="36" height="51" rx="2"/>
+    <rect class="cls-7" x="167.55" y="139.79" width="21" height="2" rx="1"/>
+    <rect class="cls-7" x="167.55" y="143.79" width="15" height="2" rx="1"/>
+    <rect class="cls-8" x="167.55" y="150.79" width="21" height="2" rx="1"/>
+    <rect class="cls-8" x="167.55" y="154.79" width="21" height="2" rx="1"/>
+    <rect class="cls-9" x="185.55" y="136.79" width="27" height="43" rx="2"/>
+    <rect class="cls-6" x="189.55" y="140.79" width="19" height="35"/>
+    <path class="cls-10" d="M190.47,176.16c.12-8.61-.64-17,.67-25.56-.27-3.17,1.65-6.7,5.75-6.93a50.32,50.32,0,0,1,6.73,0,6.4,6.4,0,0,1-1-3.66H187a2,2,0,0,0-2,2v40.46a12.07,12.07,0,0,1,2,0c1.3.12,2.56.22,3.81.29A37.76,37.76,0,0,1,190.47,176.16Z" transform="translate(-3.45 -5.21)"/>
+    <rect class="cls-5" x="196.55" y="168.79" width="5" height="2" rx="1"/>
+    <rect class="cls-5" x="193.55" y="145.79" width="7" height="2" rx="1"/>
+    <rect class="cls-8" x="106.55" y="152.79" width="37" height="2" rx="1"/>
+    <rect class="cls-8" x="167.55" y="158.79" width="14" height="2" rx="1"/>
+    <rect class="cls-7" x="193.55" y="151.79" width="10" height="2" rx="1"/>
+    <rect class="cls-7" x="193.55" y="155.79" width="8" height="2" rx="1"/>
+    <rect class="cls-8" x="193.55" y="159.79" width="10" height="2" rx="1"/>
+    <rect class="cls-8" x="193.55" y="163.79" width="10" height="2" rx="1"/>
+    <circle class="cls-5" cx="203.55" cy="146.79" r="1"/>
+    <circle class="cls-5" cx="189.05" cy="131.29" r="1.5"/>
+    <circle class="cls-9" cx="177.55" cy="168.79" r="2"/>
+    <rect class="cls-5" x="167.55" y="129.79" width="17" height="3" rx="1.5"/>
+  </g>
+</svg>
