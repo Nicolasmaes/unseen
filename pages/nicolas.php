@@ -13,7 +13,7 @@
 <div class="marge">
 
     <div class="header">
-    <a href="../index.php"><img src="../assets/images/icons/logo2.png" alt=""></a>
+    <a href="../index.php"> <img src="../assets/images/logo_unseen.svg" alt=""> </a>
 
         <div class="tool">
             <input class="cocher" type="checkbox" id="nav_button">
@@ -29,7 +29,12 @@
             <div class="menu regular_font_text">
                 <p> <a href="../index.php">Accueil</a> </p>
                 <p> <a href="articles.php">Articles</a> </p>
+<<<<<<< HEAD
                 <p> <a href="about_us.php">A propos</a> </p>                          
+=======
+                <p> <a href="about_us.php">A propos</a> </p> 
+                <div class="barre"></div>                             
+>>>>>>> luc
                 <p> <a href="contact_us.php">Contact</a> </p>
             </div>
         </div>
@@ -52,7 +57,7 @@
         </div>
 
         <div>
-            <h2>Langages de balisages</h2>
+            <h2 class="red">Langages de balisages</h2>
 
             <p>
             <span class="bold">HTML ( HyperText Markup Language )</span> <br><br>
@@ -67,7 +72,7 @@
         </div>
 
         <div>
-            <h2>Langages de programmation</h2>
+            <h2 class="red">Langages de programmation</h2>
 
             <p>
                 Un langage de programmation est une notation conventionnelle destinée à formuler des algorithmes et produire des programmes informatiques qui les appliquent. D’une manière similaire à une langue naturelle, un langage de programmation est composé d’un alphabet, d’un vocabulaire, de règles de grammaire, de significations, mais aussi d’un environnement de traduction censé rendre sa syntaxe compréhensible par la machine. Ils sont utilisés aussi bien dans le développement front-end que dans le développement back-end.
@@ -75,7 +80,7 @@
         </div>
 
         <div>
-            <h2>
+            <h2 class="red">
                 Framework ( cadre de travail ) & Library ( bibliothèque ) <br> 
                 Comment distinguer les deux ?
             </h2>
@@ -103,7 +108,7 @@
         </div>
 
         <div>
-            <h2>CMS ( content management system )</h2>
+            <h2 class="red">CMS ( content management system )</h2>
 
             <p>
                 <span class=bold>( Typo3, Joomla, Drupal, WordPress, Contao, Neos CMS, Dreamwaver, Craft, Grav, Kirby )</span> <br><br>
@@ -113,7 +118,7 @@
         </div>
 
         <div>
-            <h2>Base de données</h2>
+            <h2 class="red">Base de données</h2>
 
             <p>
                 Une base de données est un ensemble structuré et organisé permettant le stockage de grandes quantités d’informations afin d’en faciliter l’exploitation (ajout, mise à jour, recherche de données). Ces informations sont en rapport avec une activité donnée et peuvent être utilisées par des programmes ou des utilisateurs communs, d’où la nécessité de leur mise en commun. <br><br>
@@ -127,7 +132,7 @@
         </div>
 
         <div>
-            <h2>Serveurs</h2>
+            <h2 class="red">Serveurs</h2>
 
             <p> 
                 <span class="bold">( Apache, Laragon, Laravel ) </span> <br><br>
@@ -137,7 +142,7 @@
         </div>
 
         <div>
-            <h2>Logiciels de création graphique</h2>
+            <h2 class="red">Logiciels de création graphique</h2>
 
             <p>
                 <span class="bold">( Photoshop, Illustrator, Figma, suite Adobe )</span> <br><br>
@@ -147,7 +152,7 @@
         </div>
 
         <div>
-            <h2> Classements des technologies </h2>
+            <h2 class="red"> Classements des technologies </h2>
 
             <p> Au-delà des 3 piliers que sont HTML, CSS et JavaScript, quel langage doit-on apprendre en premier ? </p>
 
@@ -187,7 +192,7 @@
         </div>
 
         <div>
-            <h2>Voici les langages classés par fréquence d’apparition dans les offres d’emplois</h2>
+            <h2 class="red">Voici les langages classés par fréquence d’apparition dans les offres d’emplois</h2>
 
             <span class="bold">Langages front-end</span>
             <table>
@@ -268,7 +273,7 @@
         </div>
 
         <div>
-            <h2>La question qui fâche</h2>
+            <h2 class="red">La question qui fâche</h2>
 
             <p>
                 J’ai pu rencontrer une développeuse junior qui a osé poser la question suivante : <quote>Pourquoi les développeurs juniors ne sont pas ou peu recrutés ?</quote> <br><br><br>
@@ -285,7 +290,7 @@
         </div>
 
         <div>
-            <h2>Conclusion</h2>
+            <h2 class="red">Conclusion</h2>
 
             <p>Pour contraster cet article, nous avons toujours peur de perdre du temps à apprendre quelque chose qui ne nous servira pas, mais les connaissances sont souvent transposables d’une technologie à une autre. S’intéresser à un langage un peu obscur ne sera finalement pas vain.<br>
             Évidemment il faut aussi se sentir à l’aise dans l’écriture informatique, les développeurs ont souvent une affinité avec un langage particulier.</p>

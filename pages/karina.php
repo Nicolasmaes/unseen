@@ -30,7 +30,12 @@
             <div class="menu regular_font_text">
                 <p> <a href="../index.php">Accueil</a> </p>
                 <p> <a href="articles.php">Articles</a> </p>
+<<<<<<< HEAD
                 <p> <a href="about_us.php">A propos</a> </p>                          
+=======
+                <p> <a href="about_us.php">A propos</a> </p>  
+                <div class="barre"></div>                            
+>>>>>>> luc
                 <p> <a href="contact_us.php">Contact</a> </p>
             </div>
         </div>
@@ -51,7 +56,7 @@
         </div>
 
         <div>
-            <h2>Les missions</h2>
+            <h2 class="blue">Les missions</h2>
 
             <p>
             <span class="bold"> Le rédacteur web rédige en respectant plusieurs étapes, il doit :</span> <br><br>
@@ -72,7 +77,7 @@
         </div>
 
         <div>
-            <h2> Compétences d’un rédacteur web </h2>
+            <h2 class="blue"> Compétences d’un rédacteur web </h2>
 
             <p>
                 <span class="line">
@@ -103,7 +108,7 @@
         </div> 
 
         <div>  
-            <h2>Evolution du métier de rédacteur web</h2>
+            <h2 class="blue">Evolution du métier de rédacteur web</h2>
             <p>
                 Les compétences d’un Rédacteur Web peuvent se rapprocher de celles d’un Community Manager, qui lui aussi pourra contribuer à la rédaction de contenu. Cependant, certains contenus très spécifiques demanderont l’expertise d’un professionnel du secteur pour rédiger des articles pertinents.<br>
                 Ses années d’expériences lui permettront de passer le cap de rédacteur confirmé et ses réalisations lui donneront une reconnaissance dans la profession.
@@ -137,7 +142,7 @@
         </div>
 
         <div>
-            <h2>Devenir rédacteur web</h2>
+            <h2 class="blue">Devenir rédacteur web</h2>
             <p>
                 Aucune formation spécifique n’est exigée pour devenir Rédacteur Web. Seule la justification d’une maîtrise linguistique et rédactionnelle sera demandée. Des tests de rédaction de contenu pourront être demandé afin d’évaluer la capacité à délivrer un contenu adapté aux exigences demandées. Néanmoins, les employeurs regarderont avec intérêt les diplômes, qui pourront justifier des connaissances spécifiques et une bonne culture générale. <br><br><br>
             

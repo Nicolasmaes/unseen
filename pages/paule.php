@@ -13,7 +13,7 @@
 <div class="marge">
 
     <div class="header">
-    <a href="../index.php"><img src="../assets/images/icons/logo2.png" alt=""></a>
+    <a href="../index.php"> <img src="../assets/images/logo_unseen.svg" alt=""> </a>
 
         <div class="tool">
             <input class="cocher" type="checkbox" id="nav_button">
@@ -29,7 +29,12 @@
             <div class="menu regular_font_text">
                 <p> <a href="../index.php">Accueil</a> </p>
                 <p> <a href="articles.php">Articles</a> </p>
+<<<<<<< HEAD
                 <p> <a href="about_us.php">A propos</a> </p>                          
+=======
+                <p> <a href="about_us.php">A propos</a> </p>    
+                <div class="barre"></div>                          
+>>>>>>> luc
                 <p> <a href="contact_us.php">Contact</a> </p>
             </div>
         </div>
@@ -56,7 +61,7 @@
         </div> 
 
         <div>
-            <h2> Activités principales </h2>
+            <h2 class="red"> Activités principales </h2>
             <p>
                 Manage ses équipes, est l’intermédiaire entre celles-ci et les autres services de l’entreprise. Assure la création et élabore la stratégie e-commerce de l’entreprise en mettant en place une stratégie marketing online ( <span class="lightgrey">mise en ligne et référencement de toutes les opérations commerciales</span> ). <br><br>
 
@@ -97,7 +102,7 @@
         </div>
 
         <div>
-            <h2> Conclusion </h2>
+            <h2 class="red"> Conclusion </h2>
 
             <p>
                 En bref, les activités du directeur commercial ou e-commerce constitue une activité émergente en cours de structuration l’effectif afférent est faible et les activités ne seront que partiels, centré sur le suivi et le développement commercial. <br><br>

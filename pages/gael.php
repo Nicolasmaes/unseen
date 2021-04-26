@@ -29,7 +29,12 @@
             <div class="menu regular_font_text">
                 <p> <a href="../index.php">Accueil</a> </p>
                 <p> <a href="articles.php">Articles</a> </p>
+<<<<<<< HEAD
                 <p> <a href="about_us.php">A propos</a> </p>                          
+=======
+                <p> <a href="about_us.php">A propos</a> </p>  
+                <div class="barre"></div>                            
+>>>>>>> luc
                 <p> <a href="contact_us.php">Contact</a> </p>
             </div>
         </div>
@@ -66,7 +71,7 @@
         </div>
 
         <div>
-            <h2>Ses compétences</h2>
+            <h2 class="red">Ses compétences</h2>
 
             <p class="line">
                 Maitrise des outils de test ( <span class="lightgrey">ALM</span> ). <br>
@@ -83,7 +88,7 @@
 
         <div class="double_titre">
             <div>
-                <h2> Études et formations </h2>
+                <h2 class="red"> Études et formations </h2>
 
                 <p class="line">
                     BTS, DEUST, DUT, Licence Pro, école d’Ingénieur <br>
@@ -93,7 +98,7 @@
             </div>
 
             <div>
-                <h2> Possibilités d’évolution </h2>
+                <h2 class="red"> Possibilités d’évolution </h2>
 
                 <p class="line">
                     Consultant en processus de test <br>

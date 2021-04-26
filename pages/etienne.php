@@ -13,7 +13,7 @@
 <div class="marge">
 
     <div class="header">
-    <a href="../index.php"><img src="../assets/images/icons/logo2.png" alt=""></a>
+    <a href="../index.php"><img src="../assets/images/logo_unseen.svg" alt=""></a>
 
         <div class="tool">
             <input class="cocher" type="checkbox" id="nav_button">
@@ -29,7 +29,12 @@
             <div class="menu regular_font_text">
                 <p> <a href="../index.php">Accueil</a> </p>
                 <p> <a href="articles.php">Articles</a> </p>
+<<<<<<< HEAD
                 <p> <a href="about_us.php">A propos</a> </p>                          
+=======
+                <p> <a href="about_us.php">A propos</a> </p>   
+                <div class="barre"></div>                           
+>>>>>>> luc
                 <p> <a href="contact_us.php">Contact</a> </p>
             </div>
         </div>
@@ -51,7 +56,7 @@
         </div>  
 
         <div>
-            <h2>Le rôle la perspective du motion designer</h2>
+            <h2 class="blue">Le rôle la perspective du motion designer</h2>
         
             <p>
                 La production motion design peut déboucher sur la réalisation de film interactif, d’animations web CSS avancées, de courts-métrages vidéo, de présentation d’entreprise, de séquences animées en 3 dimensions. Le motion design n’est pas une fonction exclusive au web et au digital, néanmoins c’est une fonction très représentée dans les métiers du design et de la production dans l’industrie digitale. De nombreux profils de motion designers excercent en tant que freelance indépendants, cela nécessite toutefois de disposer d’un portfolio de travaux en motion design pour communiquer et valoriser le savoir-faire.<br><br>
@@ -63,7 +68,7 @@
         </div>
 
         <div>
-            <h2>Fiche métier motion designer</h2>
+            <h2 class="blue">Fiche métier motion designer</h2>
 
             <p>
                 <span class="bold">Rôle du motion designer :</span> <br><br>
@@ -75,7 +80,7 @@
         </div>   
 
         <div>
-            <h2>Intervention dans le projet digital</h2>
+            <h2 class="blue">Intervention dans le projet digital</h2>
 
             <p>
                 Il intervient en phase de conception production ( <span class="lightgrey">prototypage et finalisation</span> ) et de gestion : le motion designer gère une à trois productions en fonction des besoins. La production d’un film interactif exige une disponibilité dédiée. <br><br><br>

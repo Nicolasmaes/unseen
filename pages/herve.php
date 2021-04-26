@@ -30,7 +30,12 @@
             <div class="menu regular_font_text">
                 <p> <a href="../index.php">Accueil</a> </p>
                 <p> <a href="articles.php">Articles</a> </p>
+<<<<<<< HEAD
                 <p> <a href="about_us.php">A propos</a> </p>                          
+=======
+                <p> <a href="about_us.php">A propos</a> </p>   
+                <div class="barre"></div>                           
+>>>>>>> luc
                 <p> <a href="contact_us.php">Contact</a> </p>
             </div>
         </div>
@@ -56,7 +61,7 @@
         </div>  
 
         <div>
-            <h2> En quoi consiste son travail ? </h2>
+            <h2 class="purple"> En quoi consiste son travail ? </h2>
 
             <p>
                 Pour atteindre son objectif, un community manager se voit confier plusieurs responsabilités : <br><br>
@@ -82,7 +87,7 @@
         </div> 
 
         <div>   
-            <h2> Devenir community manager </h2>
+            <h2 class="purple"> Devenir community manager </h2>
 
             <p>
                Devenir community manager à l’aube des années 2010 était un parcours du combattant. Le peu de formations étant concentrées sur Paris, de nombreux profils passionnés par le rôle ont appris seul. Le métiers est donc souvent appris en auto-formations.

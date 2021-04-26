@@ -13,7 +13,7 @@
 <div class="marge">
 
     <div class="header">
-    <a href="../index.php"><img src="../assets/images/icons/logo2.png" alt=""></a>
+    <a href="../index.php"> <img src="../assets/images/logo_unseen.svg" alt=""> </a>
 
         <div class="tool">
             <input class="cocher" type="checkbox" id="nav_button">
@@ -27,8 +27,10 @@
             </label>
 
             <div class="menu regular_font_text">
-            <p> <a href="articles.php">Articles</a> </p>
-                <p> <a href="about_us.php">A propos</a> </p>                          
+                <p> <a href="../index.php">Accueil</a> </p>
+                <p> <a href="articles.php">Articles</a> </p>
+                <p> <a href="about_us.php">A propos</a> </p>  
+                <div class="barre"></div>                            
                 <p> <a href="contact_us.php">Contact</a> </p>
             </div>
         </div>
@@ -52,7 +54,7 @@
         </div>
 
         <div>
-            <h2>Son rôle et ses missions</h2>
+            <h2 class="red">Son rôle et ses missions</h2>
 
             <p>Son rôle est de contrôler la sécurité des applications tant bien mobiles que le backend des sites qui enregistrent des données confidentielles ( <span class="lightgrey">numéro de cartes bancaires par exemple</span> ). <br><br>
 
@@ -64,7 +66,7 @@
         </div>
 
         <div>
-            <h2>Compétences et connaissances</h2>
+            <h2 class="red">Compétences et connaissances</h2>
 
             <p>Le pentester exerce directement au sein des entreprises ( <span class="lightgrey">les startups comme les grands groupes</span> ), de l’administration ou des cabinets de conseils spécialisés en Sécurité des Systèmes d’informations.</p>
 
@@ -81,7 +83,7 @@
         </div> 
         
         <div>
-            <h2>Formation et évolution</h2>
+            <h2 class="red">Formation et évolution</h2>
 
             <p>
                 Le métier de pentester nécessite un bon niveau en informatique. Il peut faire divers formations <br><br><br>
