@@ -64,7 +64,8 @@
             <br>
             <li>Intégration des pages web sur la base de vos prototypes sur les principes du mobile first</li>
             <li>Tester les pages en ligne dans différents navigateurs et sur différents périphériques, apporter les corrections nécessaires</li>
-
+            <br>
+            <a href="credits.php"><p class="button bold font_text signature"> mentions légales</p></a>
     </div>
 </body>
 </html>

@@ -138,3 +138,7 @@ les h2 et h3 seront de la couleurs de chaque catégories, et les h1 en noir.
 
 ## 23/04/21
 Pourquoi pas un bouton qui envoie vers un article au hasard ?
+
+## 26/04/21
+a propos : centrer nos prénoms
+centrer les crédits

@@ -48,7 +48,7 @@
             Il existe pourtant un grand nombre d'acteurs oeuvrant dans un but commun; la création d'environnements attrayants et fonctionnels. <br><br>
 
 Vous trouverez ici divers articles traitant du monde digital.
-Ils ont été rédigés par la <a href="https://promo-68.codeur.online/blog/" target="_blank"><span class="lightgrey">promo 68 de l'Access Code School de Dijon</span></a>, en 2021. </p><br><br>
+Ils ont été rédigés par la <a href="https://promo-68.codeur.online/blog/" target="_blank"><span class="lightgrey">promo 68</span></a> de l'Access Code School de Dijon, en 2021. </p><br><br>
         <div>
         <p>
         Vous êtes impatients ?<br>
@@ -58,8 +58,6 @@ Ils ont été rédigés par la <a href="https://promo-68.codeur.online/blog/" ta
         </p><br>
         </div>
     </div>
-
-    <a href="pages/credits.php"><p class="button bold font_text signature credits"> mentions légales</p></a>
 
 </div>
 <script src="main.js"></script>
