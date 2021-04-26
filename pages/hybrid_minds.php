@@ -115,12 +115,7 @@
                         <a href="luc.php"><div class="button_purple"> Voir plus </div></a>
                     </div>
             </div>
-    
-       
-       
-   
->>>>>>> luc
->>>>>>> ee8e1150b6a00b31e599c01b5980d100b761c4e1
+
     </div>  
 
 </div>
