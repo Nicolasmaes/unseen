@@ -79,10 +79,10 @@ Chloé, Tiavina, Jean-Baptiste, Romain, Adam, Hervé et Luc
 
 ## 08/04/21 13h30 
 
-- [ ] dessiner un cercle de type pinceau qui serait en background avec transparence sur la page d'accueil
-notre logo est décidé : Unseen
+- [X] notre logo est décidé : Unseen
 
-- [X] les couleurs sont définies #60D8E5 et #36E552, couleur du milieu #4BDF9C.
+- [X] les couleurs sont définies #60d8e5 et #EC5971, couleur du milieu #B670D3.
+.
 les h2 et h3 seront de la couleurs de chaque catégories, et les h1 en noir.
 
 ## A FAIRE
@@ -115,10 +115,9 @@ les h2 et h3 seront de la couleurs de chaque catégories, et les h1 en noir.
     
 ### zoning
 - [X] landing page
-- [X] page des rubriques
+- [ ] page des rubriques
 - [X] page d'un article
-- [X] page de contact
-- [X] page d'à propos de nous
+- [ ] page de contact
 
 ### wireframe
 - [X] landing page
@@ -126,10 +125,6 @@ les h2 et h3 seront de la couleurs de chaque catégories, et les h1 en noir.
 - [ ] page d'un article
 - [ ] page de contact
 - [ ] page d'à propos de nous
-
-### maquette
-- [ ] version mobile
-- [ ] version desktop
 
 ## 12/04/21
 
@@ -140,3 +135,6 @@ les h2 et h3 seront de la couleurs de chaque catégories, et les h1 en noir.
 ## 14/04/21
 - [X] rédiger les consignes de l'exercice dans à propos
 - [X] rédiger la page des mentions légales
+
+## 23/04/21
+Pourquoi pas un bouton qui envoie vers un article au hasard ?

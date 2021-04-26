@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../assets/style/styles.css">
-    <link rel="shortcut icon" href="../assets/images/icons/favicon2.png" type="image/x-icon">
+    <link rel="shortcut icon" href="../assets/images/icons/un.png" type="image/x-icon">
     <title>Les agences web</title>
 </head>
 

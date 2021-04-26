@@ -4,6 +4,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="assets/style/styles.css">
+    <link rel="shortcut icon" href="assets/images/icons/un.png" type="image/x-icon">
     <title>Unseen</title>
 </head>
 
@@ -50,14 +51,17 @@
 
 Vous trouverez ici divers articles traitant du monde digital.
 Ils ont été rédigés par la <a href="https://promo-68.codeur.online/blog/" target="_blank"><span class="lightgrey">promo 68 de l'Access Code School de Dijon</span></a>, en 2021. </p><br><br>
-
+        <div>
         <p>
+        Vous êtes impatients ?<br>
+        <div class="button bold"><a href="pages/adam.php" id="link">Lire un article au hasard</a></div><br>
         Envie d'en savoir plus ?<br>
-        <a href="pages/articles.php"> <div class="button bold">Par ici</div> </a> 
+        <a href="pages/about_us.php"><div class="button bold">Par ici</div></a> 
         </p><br>
- 
+        </div>
     </div>
     <a href="pages/credits.php"><p class="button bold font_text signature"> mentions légales</p></a>
 </div>
+<script src="main.js"></script>
 </body>
 </html>

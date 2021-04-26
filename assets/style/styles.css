@@ -17,9 +17,10 @@
     top: 3%; /* pour que le header soit toujours au bon endroit*/
 }
 #home-bg{
-    background: url("blue.svg");
+    background: url("../images/icons/homecircle-mobile.png") fixed;
     background-repeat: no-repeat;
     background-position: center;
+    background-size: 70% 70%;
 }
 .card div{
     justify-content: center;
@@ -31,7 +32,6 @@
 .card a{
     margin: 0 3rem;
 }
-
 #blue{
     border-color: #60D8E5;
     border: 1px solid #60D8E5;
@@ -58,23 +58,20 @@
     transition: 0.4s;
 }
 #red:hover{
-    background-color: #EC5971;
+    background-color: #ec5971;
     color: white;
     transition: 0.4s;
 }
-#bluetext{
-    color: #60D8E5;
-}
-#purpletext{
-    color: #B670D3;
-}
-#redtext{
-    color: #EC5971;
+#blacktext{
+    color: #3d3431;
 }
 .card{
     padding: 1rem 4rem 0 4rem;
     position: relative;
     display: flex;
+}
+.card p{
+    text-align: center;
 }
 body
 {
@@ -457,6 +454,12 @@ table{
         flex-wrap: wrap;
         justify-content: center;
     }
+    #home-bg{
+        background: url("../images/icons/homecircle.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: contain;
+    }
 }
 
 
@@ -477,6 +480,12 @@ table{
     }
     #fiches-contact{
         flex-direction: row;
+    }
+    #home-bg{
+        background: url("../images/icons/homecircle.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 80% 80%;
     }
 }
 
@@ -526,6 +535,12 @@ table{
         #rubriques{
             flex-direction: row;
             flex-wrap: nowrap;
+        }
+        #home-bg{
+            background: url("../images/icons/homecircle.png");
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: 100% 100%;
         }
 }
 

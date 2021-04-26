@@ -4,7 +4,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../assets/style/styles.css">
-    <link rel="shortcut icon" href="../assets/images/icons/favicon2.png" type="image/x-icon">
+    <link rel="shortcut icon" href="../assets/images/icons/un.png" type="image/x-icon">
     <title>A propos</title>
 </head>
 
@@ -58,22 +58,9 @@
             <li>Respecter les droits d'auteur</li>
             <li>Optimiser la taille des fichiers</li><br>
             <li>Composer la charte graphique</li>
-                <ul>
-                <li>Déterminer la palette chromatique</li>
-                <li>Choisir les typographies</li>
-                <li>Rassembler quelques illustrations dans une planche de tendances</li>
-                <li>Concevoir quelques éléments d'interface, par exemple des bouton Call-To-Action et des slideshow</li>
-                </ul><br>
+<br>
             <li>Produire un dossier de conception qui retrace tout ce qui compose votre projet</li>
-                <ul>
-                <li>L'objectif</li>
-                <li>Présentation de l'équipe</li>
-                <li>Le public cible</li>
-                <li>Les supports cibles</li>
-                <li>Planche de tendances</li>
-                <li>Spécifications fonctionnelles</li>
-                <li>Lister les technologies utilisées</li>
-                </ul><br>
+            <br>
             <li>Intégration des pages web sur la base de vos prototypes sur les principes du mobile first</li>
             <li>Tester les pages en ligne dans différents navigateurs et sur différents périphériques, apporter les corrections nécessaires</li>
 

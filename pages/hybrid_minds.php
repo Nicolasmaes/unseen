@@ -4,7 +4,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../assets/style/styles.css">
-    <link rel="shortcut icon" href="../assets/images/icons/favicon2.png" type="image/x-icon">
+    <link rel="shortcut icon" href="../assets/images/icons/un.png" type="image/x-icon">
     <title>Aspects créatif</title>
 </head>
 
@@ -36,13 +36,13 @@
     </div>
 
     <div class="container_article font_text">
-        <a href="chloe.php">chloé</a>
-        <a href="romain.php">romain</a>
-        <a href="herve.php">herve</a>
-        <a href="luc.php">luc</a>
-        <a href="adam.php">adam</a>
-        <a href="jean-baptiste.php">Jean-Baptiste</a>
-        <a href="tiavina.php">Tiavina</a>
+        <a href="chloe.php">chloé</a>Sans lui rien ne se fait, alors ménagez-le !
+        <a href="romain.php">romain</a> On vous aide à y voir plus clair !
+        <a href="herve.php">herve</a> Comptez sur lui pour divertir votre audience !
+        <a href="luc.php">luc</a>Le couteau-suisse, le MacGyver du web
+        <a href="adam.php">adam</a>Vous avez une idée, il sait où vous voulez en venir !
+        <a href="jean-baptiste.php">Jean-Baptiste</a> Leur rôle : Faire de vous une star !
+        <a href="tiavina.php">Tiavina</a>Les agences web, là où toute la magie opère...
     </div>  
 
 </div>

@@ -4,7 +4,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../assets/style/styles.css">
-    <link rel="shortcut icon" href="../assets/images/icons/favicon2.png" type="image/x-icon">
+    <link rel="shortcut icon" href="../assets/images/icons/un.png" type="image/x-icon">
+
+
+    
     <title>Aspects créatif</title>
 </head>
 
@@ -36,9 +39,9 @@
 
     <div class="container_article font_text">
 
-        <a href="etienne.php">etienne</a>
-        <a href="karina.php">karina</a>
-        <a href="sonia.php">sonia</a>
+        <a href="etienne.php">etienne</a> Un métier qui donne vie aux images !
+        <a href="karina.php">karina</a> Oh la belle plume...
+        <a href="sonia.php">sonia</a> Vous avez demandé un artiste, ne quittez pas...
     </div>  
 
 </div>

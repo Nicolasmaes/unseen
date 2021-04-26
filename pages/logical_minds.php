@@ -4,7 +4,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../assets/style/styles.css">
-    <link rel="shortcut icon" href="../assets/images/icons/favicon2.png" type="image/x-icon">
+    <link rel="shortcut icon" href="../assets/images/icons/un.png" type="image/x-icon">
     <title>Aspect logique</title>
 </head>
 
@@ -39,12 +39,13 @@
     <div class="container_article font_text">
         <div>
 
-        <a href="nicolas.php">nicolas</a>
-        <a href="nathan.php">nathan</a>
-        <a href="gael.php">gael</a>
-        <a href="paule.php">paule</a>
-        <a href="adrien.php">adrien</a>
-        <a href="williams.php">williams</a>
+
+        <a href="nathan.php">nathan</a> Le numéro 10 dans une équipe du web
+        <a href="nicolas.php">nicolas</a> We are human... after all.
+        <a href="gael.php">gael</a>Avec lui ne cherchez pas, il aura toujours le derniet mot !
+        <a href="paule.php">paule</a> Lui, c'ets le boss qui connaît bien les ficelles.
+        <a href="adrien.php">adrien</a> N'insistez pas, il ne vous dira rien !
+        <a href="williams.php">williams</a>Demandez-lui n'importe quoi, tant que c'ets pour la bonne cause !
         </div>  
     </div>
 </section>

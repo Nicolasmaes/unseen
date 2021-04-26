@@ -4,7 +4,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../assets/style/styles.css">
-    <link rel="shortcut icon" href="../assets/images/icons/favicon2.png" type="image/x-icon">
+    <link rel="shortcut icon" href="../assets/images/icons/un.png" type="image/x-icon">
     <title>Articles</title>
 </head>
 
@@ -38,19 +38,19 @@
     <div class="container_article font_text">
         <div id="rubriques"> 
             <div class="card" style="width: 18rem;">
-                    <h2 id="redtext">Aspect créatif</h2>
+                    <h2 id="blacktext">Aspect créatif</h2>
                     <img src="../assets/images/icons/red.svg"alt="...">
                     <p>Ces métiers qui font appel aux talents créatifs dans tous les sens du terme, de la belle plume au bon coup de crayon. Découvrez-les maintenant !</p>
                     <a href="creative_minds.php" id="btn-rubriques"><div id="red">Parcourir</div></a>
             </div> <!-- femrmeture div card -->
             <div class="card" style="width: 18rem;">
-                    <h2 id="purpletext">Vision hybride</h2>
+                    <h2 id="blacktext">Vision hybride</h2>
                     <img src="../assets/images/icons/purple.svg" alt="...">
                     <p>L'alliance de la créativité et d'un esprit logique est nécessaire pour exercer les métiers suivants, indispensables pour faire tourner un entreprise du numérique.</p>
                     <a href="hybrid_minds.php" id="btn-rubriques"><div id="purple">Parcourir</div></a>
             </div> <!-- femrmeture div card -->
             <div class="card" style="width: 18rem;">
-                    <h2 id="bluetext">Aspect logique</h2>
+                    <h2 id="blacktext">Aspect logique</h2>
                     <img src="../assets/images/icons/blue.svg"alt="...">
                     <p>Ces métiers requièrent de la logique, du savoir-être et de l'organisation pour mener à bien chaque étape d'un projet complexes.</p>
                     <a href="logical_minds.php" id="btn-rubriques"><div id="blue">Parcourir</div></a>
