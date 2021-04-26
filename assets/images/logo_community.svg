@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 294 277.97">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f5f5f0;
+      }
+
+      .cls-2 {
+        fill: #d3d3d3;
+      }
+
+      .cls-3 {
+        fill: #a959ec;
+      }
+
+      .cls-4 {
+        fill: #655099;
+      }
+
+      .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        fill: #e81f62;
+        opacity: 0.5;
+      }
+
+      .cls-7 {
+        opacity: 0.2;
+      }
+
+      .cls-8 {
+        fill: #3d3134;
+      }
+
+      .cls-9 {
+        fill: #5f7bb2;
+      }
+
+      .cls-10 {
+        opacity: 0.16;
+      }
+
+      .cls-11 {
+        fill: none;
+      }
+
+      .cls-12 {
+        fill: #ededed;
+      }
+
+      .cls-13 {
+        fill: #fcfcfc;
+      }
+    </style>
+  </defs>
+  <g id="Calque_3" data-name="Calque 3">
+    <path class="cls-1" d="M179,115v70a4,4,0,0,1-4,4H125a4,4,0,0,1-4-4V115.17l4.17-4.17H175A4,4,0,0,1,179,115Z" transform="translate(-3 -9.02)"/>
+    <g id="Calque_7" data-name="Calque 7">
+      <polygon class="cls-2" points="118 113.98 118 115.98 128 115.98 128 113.98 126.33 113.98 118 113.98"/>
+    </g>
+    <path class="cls-2" d="M172,102h0a4,4,0,0,1,4,4v70a4,4,0,0,1-4,4h0a0,0,0,0,1,0,0V102A0,0,0,0,1,172,102Z"/>
+  </g>
+  <g id="Calque_13" data-name="Calque 13">
+    <g id="Background">
+      <path class="cls-3" d="M211.23,28.7c18.49,12.16,33.15,29.48,48.48,48.8,15.16,19.33,31.15,40.65,35.81,64.64,4.67,24.15-1.83,50.8-17.66,69.29-15.65,18.49-40.64,28.82-63.79,42-23.16,13-44.65,29-68.13,32.64-23.49,3.84-49.31-4.49-69.8-19.15C55.49,252.41,40,231.59,27.84,209.26,15.51,186.94,6.18,163.29,3.68,138c-2.49-25.15,1.67-51.8,15.5-71.63,13.82-19.65,37.14-32.48,60.3-42,23-9.5,45.8-15.83,68.46-15.33A119.7,119.7,0,0,1,211.23,28.7Z" transform="translate(-3 -9.02)"/>
+    </g>
+    <rect class="cls-4" x="109" y="104.98" width="65" height="66"/>
+    <path class="cls-5" d="M111.78,87h55.56A7.67,7.67,0,0,1,175,94.65V105a0,0,0,0,1,0,0H109a0,0,0,0,1,0,0V89.76A2.78,2.78,0,0,1,111.78,87Z"/>
+    <rect class="cls-6" x="119" y="123.98" width="23" height="16"/>
+    <path class="cls-5" d="M109,173h66a0,0,0,0,1,0,0v10.33a7.67,7.67,0,0,1-7.67,7.67H111.78a2.78,2.78,0,0,1-2.78-2.78V173A0,0,0,0,1,109,173Z"/>
+    <rect class="cls-7" x="109" y="86.98" width="5" height="104"/>
+    <rect class="cls-7" x="169" y="86.98" width="5" height="104"/>
+    <path class="cls-8" d="M170,93H119a10,10,0,0,0-10,10v91a10,10,0,0,0,10,10h51a10,10,0,0,0,10-10V103A10,10,0,0,0,170,93Zm6,100.5a6.5,6.5,0,0,1-6.5,6.5h-50a6.5,6.5,0,0,1-6.5-6.5v-90a6.5,6.5,0,0,1,6.5-6.5h50a6.5,6.5,0,0,1,6.5,6.5Z" transform="translate(-3 -9.02)"/>
+    <rect class="cls-8" x="109" y="102.98" width="65" height="4"/>
+    <rect class="cls-8" x="109" y="170.98" width="65" height="4"/>
+    <circle class="cls-8" cx="152" cy="95.98" r="2"/>
+    <rect class="cls-8" x="129" y="93.98" width="16" height="4" rx="2"/>
+    <rect class="cls-8" x="135" y="179.98" width="13" height="4" rx="2"/>
+    <rect class="cls-9" x="139" y="137.98" width="26" height="18"/>
+    <rect class="cls-10" x="144" y="162" width="23" height="2" transform="translate(308 316.98) rotate(180)"/>
+    <rect class="cls-10" x="122" y="147" width="23" height="2" transform="translate(264 286.98) rotate(180)"/>
+    <path class="cls-8" d="M119,130v22h19v-3H122V133h23v10h3V130Z" transform="translate(-3 -9.02)"/>
+    <path class="cls-8" d="M141,146v21h29V146Zm26,18H144V149h23Z" transform="translate(-3 -9.02)"/>
+    <g>
+      <rect class="cls-11" x="129" y="130.98" width="2" height="2"/>
+      <rect class="cls-12" x="131" y="134.98" width="2" height="2"/>
+      <rect class="cls-12" x="131" y="130.98" width="2" height="2"/>
+      <rect class="cls-12" x="131" y="126.98" width="2" height="2"/>
+      <rect class="cls-12" x="127" y="130.98" width="2" height="2"/>
+      <rect class="cls-12" x="127" y="134.98" width="2" height="2"/>
+      <rect class="cls-12" x="127" y="126.98" width="2" height="2"/>
+      <polygon class="cls-5" points="131 130.98 133 130.98 135 130.98 135 128.98 133 128.98 131 128.98 129 128.98 127 128.98 125 128.98 125 130.98 127 130.98 129 130.98 131 130.98"/>
+      <polygon class="cls-5" points="129 132.98 127 132.98 125 132.98 125 134.98 127 134.98 129 134.98 131 134.98 133 134.98 135 134.98 135 132.98 133 132.98 131 132.98 129 132.98"/>
+    </g>
+    <g>
+      <polygon class="cls-5" points="153 142.98 151 142.98 151 146.98 149 146.98 149 148.98 151 148.98 151 151.98 153 151.98 153 148.98 155 148.98 155 146.98 153 146.98 153 144.98 153 142.98"/>
+      <rect class="cls-13" x="153" y="142.98" width="3" height="2"/>
+    </g>
+  </g>
+</svg>

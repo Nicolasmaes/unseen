@@ -13,7 +13,7 @@
 <div class="marge">
 
     <div class="header">
-    <a href="../index.php"><img src="../assets/images/icons/logo2.png" alt=""></a>
+    <a href="../index.php"> <img src="../assets/images/logo_unseen.svg" alt=""> </a>
 
         <div class="tool">
             <input class="cocher" type="checkbox" id="nav_button">
@@ -29,7 +29,12 @@
             <div class="menu regular_font_text">
                 <p> <a href="../index.php">Accueil</a> </p>
                 <p> <a href="articles.php">Articles</a> </p>
+<<<<<<< HEAD
                 <p> <a href="about_us.php">A propos</a> </p>                          
+=======
+                <p> <a href="about_us.php">A propos</a> </p> 
+                <div class="barre"></div>                             
+>>>>>>> luc
                 <p> <a href="contact_us.php">Contact</a> </p>
             </div>
         </div>
@@ -55,7 +60,7 @@
         </div>
 
         <div>
-            <h2>Qu’est-ce qu’un chef de projet numerique ?</h2>
+            <h2 class="red">Qu’est-ce qu’un chef de projet numerique ?</h2>
 
             <p>
             Le Chef de Projet Numérique est le coordinateur de l’ensemble des étapes relatives à la réalisation d’un projet internet ou mobile : généralement sur des projets de sites web ou d’applications mobiles. Mais il peut également intervenir sur bien d’autres projets comme des bases de données, du brand content, de la création de contenu, du référencement, des programmes d’affiliation, ou encore toute spécificité du secteur du webmarketing. Ce chef d’orchestre polyvalent fait le lien entre les différentes équipes de l’entreprise dans laquelle il est en poste et les partenaires externes au projet.
@@ -76,7 +81,7 @@
 
 
         <div>
-            <h2> Comment accéder a ce métier ?</h2>
+            <h2 class="red"> Comment accéder a ce métier ?</h2>
 
             <p> De nombreuses formations peuvent mener au métier de chef de projet numérique. </p>
 
@@ -126,7 +131,7 @@
         </div>
 
         <div>
-            <h2> Ai-je les qualités et compétences nécessaires ? </h2>
+            <h2 class="red"> Ai-je les qualités et compétences nécessaires ? </h2>
 
             <p>
                 Il doit prendre en compte les compétences de chacun et leur donner des missions cohérentes avec cela. À l’écoute, il possède de grandes capacités d’organisation. Il doit également être rigoureux. C’est même le garant de la rigueur en termes de temps, de budget, de ressources… du projet.
@@ -147,7 +152,7 @@
         </div>
 
         <div>
-            <h2> Où puis-je exercer ? Paris, Lyon ou à la campagne ? </h2>
+            <h2 class="red"> Où puis-je exercer ? Paris, Lyon ou à la campagne ? </h2>
 
             <p>
                 Il peut travailler dans une entreprise web et être chargé de différents projets à la suite. Il peut-être également  prestataire et travailler sur les projets d’entreprises clientes. Mais il est également possible de travailler en tant que free-lance et de mener ainsi plusieurs projets de front. <br><br>

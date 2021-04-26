@@ -9,10 +9,10 @@
 </head>
 
 <body>
-<div class="marge">
+<div class="marge2">
 
     <div class="header">
-    <a href="../index.php"><img src="../assets/images/icons/logo2.png" alt=""></a>
+    <a href="../index.php"> <img src="../assets/images/logo_unseen.svg" alt=""> </a>
 
         <div class="tool">
             <input class="cocher" type="checkbox" id="nav_button">
@@ -28,35 +28,49 @@
             <div class="menu regular_font_text">
                 <p> <a href="../index.php">Accueil</a> </p>
                 <p> <a href="articles.php">Articles</a> </p>
-                <p> <a href="about_us.php">A propos</a> </p>                          
+                <p> <a href="about_us.php">A propos</a> </p>  
+                <div class="barre"></div>                            
                 <p> <a href="contact_us.php">Contact</a> </p>
             </div>
         </div>
     </div>
     
 
-    <div class="container_article font_text">
-        <div id="rubriques"> 
-            <div class="card" style="width: 18rem;">
-                    <h2 id="redtext">Aspect créatif</h2>
-                    <img src="../assets/images/icons/red.svg"alt="...">
-                    <p>Ces métiers qui font appel aux talents créatifs dans tous les sens du terme, de la belle plume au bon coup de crayon. Découvrez-les maintenant !</p>
-                    <a href="creative_minds.php" id="btn-rubriques"><div id="red">Parcourir</div></a>
-            </div> <!-- femrmeture div card -->
-            <div class="card" style="width: 18rem;">
-                    <h2 id="purpletext">Vision hybride</h2>
-                    <img src="../assets/images/icons/purple.svg" alt="...">
-                    <p>L'alliance de la créativité et d'un esprit logique est nécessaire pour exercer les métiers suivants, indispensables pour faire tourner un entreprise du numérique.</p>
-                    <a href="hybrid_minds.php" id="btn-rubriques"><div id="purple">Parcourir</div></a>
-            </div> <!-- femrmeture div card -->
-            <div class="card" style="width: 18rem;">
-                    <h2 id="bluetext">Aspect logique</h2>
-                    <img src="../assets/images/icons/blue.svg"alt="...">
-                    <p>Ces métiers requièrent de la logique, du savoir-être et de l'organisation pour mener à bien chaque étape d'un projet complexes.</p>
-                    <a href="logical_minds.php" id="btn-rubriques"><div id="blue">Parcourir</div></a>
-            </div> <!-- femrmeture div card -->
-        </div> <!-- fermeture de la div rubriques -->
-    </div>
+    <div class="container_item font_text">
+
+            <div class="container_item__specific">
+                    <span class="container_item__specific__title">Aspect logique</span>
+
+                    <img src="../assets/images/brain1.svg"alt="...">
+
+                    <div class="container_nav_article__item__group">
+                        <span class="lightgrey">Ces métiers requièrent de la logique, du savoir être et de l'organisation pour mener à bien chaque étape d'un projet complexe.</span>
+                        <a href="logical_minds.php"> <p class="button_red"> Parcourir </p></a>
+                    </div>
+            </div> 
+       
+            <div class="container_item__specific">
+                    <span class="container_item__specific__title">Aspect creatif</span>
+
+                    <img src="../assets/images/logo_idea2.svg"alt="...">
+                    <div class="container_nav_article__item__group">
+                        <span class="lightgrey">Ces métiers qui font appelent aux talents créatifs dans tous les sens du terme, de la belle plume au bon coup de crayon</span>
+                        <a href="creative_minds.php"> <p class="button_blue"> Parcourir </p></a>
+                    </div>
+            </div>
+
+            <div class="container_item__specific">
+                    <span class="container_item__specific__title">Vision hybride</span>
+
+                    <img src="../assets/images/brainc.svg"alt="...">
+
+                    <div class="container_nav_article__item__group">
+                        <span class="lightgrey">L'alliance de la créativité et d'un esprit logique est nécessaire pour exercer les métiers suivants, indispensables pour fair tourner une entreprise du numérique.</span>
+                        <a href="hybrid_minds.php"> <p class="button_purple"> Parcourir </p> </a>
+                    </div>
+            </div>
+   </div>
+
 </div>
 </body>
 </html>

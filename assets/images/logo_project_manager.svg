@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 286.96 286.31">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ec5971;
+      }
+
+      .cls-2 {
+        fill: #3d3134;
+      }
+
+      .cls-3 {
+        fill: #f5f5f0;
+      }
+
+      .cls-4 {
+        fill: #d3d3d3;
+      }
+    </style>
+  </defs>
+  <g id="Background">
+    <path class="cls-1" d="M279.34,206.51c-11.53,17.79-25,29.39-53.35,51.69-20.2,15.89-30.41,23.69-39,26.8-47.35,17.18-110.73-14-129-54-2.84-6.21-1.87-6.7-6-16-15.43-34.79-36.35-37.54-41-58-5.29-23.29,4.07-43.45,18.32-74.12,13-28.1,22.26-45.67,43.06-61,30-22,64.51-18.41,70.75-17.8C159.88,5.78,182.59,18.85,228,45c29.58,17,34.72,21.57,39.23,26.36,24.39,26,27.82,57.73,28.69,66.05A108.78,108.78,0,0,1,279.34,206.51Z" transform="translate(-9.5 -3.52)"/>
+  </g>
+  <g id="Calque_3" data-name="Calque 3">
+    <rect class="cls-2" x="107.5" y="103.48" width="66" height="86" rx="7"/>
+    <rect class="cls-3" x="111.5" y="107.48" width="58" height="78" rx="4"/>
+    <path class="cls-4" d="M165.5,107.48h0a4,4,0,0,1,4,4v70a4,4,0,0,1-4,4h0a0,0,0,0,1,0,0v-78A0,0,0,0,1,165.5,107.48Z"/>
+  </g>
+  <g id="Calque_4" data-name="Calque 4">
+    <rect class="cls-2" x="120.5" y="129.48" width="14" height="4" rx="2"/>
+    <rect class="cls-2" x="157" y="130" width="14" height="4" rx="2" transform="translate(-54.81 151.11) rotate(-45)"/>
+    <rect class="cls-2" x="155" y="132" width="8" height="4" rx="2" transform="translate(131.82 -76.7) rotate(45)"/>
+    <rect class="cls-2" x="157" y="148" width="14" height="4" rx="2" transform="translate(-67.53 156.38) rotate(-45)"/>
+    <rect class="cls-2" x="155" y="150" width="8" height="4" rx="2" transform="translate(144.55 -71.43) rotate(45)"/>
+    <rect class="cls-2" x="120.5" y="147.48" width="14" height="4" rx="2"/>
+    <rect class="cls-2" x="120.5" y="166.48" width="18" height="4" rx="2"/>
+    <rect class="cls-2" x="149.5" y="166.48" width="4" height="4" rx="2"/>
+  </g>
+  <g id="Calque_2" data-name="Calque 2">
+    <g>
+      <path class="cls-2" d="M146,112.78V106a1,1,0,0,0-1-1h-2a1,1,0,0,0-1,1v6.78a3,3,0,1,0,4,0Z" transform="translate(-9.5 -3.52)"/>
+      <path class="cls-2" d="M158,112.78V106a1,1,0,0,0-1-1h-2a1,1,0,0,0-1,1v6.78a3,3,0,1,0,4,0Z" transform="translate(-9.5 -3.52)"/>
+      <path class="cls-2" d="M170,112.78V106a1,1,0,0,0-1-1h-2a1,1,0,0,0-1,1v6.78a3,3,0,1,0,4,0Z" transform="translate(-9.5 -3.52)"/>
+      <path class="cls-2" d="M134,112.78V106a1,1,0,0,0-1-1h-2a1,1,0,0,0-1,1v6.78a3,3,0,1,0,4,0Z" transform="translate(-9.5 -3.52)"/>
+    </g>
+  </g>
+</svg>
