@@ -10,18 +10,10 @@
 </head>
 
 <body>
-<<<<<<< HEAD
 <div class="margin_two">
 
 
     <div class="header">
-=======
-<div class="marge2">
-    
-
-    <div class="header">
-    <a href="../index.php"> <img src="../assets/images/logo_unseen.svg" alt=""> </a>
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 
     <a href="../index.php"><img src="../assets/images/svg/logo/logo_unseen.svg" alt="logo du site"></a> 
 
@@ -36,7 +28,6 @@
                     </div>
                 </label>
 
-<<<<<<< HEAD
                 <div class="menu regular_font_text">
                     <div><a href="../index.php"> Accueil </a></div>
                     <div><a href="adam.php" id="link"> Articles </a></div>
@@ -45,20 +36,11 @@
                     <span class="barre"></span>                           
                     <div><a href="contact_us.php"> Contact </a></div>
                 </div>
-=======
-            <div class="menu regular_font_text">
-                <p> <a href="../index.php">Accueil</a> </p>
-                <p> <a href="articles.php">Articles</a> </p>
-                <p> <a href="about_us.php">A propos</a> </p>  
-                <div class="barre"></div>                            
-                <p> <a href="contact_us.php">Contact</a> </p>
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
             </div>
 
     </div>
     
 
-<<<<<<< HEAD
     <div class="category">
 
             <div class="category__item">
@@ -99,43 +81,6 @@
    </div>
 
 
-=======
-    <div class="container_item font_text">
-
-            <div class="container_item__specific">
-                    <span class="container_item__specific__title">Aspect logique</span>
-
-                    <img src="../assets/images/brain1.svg"alt="...">
-
-                    <div class="container_nav_article__item__group">
-                        <span class="lightgrey">Ces métiers requièrent de la logique, du savoir être et de l'organisation pour mener à bien chaque étape d'un projet complexe.</span>
-                        <a href="logical_minds.php"> <p class="button_red"> Parcourir </p></a>
-                    </div>
-            </div> 
-       
-            <div class="container_item__specific">
-                    <span class="container_item__specific__title">Aspect creatif</span>
-
-                    <img src="../assets/images/logo_idea2.svg"alt="...">
-                    <div class="container_nav_article__item__group">
-                        <span class="lightgrey">Ces métiers qui font appelent aux talents créatifs dans tous les sens du terme, de la belle plume au bon coup de crayon</span>
-                        <a href="creative_minds.php"> <p class="button_blue"> Parcourir </p></a>
-                    </div>
-            </div>
-
-            <div class="container_item__specific">
-                    <span class="container_item__specific__title">Vision hybride</span>
-
-                    <img src="../assets/images/brainc.svg"alt="...">
-
-                    <div class="container_nav_article__item__group">
-                        <span class="lightgrey">L'alliance de la créativité et d'un esprit logique est nécessaire pour exercer les métiers suivants, indispensables pour fair tourner une entreprise du numérique.</span>
-                        <a href="hybrid_minds.php"> <p class="button_purple"> Parcourir </p> </a>
-                    </div>
-            </div>
-   </div>
-
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 </div>
 <script src="../main.js"></script> 
 </body>

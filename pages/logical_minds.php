@@ -10,27 +10,16 @@
 </head>
 
 <body>
-<<<<<<< HEAD
 <div class="margin_two">
-=======
-<div class="marge2">
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 
 
     <div class="header">
 
-<<<<<<< HEAD
     <a href="../index.php"><img src="../assets/images/svg/logo/logo_unseen.svg" alt="logo du site"></a>
 
             <div class="tool">
                 <input class="cocher" type="checkbox" id="nav_button">
 
-=======
-            <a href="../index.php"> <img src="../assets/images/logo_unseen.svg" alt=""> </a>
-
-            <div class="tool">
-                <input class="cocher" type="checkbox" id="nav_button">
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
                 <label for="nav_button" class="croix">x</label>
                 <label for="nav_button" class="hamburger">
                     <div class="hamburger_icon">
@@ -40,7 +29,6 @@
                 </label>
 
                 <div class="menu regular_font_text">
-<<<<<<< HEAD
                     <div><a href="../index.php"> Accueil </a></div>
                     <div><a href="adam.php" id="link"> Articles </a></div>
                     <div><a href="articles.php"> Catégories </a></div>
@@ -51,19 +39,9 @@
             </div>
 
     </div>
-=======
-                    <p> <a href="../index.php">Accueil</a> </p>
-                    <p> <a href="articles.php">Articles</a> </p>
-                    <p> <a href="about_us.php">A propos</a> </p> 
-                    <div class="barre"></div>                         
-                    <p> <a href="contact_us.php">Contact</a> </p>
-                </div>
-            </div>
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 
     </div>
 
-<<<<<<< HEAD
     <div class="category_specific">
 
             <div class="category_specific__item">
@@ -74,26 +52,11 @@
                     <div class="category_specific__item__group">
                         <span class="category_specific__item__group__titlebis">La cryptographie</span> 
                         <span class="lightgrey"> " N'insistez pas, il ne vous dira rien ! " </span>
-=======
-
-    <div class="container_nav_article font_text">
-
-            <div class="container_nav_article__item">
-                    <span class="container_nav_article__item__title">La cryptographie</span>
-                    
-                    <img src="../assets/images/logo_crypto.svg" alt="">
-
-                    <div class="container_nav_article__item__group">
-                        <span class="container_nav_article__item__titlebis">La cryptographie</span>
-                        <span class="lightgrey"> " N'insistez pas, il ne vous dira rien ! " </span>
-                        
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
                         <a href="adrien.php"><div class="button_red"> Voir plus </div></a>
                     </div>
             </div>
        
      
-<<<<<<< HEAD
             <div class="category_specific__item reverse">
                     <span class="category_specific__item__title"> Les langages </span>
 
@@ -102,23 +65,11 @@
                     <div class="category_specific__item__group">
                         <span class="category_specific__item__group__titlebis"> Les langages </span>
                         <span class="lightgrey">" We are human... after all. "</span> 
-=======
-            <div class="container_nav_article__item reverse">
-                    <span class="container_nav_article__item__title"> Les langages </span>
-
-                    <img src="../assets/images/logo_langage.svg" alt="">
-
-                    <div class="container_nav_article__item__group">
-                        <span class="container_nav_article__item__titlebis"> Les langages </span>
-                        <span class="lightgrey">" We are human... after all. "</span> 
-
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
                         <a href="nicolas.php"><div class="button_red"> Voir plus </div></a>
                     </div>
             </div>
 
 
-<<<<<<< HEAD
             <div class="category_specific__item">  
                     <span class="category_specific__item__title"> L'analyste  </span> 
 
@@ -127,23 +78,11 @@
                     <div class="category_specific__item__group">    
                         <span class="category_specific__item__group__titlebis"> L'analyste  </span> 
                         <span class="lightgrey">" Avec lui ne cherchez pas, il aura toujours le dernier mot ! "</span> 
-=======
-            <div class="container_nav_article__item">  
-                    <span class="container_nav_article__item__title"> L'analyste  </span> 
-
-                    <img src="../assets/images/logo_analyst.svg" alt="">
-
-                    <div class="container_nav_article__item__group">    
-                        <span class="container_nav_article__item__titlebis"> L'analyste  </span> 
-                        <span class="lightgrey">" Avec lui ne cherchez pas, il aura toujours le dernier mot ! "</span> 
-
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
                         <a href="gael.php"><div class="button_red"> Voir plus </div></a>
                     </div>
             </div>
 
         
-<<<<<<< HEAD
             <div class="category_specific__item reverse">
                     <span class="category_specific__item__title"> Le pentesteur</span>
 
@@ -152,23 +91,11 @@
                     <div class="category_specific__item__group">
                         <span class="category_specific__item__group__titlebis"> Le pentesteur</span>
                         <span class="lightgrey">" Demandez-lui n'importe quoi, tant que c'est pour la bonne cause ! "</span> 
-=======
-            <div class="container_nav_article__item reverse ">
-                    <span class="container_nav_article__item__title"> Le Pentesteur</span>
-
-                    <img src="../assets/images/logo_pentester.svg" alt="">
-
-                    <div class="container_nav_article__item__group">
-                        <span class="container_nav_article__item__titlebis"> Le Pentesteur</span>
-                        <span class="lightgrey">" Demandez-lui n'importe quoi, tant que c'est pour la bonne cause ! "</span> 
-
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
                         <a href="williams.php"><div class="button_red"> Voir plus </div></a>
                     </div>
             </div>
 
 
-<<<<<<< HEAD
             <div class="category_specific__item">
                     <span class="category_specific__item__title"> Le chef de projet </span> 
 
@@ -190,31 +117,6 @@
                     <div class="category_specific__item__group"> 
                         <span class="category_specific__item__group__titlebis"> Le directeur commercial </span>
                         <span class="lightgrey">" Lui, c'est le boss qui connaît bien les ficelles. "</span> 
-=======
-            <div class="container_nav_article__item">
-                    <span class="container_nav_article__item__title"> Le chef de projet </span> 
-
-                    <img src="../assets/images/logo_project_manager.svg" alt="">
-
-                    <div class="container_nav_article__item__group">
-                        <span class="container_nav_article__item__titlebis"> Le chef de projet </span> 
-                        <span class="lightgrey">" Le numéro 10 dans une équipe web "</span> 
-                    
-                        <a href="nathan.php"><div class="button_red"> Voir plus </div></a>
-                    </div>
-            </div>
-        
-            
-            <div class="container_nav_article__item reverse">
-                    <span class="container_nav_article__item__title"> Le directeur Commercial </span>
-
-                    <img src="../assets/images/logo_commercial.svg" alt="">
-
-                    <div class="container_nav_article__item__group"> 
-                        <span class="container_nav_article__item__titlebis"> Le directeur Commercial </span>
-                        <span class="lightgrey">" Lui, c'est le boss qui connaît bien les ficelles. "</span> 
-
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
                         <a href="paule.php"><div class="button_red"> Voir plus </div></a>
                     </div>
             </div>
@@ -223,9 +125,6 @@
 
 
 </div>
-<<<<<<< HEAD
 <script src="../main.js"></script> 
-=======
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 </body>
 </html>

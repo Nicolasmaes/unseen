@@ -36,17 +36,6 @@
                     <span class="barre"></span>                           
                     <div><a href="contact_us.php"> Contact </a></div>
                 </div>
-<<<<<<< HEAD
-=======
-            </label>
-
-            <div class="menu regular_font_text">
-                <p> <a href="../index.php">Accueil</a> </p>
-                <p> <a href="articles.php">Articles</a> </p>
-                <p> <a href="about_us.php">A propos</a> </p>  
-                <div class="barre"></div>                            
-                <p> <a href="contact_us.php">Contact</a> </p>
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
             </div>
 
     </div>
@@ -74,16 +63,11 @@
         
                 <img src="../assets/images/pictures/gael_picture_one.jpg" alt="Une personne sur un ordinateur portable affichant des statistiques">
 
-<<<<<<< HEAD
                 <p>  
                     Consigner les résultats des tests, rédiger un rapport de synthèse. <br>
                     Réaliser un suivi des performances via un monitoring quotidien.
                 </p>
             </div>
-=======
-        <div>
-            <h2 class="red">Ses compétences</h2>
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 
         <div class="article__group">
             <h2 class="red">Ses compétences</h2>
@@ -95,13 +79,7 @@
                 Connaitre et appliquer les méthodologies de tests comme celle de l’ISTQB ( <span class="mediumgrey">Comité international de qualification du test logiciel</span> ).
             </p>
 
-<<<<<<< HEAD
             <img src="../assets/images/pictures/gael_picture_two.jpg" alt="Moniteur affichant des statistiques">
-=======
-        <div class="double_titre">
-            <div>
-                <h2 class="red"> Études et formations </h2>
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 
             <p>Pour un débutant, le salaire annuel se situera entre 33.000€ et 37.000€.</p>
         </div>
@@ -118,13 +96,8 @@
                     </p>
                 </div>
 
-<<<<<<< HEAD
                 <div>
                     <h2 class="red margebottom"> Possibilités d’évolution </h2>
-=======
-            <div>
-                <h2 class="red"> Possibilités d’évolution </h2>
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 
                     <p>
                         Consultant en processus de test <br>

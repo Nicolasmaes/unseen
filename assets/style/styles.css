@@ -13,13 +13,6 @@
     padding: 0;
     text-decoration: none;
     color: inherit;
-<<<<<<< HEAD
-=======
-}
-.header{
-    position: fixed;
-    top: 3%; /* pour que le header soit toujours au bon endroit*/
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 }
 #home-bg{
     background: url("../images/icons/homecircle-mobile.png") fixed;
@@ -100,7 +93,6 @@ img
     height: auto;
 }
 
-<<<<<<< HEAD
 .margin_one, .margin_two
 {
     margin: 2rem;
@@ -112,15 +104,6 @@ img
     margin: 8rem;
     margin-top: 7rem;
 }
-=======
-.marge, .marge2
-{
-    margin: 2rem;
-    margin-top: 6rem;
-  
-}
-
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 
 
 
@@ -219,67 +202,21 @@ h1
     background-color: #ec5971; 
 }
 
-<<<<<<< HEAD
-=======
-/* SHAPES */
-
-.button_red, .button_blue, .button_purple
-{
-   
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #3d3431;
-    color:  white;
-    width: 120px;
-    height: 44px;
-    border-radius: 6px;
-    letter-spacing: 0.1rem;
-}
-
-.barre
-{
-    width: 2px;
-    height: 26px;
-    background-color: #ebeaea;
-    display: none;
-}
-
-
-/* HOVER */
-
-.button_red:hover
-{
-    background-color: #ec5971; 
-}
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 .button_blue:hover
 {
     background-color: #4addff; 
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 .button_purple:hover
 {
     background-color: #a960e5; 
 }
 
-<<<<<<< HEAD
 .article a span:hover, .introduce a:hover, .contact a:hover, .button:hover
-=======
-.container_article a span:hover, .button:hover
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 {
     color: #4addff;
 }
 
-<<<<<<< HEAD
 .menu div:hover, .croix:hover
-=======
-.menu p:hover, .croix:hover
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 {
     color: #9a9796
 }
@@ -290,10 +227,6 @@ h1
 }
 
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 /* STYLES */
 
 .red 
@@ -305,14 +238,6 @@ h1
 {
     color: #4addff;
 }
-<<<<<<< HEAD
-=======
-
-.purple 
-{
-    color: #a960e5;
-}
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 
 .purple 
 {
@@ -345,15 +270,8 @@ h1
 .bolder
 {
     font-size: 2.4rem;
-<<<<<<< HEAD
     letter-spacing: 0.2rem;
     margin-bottom: 3.4rem;  
-=======
-    letter-spacing: 0.8rem;
-    margin-bottom: 3rem;  
-   
- 
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 }
 
 .margebottom
@@ -387,10 +305,6 @@ h1
             row-gap: 4rem;
             max-width: 70rem; 
             margin: 0 auto;
-<<<<<<< HEAD
-=======
-
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
         }
       
         .article__group 
@@ -420,7 +334,6 @@ h1
             margin: 0 auto;
         }  
 
-<<<<<<< HEAD
         .category__item, .category_specific__item
         {
             display: grid;
@@ -440,56 +353,15 @@ h1
             text-align-last: center;   
             max-width: 22rem;
         } 
-=======
-        .container_contact
-        {
-            display: flex;
-            flex-direction: row;
-            justify-content: center;
-            align-items: center;
-            margin: 0 auto;
-            text-align: center;
-            flex-direction: column;
-            row-gap: 8rem;
-            max-width: 80rem;
-            
-          
-        }
-
-      
-        /* index */
-        
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 
         .category_specific__item__group
         {
-<<<<<<< HEAD
             text-align: center;
-=======
-            display: flex;
-            flex-direction: column;
-            align-items: flex-start;
-            margin: 0 auto;
-           
-            
-            
-            
-            
-            max-width: 50.5rem;
-            
-        
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
         }
 
         .category__item img, .category_specific__item img
         {
-<<<<<<< HEAD
             max-width: 30rem;
-=======
-            line-height: 1.6rem;
-           
-           
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
         }
         .lucnico
         {
@@ -499,7 +371,6 @@ h1
         }
   
 
-<<<<<<< HEAD
         .category__item__title, .category_specific__item__title, .category_specific__item__group__titlebis
         {
             font-weight: bold;
@@ -526,28 +397,11 @@ h1
         /* contact */
 
         .contact
-=======
-        /* Navigation article */
-
-        .container_nav_article
-        {
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            margin-top: 2rem;  
-            row-gap: 10rem;
-        }
-
-        
-
-        .container_nav_article__item
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
         {
             display: grid;
            row-gap: 8rem;
             justify-content: center;
             align-items: center;
-<<<<<<< HEAD
             text-align: center;
         }
 
@@ -560,48 +414,6 @@ h1
       
 
 
-=======
-            column-gap: 2rem;
-            row-gap: 3rem;
-            text-align: center;
-        }
-
-        .container_nav_article__item img, .container_item img
-        {
-            max-width: 24rem;
-        }
-
-        .container_nav_article__item__group, .container_item__specific
-        {
-            display: flex;
-            flex-direction: column;
-            row-gap: 1rem;
-            align-items: center;
-        }
-
-    
-
-        .container_nav_article__item__title, .container_item__specific__title
-        {
-            letter-spacing: 0.2rem;
-            text-transform: uppercase;
-            font-weight: bolder;
-            font-size: 1.1rem;
-        }
-
-        .container_nav_article__item__titlebis
-        {
-            letter-spacing: 0.2rem;
-            text-transform: uppercase;
-            font-weight: bold;
-            display: none;
-            font-size: 1.1rem;
-        }
-
-        
-        
-      /* container item */
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 
       .container_item 
       {
@@ -612,10 +424,9 @@ h1
           justify-content: space-evenly;
           align-items: center;
           max-width: 120rem;
-         
+      } 
          
      
-<<<<<<< HEAD
       
 
  
@@ -623,35 +434,6 @@ h1
         
         
   
-=======
-         
-          
-          
-        margin: 0 auto;
-          margin-top: 2rem;  
-          row-gap: 10rem;
-          column-gap: 8rem;
-      
-      
-      }
-
-      .container_item__specific
-      {
-          flex-direction: column;
-          justify-content: center;
-          align-items: center;
-          text-align: center;
-          max-width: 22rem;
-          column-gap: 6rem;
-          row-gap: 3rem;
-
-
-    
-  
-      }
-
- 
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 
        
      
@@ -674,62 +456,9 @@ table
 {
     border-collapse: collapse;
     max-width: 60%;
-<<<<<<< HEAD
 }
 
 
-=======
-    /*
-    margin: auto;
-    */
-}
-/* cartes des rubriques */
-#rubriques{
-    display: flex;
-    flex-direction: column;
-}
-#rubriques h2{
-    text-align: center;
-}
-
-.card{
-    padding: 1rem 4rem 0 4rem;
-}
-button{
-    background-color:#60d8e5;
-    border-radius: 10px;
-    margin: 0 3rem;
-    padding: 0.5rem 0;
-    font-size: 1rem;
-}
-
-
-#fiches-contact{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    column-gap: 4rem;
-    flex-wrap: wrap;
-}
-#fiches-contact li{
-    padding: 0 1rem;
-    font-size: 1.25rem;
-}
-#fiches-contact li:nth-child(1){
-    list-style-image: url('../images/icons/mobile.png');
-}
-#fiches-contact li:nth-child(2){
-    list-style-image: url('../images/icons/mail.png');
-}
-#fiches-contact li:nth-child(3){
-    list-style-image: url('../images/icons/github.png');
-}
-#fiches-contact li:nth-child(4){
-    list-style-image: url('../images/icons/business.png');
-}
-
-
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 /* HEADER */
 
         /* Logo */
@@ -763,14 +492,7 @@ button{
                 background-color: #3d3431;
                 border-radius: 20px;
             }
-<<<<<<< HEAD
             
-=======
-
-            
-
-
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
             /* Display */
 
             .header
@@ -873,7 +595,6 @@ button{
 
 /* TABLET */
 
-<<<<<<< HEAD
 @media screen and (min-width:30rem)
 
 {
@@ -889,20 +610,6 @@ button{
         margin-top: 10rem;
     }
 
-=======
-/* TABLET */
-@media screen and (min-width:30rem)
-
-{
-
-  
-    .marge, .marge2
-    {
-        margin: 4rem;
-        margin-top: 8rem;
-    }
-
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
     .header
     {
         height: 8rem;
@@ -913,11 +620,8 @@ button{
     {
         margin-left: 4rem;
     }
-<<<<<<< HEAD
             
   
-=======
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 
     .home
     {
@@ -933,7 +637,6 @@ button{
         max-width: 70rem;
     }
 
-<<<<<<< HEAD
     .article p
     {
         text-align: justify;
@@ -944,16 +647,6 @@ button{
         row-gap: 3rem;
       
         
-=======
-    .container_article p
-    {
-        text-align: justify;
-    }
-
-    .container_article div
-    {
-        row-gap: 3rem;
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
     }
 
     .hamburger_icon
@@ -961,26 +654,17 @@ button{
         margin-right: 4rem;
     }
 
-<<<<<<< HEAD
     .introduce
     {
         text-align: justify;
         max-width: 36rem;
     }
 
-=======
-    #rubriques
-    {
-        flex-wrap: wrap;
-        justify-content: center;
-    }
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
     #home-bg{
         background: url("../images/icons/homecircle.png");
         background-repeat: no-repeat;
         background-position: center;
         background-size: contain;
-<<<<<<< HEAD
         }
 
 }
@@ -1008,41 +692,6 @@ button{
     {
         display: flex;
         flex-wrap: wrap;
-=======
-    }
-
-
-
-}
-
-/* PC */
-
-@media screen and (min-width:70rem)
-{
-
-    
-
-    .container_index
-    {
-        align-items: center;
-        text-align: justify;
-        text-align-last: center;
-    }
-        
-    .marge2
-    {
-        margin: 8rem;
-        
-    }
-    .marge
-    {
-        margin: 4rem;
-        margin-top: 8rem;
-    }
-    .container_item 
-    {
-        display: flex;
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
         flex-direction: row;
         justify-content: space-evenly;
         column-gap: 8rem;
@@ -1059,7 +708,6 @@ button{
         max-width: 80rem;
     }
 
-<<<<<<< HEAD
     .category_specific__item
     {
         display: flex;
@@ -1088,46 +736,10 @@ button{
     }
 
     .category_specific__item__group__titlebis
-=======
-    /* Menu */
-
-    .menu
-    {
-        position: static;
-        display: flex;
-        width: inherit;
-        height: inherit;
-        justify-content: flex-end;
-        flex-direction: row;
-        column-gap: 3rem;
-        background-color: inherit;
-        margin-right: 4rem;
-    }
-
-    .menu p 
-    {
-        width: inherit; 
-        text-transform: none;
-        letter-spacing: inherit;
-    }
-
-    label 
-    {
-        display: none;
-    }
-
-    .menu__barre
-    {
-        display: flex; 
-    }
-
-    .barre
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
     {
         display: flex;
     }
 
-<<<<<<< HEAD
     .introduce 
     {
         text-align-last: center;
@@ -1168,54 +780,10 @@ button{
     }
 
     .barre
-=======
-    #nav_button:checked ~ .croix 
-    {
-        display: none;
-    }
-    #rubriques{
-        flex-direction: row;
-    }
-    #fiches-contact{
-        flex-direction: row;
-    }
-    #home-bg{
-        background: url("../images/icons/homecircle.png");
-        background-repeat: no-repeat;
-        background-position: center;
-        background-size: 100% 100%;
-    }
-
-
-    /* Navigation article */
-
-    .container_nav_article
-    {
-        row-gap: 8rem;
-        margin-top: 2rem;  
-       
-    }
-
-    .container_nav_article__item
-    {
-        display: flex;
-        flex-direction: row;
-        row-gap: 6rem;
-        column-gap: 16rem;
-    }
-
-    .container_nav_article__item__title
-    {
-        display: none;
-    }
-
-    .container_nav_article__item__titlebis
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
     {
         display: flex;
     }
 
-<<<<<<< HEAD
     #nav_button:checked ~ .croix 
     {
         display: none;
@@ -1242,30 +810,6 @@ button{
         background-size: 100% 100%;
         }
  
-=======
-    .container_nav_article__item__group
-    {
-        align-items: center;
-        text-align: center;
-        max-width: 24rem;
-    }
-
-            /* styles */
-            
-            .button_red, .button_blue,  .button_purple
-            {
-                margin-top: 2rem;
-            }
-
-            .reverse
-            { 
-                display: flex;
-                flex-direction: row-reverse;
-            }
-
-
-    /* Index */
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 }
   
     
@@ -1274,21 +818,9 @@ button{
 
 
 
-<<<<<<< HEAD
 
 
 .introduce p a
         {
             padding: 0.2rem;
         }
-=======
-.credits 
-{
-    position: absolute;
-    right: 4rem;
-    bottom: 4rem;
-  
-}
-
-
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870

@@ -14,10 +14,6 @@
 <div class="margin_one">
 
     <div class="header">
-<<<<<<< HEAD
-=======
-    <a href="../index.php"> <img src="../assets/images/logo_unseen.svg" alt=""> </a>
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 
     <a href="../index.php"><img src="../assets/images/svg/logo/logo_unseen.svg" alt="logo du site"></a>
 
@@ -40,17 +36,6 @@
                     <span class="barre"></span>                           
                     <div><a href="contact_us.php"> Contact </a></div>
                 </div>
-<<<<<<< HEAD
-=======
-            </label>
-
-            <div class="menu regular_font_text">
-                <p> <a href="../index.php">Accueil</a> </p>
-                <p> <a href="articles.php">Articles</a> </p>
-                <p> <a href="about_us.php">A propos</a> </p>  
-                <div class="barre"></div>                            
-                <p> <a href="contact_us.php">Contact</a> </p>
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
             </div>
 
     </div>
@@ -75,13 +60,8 @@
                 </p>
             </div>
 
-<<<<<<< HEAD
             <div class="article__group">
                 <h2 class="red">Son rôle et ses missions</h2>
-=======
-        <div>
-            <h2 class="red">Son rôle et ses missions</h2>
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 
                 <p>
                     Son rôle est de contrôler la sécurité des applications tant bien mobiles que le backend des sites qui enregistrent des données confidentielles ( <span class="mediumgrey">numéro de cartes bancaires par exemple</span> ). <br><br>
@@ -94,13 +74,8 @@
                 </p>
             </div>
 
-<<<<<<< HEAD
             <div class="article__group">
                 <h2 class="red">Compétences et connaissances</h2>
-=======
-        <div>
-            <h2 class="red">Compétences et connaissances</h2>
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 
                 <p>
                     Le pentester exerce directement au sein des entreprises ( <span class="mediumgrey">les startups comme les grands groupes</span> ), de l’administration ou des cabinets de conseils spécialisés en Sécurité des Systèmes d’informations.
@@ -118,13 +93,8 @@
                 </p>
             </div> 
         
-<<<<<<< HEAD
             <div class="article__group">
                 <h2 class="red">Formation et évolution</h2>
-=======
-        <div>
-            <h2 class="red">Formation et évolution</h2>
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 
                 <p>
                     Le métier de pentester nécessite un bon niveau en informatique. Il peut faire divers formations <br><br>

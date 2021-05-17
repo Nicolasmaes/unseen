@@ -13,11 +13,6 @@
 <body>
 <div class="margin_one">
 
-<<<<<<< HEAD
-=======
-    <div class="header">
-    <a href="../index.php"> <img src="../assets/images/logo_unseen.svg" alt=""> </a>
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 
     <div class="header">
 
@@ -42,17 +37,6 @@
                     <span class="barre"></span>                           
                     <div><a href="contact_us.php"> Contact </a></div>
                 </div>
-<<<<<<< HEAD
-=======
-            </label>
-
-            <div class="menu regular_font_text">
-                <p> <a href="../index.php">Accueil</a> </p>
-                <p> <a href="articles.php">Articles</a> </p>
-                <p> <a href="about_us.php">A propos</a> </p>    
-                <div class="barre"></div>                          
-                <p> <a href="contact_us.php">Contact</a> </p>
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
             </div>
 
     </div>
@@ -74,17 +58,10 @@
 
                 <img src="../assets/images/pictures/paule_picture_one.jpg" alt="Un commercial qui écrit sur un paperboard">
 
-<<<<<<< HEAD
                 <p>    
                     Le Directeur commercial / e-commerce définit la stratégie marketing et commerciale associée au commerce électronique en cohérence avec la stratégie globale et multi-canal de l’entreprise. Il encadre les équipes internes ou coordonne les prestataires externes et pilote les projets afin d’atteindre les objectifs commerciaux fixés par la direction. Ses missions sont diverses et variées. Son objectif étant d’accroitre le trafic et la notoriété du site, fidéliser les internautes.
                 </p>  
             </div> 
-=======
-        <div>
-            <h2 class="red"> Activités principales </h2>
-            <p>
-                Manage ses équipes, est l’intermédiaire entre celles-ci et les autres services de l’entreprise. Assure la création et élabore la stratégie e-commerce de l’entreprise en mettant en place une stratégie marketing online ( <span class="lightgrey">mise en ligne et référencement de toutes les opérations commerciales</span> ). <br><br>
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 
             <div class="article__group">    
                 <h2 class="red"> Activités principales </h2>
@@ -130,13 +107,8 @@
             <div class="article__group">
                 <h2 class="red"> Conclusion </h2>
 
-<<<<<<< HEAD
                 <p>
                     En bref, les activités du directeur commercial ou e-commerce constitue une activité émergente en cours de structuration l’effectif afférent est faible et les activités ne seront que partiels, centré sur le suivi et le développement commercial. <br><br>
-=======
-        <div>
-            <h2 class="red"> Conclusion </h2>
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 
                     Les activités e-commerce peuvent être rattachées à la direction marketing. La mission du directeur e-commerce est de gérer le site sur tous les fronts. Il lui revient de le faire évoluer en permanence auprès de la demande des consommateurs et doit toujours être en veille pour maitriser le e-commerce et augmenter le chiffre d’affaire grâce aux ventes en ligne ou sur mobile de son entreprise en optimisant le site marchand. <br><br>
 

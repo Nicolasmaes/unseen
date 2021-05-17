@@ -14,10 +14,6 @@
 
 
     <div class="header">
-<<<<<<< HEAD
-=======
-    <a href="../index.php"> <img src="../assets/images/logo_unseen.svg" alt=""> </a>
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 
     <a href="../index.php"><img src="../assets/images/svg/logo/logo_unseen.svg" alt="logo du site"></a> 
 
@@ -32,7 +28,6 @@
                     </div>
                 </label>
 
-<<<<<<< HEAD
                 <div class="menu regular_font_text">
                     <div><a href="../index.php"> Accueil </a></div>
                     <div><a href="adam.php" id="link"> Articles </a></div>
@@ -41,14 +36,6 @@
                     <span class="barre"></span>                           
                     <div><a href="contact_us.php"> Contact </a></div>
                 </div>
-=======
-            <div class="menu regular_font_text">
-                <p> <a href="../index.php">Accueil</a> </p>
-                <p> <a href="articles.php">Articles</a> </p>
-                <p> <a href="about_us.php">A propos</a> </p> 
-                <div class="barre"></div>                             
-                <p> <a href="contact_us.php">Contact</a> </p>
->>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
             </div>
 
     </div>
