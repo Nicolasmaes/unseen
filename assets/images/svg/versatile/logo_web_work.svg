@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 292.96 291.36">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a959ec;
+      }
+
+      .cls-2 {
+        fill: #e5e5e5;
+      }
+
+      .cls-3 {
+        fill: #88909f;
+      }
+
+      .cls-4 {
+        fill: #c3c9d0;
+      }
+
+      .cls-5 {
+        fill: #afbbc7;
+      }
+
+      .cls-6 {
+        fill: #7cff61;
+      }
+
+      .cls-7 {
+        fill: #ff435e;
+      }
+
+      .cls-8 {
+        fill: none;
+      }
+
+      .cls-9 {
+        fill: #3d3134;
+      }
+    </style>
+  </defs>
+  <g id="bubble">
+    <path id="Background" class="cls-1" d="M297.18,142.18c2.7,24.12-12.35,46.87-30.56,75.21a186,186,0,0,1-53.75,54.54c-22.25,14.57-48.63,25.82-73.54,22.84-24.81-2.81-48.18-19.58-73.14-36.92S14.54,222.68,7.06,198.7C-.59,174.84,11,144.83,17.32,112,21.25,91.59,45,44.39,97.13,19.69,136.63,1,196.78-5.15,226.39,24c12.2,12,6.32,17.32,25.54,50.38C278.26,119.68,294.57,118.8,297.18,142.18Z" transform="translate(-4.54 -3.89)"/>
+  </g>
+  <g id="clavier">
+    <g id="background-2" data-name="background">
+      <rect class="cls-2" x="71.46" y="116.11" width="148" height="62"/>
+      <rect class="cls-3" x="81.46" y="127.11" width="88" height="6"/>
+      <rect class="cls-3" x="80.46" y="142.11" width="49" height="26"/>
+      <rect class="cls-3" x="141.46" y="161.11" width="27" height="7"/>
+      <rect class="cls-3" x="151.46" y="152.11" width="8" height="7"/>
+      <rect class="cls-3" x="181.46" y="142.11" width="28" height="26"/>
+      <rect class="cls-3" x="180.46" y="126.11" width="29" height="7"/>
+      <rect class="cls-4" x="71.46" y="174.11" width="148" height="4"/>
+      <rect class="cls-4" x="78.46" y="135.11" width="94" height="2"/>
+      <rect class="cls-4" x="178.46" y="135.11" width="34" height="2"/>
+      <rect class="cls-5" x="180.46" y="151.11" width="20" height="18"/>
+      <rect class="cls-5" x="91.46" y="161.11" width="28" height="7"/>
+      <rect class="cls-5" x="90.46" y="127.11" width="9" height="6"/>
+      <rect class="cls-5" x="110.46" y="127.11" width="9" height="7"/>
+      <rect class="cls-5" x="120.46" y="127.11" width="9" height="6"/>
+      <rect class="cls-5" x="141.46" y="126.11" width="8" height="8"/>
+      <rect class="cls-5" x="160.46" y="127.11" width="10" height="7"/>
+      <rect class="cls-6" x="191.46" y="127.11" width="9" height="6"/>
+      <rect class="cls-7" x="200.46" y="127.11" width="10" height="6"/>
+    </g>
+    <g id="border">
+      <g>
+        <rect class="cls-8" x="72.52" y="118.11" width="145.89" height="59"/>
+        <path class="cls-9" d="M225,118H75a2,2,0,0,0-2,2v63a2,2,0,0,0,2,2H225a2,2,0,0,0,2-2V120A2,2,0,0,0,225,118Zm-2,63H77.05V122H223Z" transform="translate(-4.54 -3.89)"/>
+      </g>
+    </g>
+    <g id="top">
+      <g>
+        <rect class="cls-8" x="122.46" y="128.11" width="6" height="4"/>
+        <rect class="cls-8" x="102.46" y="128.11" width="6" height="4"/>
+        <rect class="cls-8" x="112.46" y="128.11" width="6" height="4"/>
+        <rect class="cls-8" x="92.46" y="128.11" width="6" height="4"/>
+        <rect class="cls-8" x="82.46" y="128.11" width="6" height="4"/>
+        <rect class="cls-8" x="162.46" y="128.11" width="6" height="4"/>
+        <rect class="cls-8" x="132.46" y="128.11" width="6" height="4"/>
+        <rect class="cls-8" x="142.46" y="128.11" width="6" height="4"/>
+        <rect class="cls-8" x="152.46" y="128.11" width="6" height="4"/>
+        <path class="cls-9" d="M83,128v12h94V128Zm4,8v-4h6v4Zm10,0v-4h6v4Zm10,0v-4h6v4Zm10,0v-4h6v4Zm10,0v-4h6v4Zm10,0v-4h6v4Zm10,0v-4h6v4Zm10,0v-4h6v4Zm16,0h-6v-4h6Z" transform="translate(-4.54 -3.89)"/>
+      </g>
+    </g>
+    <g id="clavier-2" data-name="clavier">
+      <g>
+        <rect class="cls-8" x="92.46" y="153.11" width="6" height="5"/>
+        <rect class="cls-8" x="122.46" y="153.11" width="6" height="5"/>
+        <rect class="cls-8" x="82.46" y="153.11" width="6" height="5"/>
+        <rect class="cls-8" x="102.46" y="153.11" width="6" height="5"/>
+        <rect class="cls-8" x="112.46" y="144.11" width="6" height="5"/>
+        <rect class="cls-8" x="112.46" y="153.11" width="6" height="5"/>
+        <rect class="cls-8" x="102.46" y="144.11" width="6" height="5"/>
+        <rect class="cls-8" x="122.46" y="162.11" width="6" height="5"/>
+        <rect class="cls-8" x="122.46" y="144.11" width="6" height="5"/>
+        <rect class="cls-8" x="92.46" y="144.11" width="6" height="5"/>
+        <rect class="cls-8" x="82.46" y="162.11" width="6" height="5"/>
+        <rect class="cls-8" x="82.46" y="144.11" width="6" height="5"/>
+        <rect class="cls-8" x="92.46" y="162.11" width="26" height="5"/>
+        <path class="cls-9" d="M83,144v31h54V144Zm40,4v5h-6v-5Zm0,14h-6v-5h6Zm4-5h6v5h-6Zm-30,0h6v5H97Zm-4,5H87v-5h6Zm14-5h6v5h-6Zm6-9v5h-6v-5Zm-10,0v5H97v-5Zm-10,0v5H87v-5Zm-6,23v-5h6v5Zm10,0v-5h26v5Zm30,0v-5h6v5Zm6-18h-6v-5h6Z" transform="translate(-4.54 -3.89)"/>
+      </g>
+    </g>
+    <g id="flèches">
+      <g>
+        <rect class="cls-8" x="152.46" y="162.11" width="6" height="5"/>
+        <rect class="cls-8" x="142.46" y="162.11" width="6" height="5"/>
+        <rect class="cls-8" x="152.46" y="153.11" width="6" height="5"/>
+        <rect class="cls-8" x="162.46" y="162.11" width="6" height="5"/>
+        <path class="cls-9" d="M167,162v-9H153v9H143v13h34V162Zm-14,9h-6v-5h6Zm10,0h-6v-5h6Zm0-9h-6v-5h6Zm10,9h-6v-5h6Z" transform="translate(-4.54 -3.89)"/>
+      </g>
+    </g>
+    <g id="bouton">
+      <g>
+        <rect class="cls-8" x="192.46" y="128.11" width="6" height="4"/>
+        <rect class="cls-8" x="182.46" y="128.11" width="6" height="4"/>
+        <rect class="cls-8" x="202.46" y="128.11" width="6" height="4"/>
+        <path class="cls-9" d="M183,128v12h34V128Zm4,8v-4h6v4Zm10,0v-4h6v4Zm16,0h-6v-4h6Z" transform="translate(-4.54 -3.89)"/>
+      </g>
+    </g>
+    <g id="chiffre">
+      <g>
+        <rect class="cls-8" x="182.46" y="153.11" width="6" height="5"/>
+        <rect class="cls-8" x="182.46" y="144.11" width="6" height="5"/>
+        <rect class="cls-8" x="202.46" y="153.11" width="6" height="5"/>
+        <rect class="cls-8" x="192.46" y="153.11" width="6" height="5"/>
+        <rect class="cls-8" x="192.46" y="144.11" width="6" height="5"/>
+        <rect class="cls-8" x="202.46" y="144.11" width="6" height="5"/>
+        <rect class="cls-8" x="182.46" y="162.11" width="6" height="5"/>
+        <rect class="cls-8" x="202.46" y="162.11" width="6" height="5"/>
+        <rect class="cls-8" x="192.46" y="162.11" width="6" height="5"/>
+        <path class="cls-9" d="M183,144v31h34V144Zm20,4v5h-6v-5Zm0,14h-6v-5h6Zm4-5h6v5h-6Zm-14,5h-6v-5h6Zm0-14v5h-6v-5Zm-6,23v-5h6v5Zm10,0v-5h6v5Zm10,0v-5h6v5Zm6-18h-6v-5h6Z" transform="translate(-4.54 -3.89)"/>
+      </g>
+    </g>
+  </g>
+</svg>

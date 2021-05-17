@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 281.56 265.4">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a959ec;
+      }
+
+      .cls-2 {
+        fill: #ec5971;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #3d3134;
+      }
+
+      .cls-5 {
+        opacity: 0.16;
+      }
+    </style>
+  </defs>
+  <g id="Background">
+    <path class="cls-1" d="M279.06,85.29c7.33,19.9,8.54,37.62,9.38,73.69.59,25.69.71,38.54-1.95,47.27-14.64,48.2-77.59,80.23-120.57,70.85-6.67-1.46-6.48-2.52-16.4-4.8-37.09-8.51-51.84,6.58-71-2C56.71,260.6,46.19,241,30.19,211.22c-14.66-27.3-23.19-45.2-23-71,.34-37.18,24-62.66,28.19-67.28C46.79,60.5,70.87,50.17,119,29.51c31.37-13.45,38.08-14.85,44.62-15.57,35.43-3.93,62.89,12.35,70.06,16.65A108.78,108.78,0,0,1,279.06,85.29Z" transform="translate(-7.23 -13.33)"/>
+  </g>
+  <g id="Calque_9" data-name="Calque 9">
+    <rect class="cls-2" x="89.77" y="90.67" width="116" height="22"/>
+    <rect class="cls-3" x="88.77" y="113.67" width="117" height="66"/>
+  </g>
+  <g id="Calque_6" data-name="Calque 6">
+    <path class="cls-4" d="M212,101H98a4,4,0,0,0-4,4v87a4,4,0,0,0,4,4H212a4,4,0,0,0,4-4V105A4,4,0,0,0,212,101Zm0,89a2,2,0,0,1-2,2H100a2,2,0,0,1-2-2V107a2,2,0,0,1,2-2H210a2,2,0,0,1,2,2Z" transform="translate(-7.23 -13.33)"/>
+  </g>
+  <g id="Calque_7" data-name="Calque 7">
+    <rect class="cls-4" x="90.77" y="111.67" width="114" height="4"/>
+    <rect class="cls-4" x="98.77" y="99.67" width="53" height="4" rx="2"/>
+    <rect class="cls-4" x="117.53" y="156.5" width="21.95" height="4" rx="2" transform="translate(322.79 113.14) rotate(120)"/>
+    <rect class="cls-4" x="153.77" y="130.67" width="40" height="4" rx="2"/>
+    <rect class="cls-4" x="153.77" y="138.67" width="12" height="4" rx="2"/>
+    <rect class="cls-4" x="171.77" y="138.67" width="21" height="4" rx="2"/>
+    <rect class="cls-4" x="153.77" y="160.67" width="40" height="4" rx="2"/>
+    <rect class="cls-4" x="153.77" y="152.67" width="22" height="4" rx="2"/>
+    <rect class="cls-4" x="105" y="153" width="14" height="4" rx="2" transform="translate(-84.02 111.26) rotate(-45)"/>
+    <rect class="cls-4" x="105" y="160.08" width="14" height="4" rx="2" transform="translate(69.36 342.56) rotate(-135)"/>
+    <rect class="cls-4" x="137.67" y="153.04" width="14" height="4" rx="2" transform="translate(130.11 353.63) rotate(-135)"/>
+    <rect class="cls-4" x="137.67" y="160.12" width="14" height="4" rx="2" transform="translate(-79.49 136.45) rotate(-45)"/>
+    <rect class="cls-4" x="177.77" y="100.67" width="4" height="4"/>
+    <rect class="cls-4" x="185.77" y="100.67" width="4" height="4"/>
+    <rect class="cls-4" x="193.77" y="100.67" width="4" height="4"/>
+    <rect class="cls-5" x="90.77" y="90.67" width="20" height="88"/>
+  </g>
+</svg>
