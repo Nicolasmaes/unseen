@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="Unseen" content="Site regroupant des articles concernant les métiers du numériques">
     <link rel="stylesheet" href="../assets/style/styles.css">
-    <link rel="shortcut icon" href="../assets/images/icons/favicon2.png" type="image/x-icon">
+    <link rel="shortcut icon" href="../assets/images/icons/un.png" type="image/x-icon">
     <title>Les agences de communication</title>
 </head>
 
@@ -37,6 +37,17 @@
                     <span class="barre"></span>                           
                     <div><a href="contact_us.php"> Contact </a></div>
                 </div>
+<<<<<<< HEAD
+=======
+            </label>
+
+            <div class="menu regular_font_text">
+                <p> <a href="../index.php">Accueil</a> </p>
+                <p> <a href="articles.php">Articles</a> </p>
+                <p> <a href="about_us.php">A propos</a> </p>   
+                <div class="barre"></div>                           
+                <p> <a href="contact_us.php">Contact</a> </p>
+>>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
             </div>
 
     </div>
@@ -61,8 +72,13 @@
                 </p>
             </div>
 
+<<<<<<< HEAD
             <div class="article__group">
                 <h2 class="purple">Quelles sont les structures pourvoyeuses d’emploi dans le secteur du numérique ?</h2>
+=======
+        <div>
+            <h2 class="purple">Quelles sont les structures pourvoyeuses d’emploi dans le secteur du numérique ?</h2>
+>>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 
                 <p>
                     La communication externe se traduit par l’ensemble des processus et actions menés à destination de la clientèle actuelle d’une entreprise et de sa clientèle potentielle ( <span class="mediumgrey">le grand public</span> ). L’agence de communication se charge de faire connaître l’entreprise qui l’a sollicité auprès des consommateurs et entretien la communication entre celle-ci et ses clients acquis. La communication externe fait partie intégrante de la construction de l’identité d’une entreprise et lui permet de se différencier de la concurrence. Il s’agit d’un indéniable pilier dans la construction de la notoriété d’une structure et de son image.<br><br>
@@ -71,7 +87,11 @@
                 </p>
             </div>
         
+<<<<<<< HEAD
         <div class="article__group">
+=======
+        <div>
+>>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
             <h2 class="purple">Quels sont les différents métiers qui composent l’organigramme d’une agence de communication ?</h2>
            
             <p>

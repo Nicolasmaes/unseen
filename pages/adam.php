@@ -6,15 +6,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="Unseen" content="Site regroupant des articles concernant les métiers du numériques">
     <link rel="stylesheet" href="../assets/style/styles.css">
-    <link rel="shortcut icon" href="../assets/images/icons/favicon2.png" type="image/x-icon">
+    <link rel="shortcut icon" href="../assets/images/icons/un.png" type="image/x-icon">
     <title>Web designer</title>
 </head>
 
 <body>
 <div class="margin_one">
 
+<<<<<<< HEAD
 
     <div class="header">
+=======
+    <div class="header">
+    <a href="../index.php" target="_blank"> <img src="../assets/images/logo_unseen.svg" alt=""> </a>
+        <div class="tool">
+            <input class="cocher" type="checkbox" id="nav_button">
+>>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 
     <a href="../index.php"><img src="../assets/images/svg/logo/logo_unseen.svg" alt="logo du site"></a>
 
@@ -37,6 +44,17 @@
                     <span class="barre"></span>                           
                     <div><a href="contact_us.php"> Contact </a></div>
                 </div>
+<<<<<<< HEAD
+=======
+            </label>
+
+            <div class="menu regular_font_text">
+                <p> <a href="../index.php">Accueil</a> </p>
+                <p> <a href="articles.php">Articles</a> </p>
+                <p> <a href="about_us.php">A propos</a> </p> 
+                <div class="barre"></div>                             
+                <p> <a href="contact_us.php">Contact</a> </p>
+>>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
             </div>
 
     </div>
@@ -49,8 +67,12 @@
                 <p> Article réalisé et rédigé par <a href="https://github.com/Onetouch59" target="_blank"><span class="lightgrey">Adam B</span> .</a></p>
             </div>
 
+<<<<<<< HEAD
             <div class="article__group">
                 <h2 class="purple"> Son rôle </h2>
+=======
+            <h2 class="purple"> Son rôle </h2>
+>>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 
                 <p>    
                     C’est de concevoir le graphisme d’un site ou d’un produit sur une page web. Le webdesigner appelé également infographiste ou graphiste est, selon la formule consacrée, « <span class="bold">le créatif multimédia du numérique</span> ». C’est lui qui va traduire en style graphique le brief du client. <br><br>
@@ -67,8 +89,13 @@
                 </p> 
             </div> 
 
+<<<<<<< HEAD
             <div class="article__group">
                 <h2 class="purple"> Prérequis </h2>
+=======
+        <div>
+            <h2 class="purple"> Prérequis </h2>
+>>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 
                 <p>
                     Avoir une bonne sensibilité visuelle, s’intéresser aux tendances graphiques du moment, ce qui suppose aussi une ouverture culturelle tous azimuts. <br><br>
@@ -82,8 +109,13 @@
             <div class="article__group">
                 <h2 class="purple"> Evolution </h2>
 
+<<<<<<< HEAD
                 <p>
                     Le webdesigner est proche de l’ergonome, spécialiste de l’expérience utilisateur ( <span class="mediumgrey">UX / UI Design</span> ) <br><br>
+=======
+        <div>
+            <h2 class="purple"> Evolution </h2>
+>>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 
                     Il travaille aussi de près avec l’intégrateur web qui va coder, c’est-à-dire réaliser techniquement un site web ou une appli avec le langage informatique adapté pour mettre en ligne le visuel imaginé par le webdesigner. Le graphiste web qui maîtrise lui-même ces langages aura donc une corde de plus à son arc pour se mettre à son compte ou créer sa propre agence. <br><br>
                     

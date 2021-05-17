@@ -6,13 +6,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="Unseen" content="Site regroupant des articles concernant les métiers du numériques">
     <link rel="stylesheet" href="../assets/style/styles.css">
-    <link rel="shortcut icon" href="../assets/images/icons/favicon2.png" type="image/x-icon">
+    <link rel="shortcut icon" href="../assets/images/icons/un.png" type="image/x-icon">
     <title>Chef de projet</title>
 </head>
 
 <body>
 <div class="margin_one">
 
+<<<<<<< HEAD
+=======
+    <div class="header">
+    <a href="../index.php"> <img src="../assets/images/logo_unseen.svg" alt=""> </a>
+>>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 
     <div class="header">
 
@@ -37,6 +42,17 @@
                     <span class="barre"></span>                           
                     <div><a href="contact_us.php"> Contact </a></div>
                 </div>
+<<<<<<< HEAD
+=======
+            </label>
+
+            <div class="menu regular_font_text">
+                <p> <a href="../index.php">Accueil</a> </p>
+                <p> <a href="articles.php">Articles</a> </p>
+                <p> <a href="about_us.php">A propos</a> </p> 
+                <div class="barre"></div>                             
+                <p> <a href="contact_us.php">Contact</a> </p>
+>>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
             </div>
 
     </div>
@@ -49,10 +65,42 @@
                 <p> Article réalisé et rédigé par <a href="https://github.com/nathbout2" target="_blank"> <span class="lightgrey">Nathan B</span> .</a></p>
             </div>
 
+<<<<<<< HEAD
             <div class="article__group">
                 <p>
                     Le chef de projet a pour mission principale de prendre en main le cahier des charges d’un projet et de le mettre en œuvre en analysant les besoins, réalisant des reportings. Le travail en équipe est primordial pour ce professionnel. 
                 </p>
+=======
+            <p>
+            Le chef de projet a pour mission principale de prendre en main le cahier des charges d’un projet et de le mettre en œuvre en analysant les besoins, réalisant des reportings. Le travail en équipe est primordial pour ce professionnel. 
+            </p>
+
+            <img src="../assets/images/pictures/nathan-1.jpg" alt="couv">
+
+            <p>
+            En effet, le directeur de projet est en relation avec les différents employés d’une entreprise  (graphistes, assistants-chefs de projet, chefs de produit, développeurs web, intégrateurs ) il est amené a leur confie des missions pour mener à bien le projet.
+            </p>
+        </div>
+
+        <div>
+            <h2 class="red">Qu’est-ce qu’un chef de projet numerique ?</h2>
+
+            <p>
+            Le Chef de Projet Numérique est le coordinateur de l’ensemble des étapes relatives à la réalisation d’un projet internet ou mobile : généralement sur des projets de sites web ou d’applications mobiles. Mais il peut également intervenir sur bien d’autres projets comme des bases de données, du brand content, de la création de contenu, du référencement, des programmes d’affiliation, ou encore toute spécificité du secteur du webmarketing. Ce chef d’orchestre polyvalent fait le lien entre les différentes équipes de l’entreprise dans laquelle il est en poste et les partenaires externes au projet.
+            </p>
+
+            <p>
+                <span class="bold"> Ses missions sont : </span> <br><br>
+
+                <span class="line">
+                Il élabore un cahier des charges précis et prépare un calendrier précis des différentes étapes du projet <br>
+                Il travaille en collaboration avec les clients pour connaître leurs attentes <br>
+                Il organise des réunions avec les différents salariés pour connaître leur expertise sur des sujets qui concernent son projet <br>
+                Il prend en compte les délais afin de respecter la feuille de route de son projet <br>
+                </span>
+            </p>
+        </div>
+>>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 
                 <img src="../assets/images/pictures/nathan_picture_two.jpg" alt="couv">
 
@@ -61,8 +109,40 @@
                 </p>
             </div>
 
+<<<<<<< HEAD
             <div class="article__group">
                 <h2 class="red">Qu’est-ce qu’un chef de projet numerique ?</h2>
+=======
+        <div>
+            <h2 class="red"> Comment accéder a ce métier ?</h2>
+
+            <p> De nombreuses formations peuvent mener au métier de chef de projet numérique. </p>
+
+            <p>
+                <span class="bold"> Bac + 2 </span> <br><br>
+
+                <span class="line">
+                BTS édition <br>
+                BTS réalisation de produits imprimés et plurimédia option A productions graphiques options B productions imprimées <br>
+                BTS SIO – services informatiques aux organisations ( <span class="lightgrey">+ formation en édition</span> )
+                </span>
+            </p> 
+
+            <p>
+                <span class="bold"> Bac + 3 </span> <br><br>
+
+                <span class="line">
+                BUT informatique ( <span class="lightgrey">+ formation en édition</span> ) <br>
+                BUT IC – information-communication option métiers du livre <br>
+                Licence pro métiers du design <br>
+                Différents parcours : management de projets en communication et industries graphiques ( <span class="lightgrey">UPEM</span> ) <br>
+                Licence pro métiers du numérique conception, rédaction, réalisation web. <br>
+                Différents parcours : développeur web et mobile. <br>
+                Licence pro métiers du livre : édition et commerce du livre. <br>
+                Différents parcours : chargé de projet d’édition numérique ( <span class="lightgrey"> Asfored en partenariat avec l’IUT Paris Descartes ( uniquement en apprentissage</span> ) <br>
+                </span>
+            </p> 
+>>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 
                 <p>
                     Le Chef de Projet Numérique est le coordinateur de l’ensemble des étapes relatives à la réalisation d’un projet internet ou mobile : généralement sur des projets de sites web ou d’applications mobiles. Mais il peut également intervenir sur bien d’autres projets comme des bases de données, du brand content, de la création de contenu, du référencement, des programmes d’affiliation, ou encore toute spécificité du secteur du webmarketing. Ce chef d’orchestre polyvalent fait le lien entre les différentes équipes de l’entreprise dans laquelle il est en poste et les partenaires externes au projet. <br><br><br>
@@ -115,8 +195,13 @@
                 </p>
             </div>
 
+<<<<<<< HEAD
             <div class="article__group">
                 <h2 class="red"> Ai-je les qualités et compétences nécessaires ? </h2>
+=======
+        <div>
+            <h2 class="red"> Ai-je les qualités et compétences nécessaires ? </h2>
+>>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 
                 <p>
                     Il doit prendre en compte les compétences de chacun et leur donner des missions cohérentes avec cela. À l’écoute, il possède de grandes capacités d’organisation. Il doit également être rigoureux. C’est même le garant de la rigueur en termes de temps, de budget, de ressources… du projet.
@@ -137,8 +222,13 @@
             <div class="article__group">
                 <h2 class="red"> Où puis-je exercer ? Paris, Lyon ou à la campagne ? </h2>
 
+<<<<<<< HEAD
                 <p>
                     Il peut travailler dans une entreprise web et être chargé de différents projets à la suite. Il peut-être également  prestataire et travailler sur les projets d’entreprises clientes. Mais il est également possible de travailler en tant que free-lance et de mener ainsi plusieurs projets de front. <br><br>
+=======
+        <div>
+            <h2 class="red"> Où puis-je exercer ? Paris, Lyon ou à la campagne ? </h2>
+>>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 
                     Si tu a toute ces qualités lance toi, les métiers du numérique évoluent tout les jours.
                 </p>

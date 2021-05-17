@@ -5,12 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="Unseen" content="Site regroupant des articles concernant les métiers du numériques">
     <link rel="stylesheet" href="../assets/style/styles.css">
+    <link rel="shortcut icon" href="../assets/images/icons/un.png" type="image/x-icon">
     <title>Graphiste web</title>
 </head>
 
 <body>
 <div class="margin_one">
 
+<<<<<<< HEAD
+=======
+    <div class="header">
+    <a href="../index.php"> <img src="../assets/images/logo_unseen.svg" alt=""> </a>
+>>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 
     <div class="header">
 
@@ -35,6 +41,17 @@
                     <span class="barre"></span>                           
                     <div><a href="contact_us.php"> Contact </a></div>
                 </div>
+<<<<<<< HEAD
+=======
+            </label>
+
+            <div class="menu regular_font_text">
+                <p> <a href="../index.php">Accueil</a> </p>
+                <p> <a href="articles.php">Articles</a> </p>
+                <p> <a href="about_us.php">A propos</a> </p>  
+                <div class="barre"></div>                            
+                <p> <a href="contact_us.php">Contact</a> </p>
+>>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
             </div>
 
     </div>
@@ -47,6 +64,7 @@
                 <p> Article réalisé et rédigé par <a href="https://github.com/Rolland42"> <span class="lightgrey"> Sonia R </span> </a>. </p> 
             </div>
 
+<<<<<<< HEAD
             <div class="article__group">
                 <p>
                     Le graphiste est un spécialiste de la communication, il élabore l’univers graphique d’un produit, d’une entreprise, et lui donne une identité visuelle. <br>
@@ -100,6 +118,40 @@
                     Pourtant, au moment de vous pencher sur un nouveau projet, vous devez réussir à garder tout cela dans l’arrière-plan de votre cerveau. Le danger encouru, à trop vous renseigner sur les travaux des autres, c’est de vous laisser phagocyter par eux. Inconsciemment, vous les laissez vous influencer, et cela d’autant plus qu’il vous suffit d’un clic de souris pour les visionner au beau milieu de votre propre création. Un cahier de dessin vous affranchit de cette tentation et vous aide à rester original. 
                 </p>
             </div>
+=======
+            <p>
+                Le graphiste est un spécialiste de la communication, il élabore l’univers graphique d’un produit, d’une entreprise, et lui donne une identité visuelle. <br>
+                Il transforme des idées en images, afin de faire passer un message au public, à travers ses réalisations graphiques ( <span class="lightgrey">logo, affiche, emballage, site internet</span> ). <br><br>
+
+                Il identifie et analyse la demande d’un client puis élabore un concept en rapport avec l’attente de son interlocuteur et le message à communiquer. <br> 
+                S’ensuivent alors la création de la charte graphique ( <span class="lightgrey"> définition des couleurs, de la typographie, du papier </span> ) et la réalisation ( <span class="lightgrey"> conception et création, exécution et impression </span> ).
+            </p>
+
+            <img src="../assets/images/pictures/photo_6.jpg" alt="Artiste qui dessine sur tablette">
+
+            <p>    
+                Son environnement est ouvert, il peut travailler dans tous les secteurs d’activité, de la publicité jusqu’à l’imagerie médicale. <br><br>
+
+                <span class="lightgrey line"> 
+                    Il peut être salarié en agence, en entreprise, ou free-lance. <br> 
+                    Il fait parti d’une équipe dirigée par un chef de projet ou un directeur artistique.
+                </span>
+                <br><br><br>
+
+
+                Le graphiste est curieux de nature ce qu’il lui permet d’exercer sa créativité, il a également une sensibilité dans le milieu artistique. Il a une bonne capacité d’adaptation pour répondre aux demandes des clients. <br><br>
+                
+                <span class="lightgrey line"> 
+                    Son rythme de travail est très soutenu, il jongle entre plusieurs projets, clients et délais. <br> 
+                    Il a des horaires assez réguliers mais fait souvent des heures supplémentaires en entreprise. <br>
+                    En free-lance, le graphiste est libre de choisir ses horaires, il doit également trouver plus de clients et gérer son entreprise.
+                </span>
+            </p>  
+        </div>  
+
+        <div>
+            <h2 class="blue"> Ces outils de créations </h2>
+>>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 
             <p>
                 Première photo par <a href="https://unsplash.com/@kellysikkema"> <span class="lightgrey"> Kelly Sikkema </span> </a> - Seconde photo par <a href="https://unsplash.com/@bradneathery"> <span class="lightgrey"> Brad Neathery </span> </a>. <br>

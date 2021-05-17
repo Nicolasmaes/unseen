@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="Unseen" content="Site regroupant des articles concernant les métiers du numériques">
     <link rel="stylesheet" href="../assets/style/styles.css">
-    <link rel="shortcut icon" href="../assets/images/icons/favicon2.png" type="image/x-icon">
+    <link rel="shortcut icon" href="../assets/images/icons/un.png" type="image/x-icon">
     <title>Community manager</title>
 </head>
 
@@ -21,6 +21,7 @@
             <div class="tool">
                 <input class="cocher" type="checkbox" id="nav_button">
 
+<<<<<<< HEAD
                 <label for="nav_button" class="croix">x</label>
                 <label for="nav_button" class="hamburger">
                     <div class="hamburger_icon">
@@ -37,6 +38,14 @@
                     <span class="barre"></span>                           
                     <div><a href="contact_us.php"> Contact </a></div>
                 </div>
+=======
+            <div class="menu regular_font_text">
+                <p> <a href="../index.php">Accueil</a> </p>
+                <p> <a href="articles.php">Articles</a> </p>
+                <p> <a href="about_us.php">A propos</a> </p>   
+                <div class="barre"></div>                           
+                <p> <a href="contact_us.php">Contact</a> </p>
+>>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
             </div>
 
     </div>
@@ -62,8 +71,13 @@
                 </p>
             </div>  
 
+<<<<<<< HEAD
             <div class="article__group">
                 <h2 class="purple"> En quoi consiste son travail ? </h2>
+=======
+        <div>
+            <h2 class="purple"> En quoi consiste son travail ? </h2>
+>>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 
                 <p>
                     Pour atteindre son objectif, un community manager se voit confier plusieurs responsabilités : <br><br>
@@ -76,6 +90,7 @@
 
                 <img src="../assets/images/pictures/herve_picture_two.jpg" alt="reunion de travail">
 
+<<<<<<< HEAD
                 <p>
                     La rédaction du contenu pour chaque plateforme, réseau social choisi. <br> 
                     La veille concurrentielle. <br>
@@ -92,6 +107,21 @@
                 Devenir community manager à l’aube des années 2010 était un parcours du combattant. Le peu de formations étant concentrées sur Paris, de nombreux profils passionnés par le rôle ont appris seul. Le métiers est donc souvent appris en auto-formations.
                 </p>
             </div>
+=======
+            <p>
+                <span class="line">
+                La rédaction du contenu pour chaque plateforme, réseau social choisi. <br> 
+                La veille concurrentielle. <br>
+                L’e-reputation de la marque. <br>
+                Le reporting des actions menées. <br>
+                L’administratif, la comptabilité, le commercial ( <span class="lightgrey">prospection et suivi</span> ) pour le community manager freelance.
+                </span>
+            </p>
+        </div> 
+
+        <div>   
+            <h2 class="purple"> Devenir community manager </h2>
+>>>>>>> 6ae21aa8848f4e193f675d2e35f28c3f45e90870
 
             <p>
                 Première photo par <a href="https://unsplash.com/@austindistel" target="_blank"> <span class="lightgrey"> Austin Distel </span> </a> - Seconde photo par <a href="https://unsplash.com/@dylandgillis" target="_blank"> <span class="lightgrey"> Dylan Gillis </span> </a>. <br>
