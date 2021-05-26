@@ -47,8 +47,6 @@
             <div class="luc-contact">
                 <h1>Luc</h1>
                 <ul>
-                    <li>0782******</a></li>
-                    <li><a href="mailto:luc.leneuf@hotmail.fr">luc.leneuf@hotmail.fr</a></li>
                     <li><a href="https://github.com/LucLeneuf"target="_blank">github.com/LucLeneuf</a></li>
                     <li><a href="https://ll-book.fr"target="_blank">ll-book.fr</a></li>
                 </ul>
@@ -56,8 +54,6 @@
             <div class="nico-contact">
                 <h1>Nicolas</h1>
                 <ul>
-                    <li>0619******</li>
-                    <li><a href="mailto:contact@nicolasmaes.fr">n.maes@codeur.online</a></li>
                     <li><a href="https://github.com/Nicolasmaes"target="_blank">github.com/Nicolasmaes</a></li>
                     <li><a href="https://www.nicolasmaes.fr" target="_blank">nicolasmaes.fr</a></li>
                 </ul>
