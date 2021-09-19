@@ -54,11 +54,6 @@
             <div class="nico-contact">
                 <h1>Nicolas</h1>
                 <ul>
-<<<<<<< HEAD
-=======
-                    <li>0619****39</li>
-                    <li><a href="mailto:contact@nicolasmaes.fr">n.maes@codeur.online</a></li>
->>>>>>> 185a88e4762eea5ae671f972d05a7c452f343c6b
                     <li><a href="https://github.com/Nicolasmaes"target="_blank">github.com/Nicolasmaes</a></li>
                     <li><a href="https://www.nicolasmaes.fr" target="_blank">nicolasmaes.fr</a></li>
                 </ul>
